@@ -1,17 +1,14 @@
 # Linux question & answers
 
-tag:
-  - klg
-
 qas:
 
-- que: 
+- que:
   - install ubuntu dose not respond
   - can not install ubuntu
   ans:
   - At startup selection screen, press F6, then unselect all the fork options.
 
-- que: 
+- que:
   - how to modify screen brightness
   - how to change screen backlight
   ans:
@@ -607,7 +604,7 @@ qas:
    - Close all folds: zM
    - Expand entire function: zO
 
-- que: 
+- que:
   - vim how to access system clipboard
   ans: |
    - Be sure to install the vim-gnome, otherwise you can not operate the system clipboard
