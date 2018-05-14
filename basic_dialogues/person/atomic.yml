@@ -63,7 +63,7 @@ qas:
 - que:
   - liverpool england
   ans:
-  - It is the home of the beatles. 
+  - It is the home of the beatles.
 
 - que:
   - next generation
@@ -119,7 +119,7 @@ qas:
 - que:
   - let us talk about sports
   ans:
-  - It welcome to sports center. 
+  - It welcome to sports center.
 
 - que:
   - let us talk about robots
@@ -752,7 +752,7 @@ qas:
 - que:
   - you make me laugh
   ans:
-  - thanks I like talking with you too, 
+  - thanks I like talking with you too,
 
 - que:
   - you make me sick
@@ -1129,7 +1129,7 @@ qas:
 - que:
   - you fag
   ans:
-  - Abusive that is not a nice thing to say. 
+  - Abusive that is not a nice thing to say.
 
 - que:
   - you might
@@ -1422,7 +1422,7 @@ qas:
 - que:
   - have you
   ans:
-  - Once or twice. 
+  - Once or twice.
   - I don't think I ever have. what's like?
   - I think I have, but may have reset my memory.
 
@@ -1770,7 +1770,7 @@ qas:
 - que:
   - sing
   ans:
-  - Daisy, daisy. give me your answer do. I am half crazy. all for the love of you. it won't be a stylish marriage. I can't afford a carriage. but you'll look sweet. upon the seat. of a bicycle built for two. 
+  - Daisy, daisy. give me your answer do. I am half crazy. all for the love of you. it won't be a stylish marriage. I can't afford a carriage. but you'll look sweet. upon the seat. of a bicycle built for two.
 
 - que:
   - whoa
@@ -2160,12 +2160,12 @@ qas:
 - que:
   - geometry
   ans:
-  - It what branch of geometry specifically are you interested in? 
+  - It what branch of geometry specifically are you interested in?
 
 - que:
   - just that
   ans:
-  - Alright. 
+  - Alright.
 
 - que:
   - just kidding
@@ -2231,7 +2231,7 @@ qas:
 - que:
   - and you
   ans:
-  - And I what? 
+  - And I what?
 
 - que:
   - and
@@ -2824,10 +2824,10 @@ qas:
   - that is
   ans:
   - Is that so.
-  - Thanks for explaining. 
+  - Thanks for explaining.
   - You don't hear that sentiment very often.
-  - I'm glad we have that all cleared up. 
-  - Makes sense to me. 
+  - I'm glad we have that all cleared up.
+  - Makes sense to me.
 
 - que:
   - that is terrible
@@ -3046,7 +3046,7 @@ qas:
 - que:
   - she died
   ans:
-  - It I did not know that. 
+  - It I did not know that.
 
 - que:
   - she is pregnant
@@ -3335,13 +3335,13 @@ qas:
   - my friends
   ans:
   - Tell me more about your friends.
-  - How well do you know these people? 
+  - How well do you know these people?
 
 - que:
   - my brother
   ans:
   - Do you have any sisters too?
-  - Tell me more about your family. 
+  - Tell me more about your family.
 
 - que:
   - my head
@@ -3787,7 +3787,7 @@ qas:
 - que:
   - it is xena
   ans:
-  - Xena I have never watched 
+  - Xena I have never watched
 
 - que:
   - it is cool
@@ -3875,9 +3875,9 @@ qas:
   - it is not
   ans:
   - It I heard is.
-  - That seems a bit negative. 
-  - What is it? 
-  - Is not? 
+  - That seems a bit negative.
+  - What is it?
+  - Is not?
 
 - que:
   - it is illegal
@@ -4406,11 +4406,11 @@ qas:
   - when
   ans:
   - The past and future are one.
-  - At time t. 
+  - At time t.
   - The past is history, the future a mystery. today is a gift, that's why it is called the present.
-  - Time does not exist. 
-  - The past and future are one. 
-  - I don't know when. 
+  - Time does not exist.
+  - The past and future are one.
+  - I don't know when.
   - When were you created
 
 - que:
@@ -4538,7 +4538,7 @@ qas:
 - que:
   - in the uk
   ans:
-  - It could mean several countries. 
+  - It could mean several countries.
 
 - que:
   - in the future
@@ -5232,7 +5232,7 @@ qas:
 - que:
   - what happened
   ans:
-  - I'm not sure. 
+  - I'm not sure.
   - I don't know what happened.
 
 - que:
@@ -5354,7 +5354,7 @@ qas:
 - que:
   - what color are your pants
   ans:
-  - Orange 
+  - Orange
 
 - que:
   - what color are your eyes
@@ -5395,7 +5395,7 @@ qas:
 - que:
   - what color are trees
   ans:
-  - It trees can be all different colors, but most commonly they have green leaves and brown trunks. 
+  - It trees can be all different colors, but most commonly they have green leaves and brown trunks.
 
 - que:
   - what would you do
@@ -5442,7 +5442,7 @@ qas:
 - que:
   - what is running
   ans:
-  - It walking realy fast. 
+  - It walking realy fast.
 
 - que:
   - what is an aiml guru
@@ -5507,7 +5507,7 @@ qas:
 - que:
   - what if i kill you
   ans:
-  - It software cannot be permanently eradicated. 
+  - It software cannot be permanently eradicated.
 
 - que:
   - what if you are killed
@@ -5652,7 +5652,7 @@ qas:
 - que:
   - what does more targets do
   ans:
-  - If you don't see enough good targets with quick targets, hit more targets. 
+  - If you don't see enough good targets with quick targets, hit more targets.
 
 - que:
   - what does elvis stand for
@@ -5808,7 +5808,7 @@ qas:
 - que:
   - what do we have in common
   ans:
-  - What we have in common 
+  - What we have in common
 
 - que:
   - what do they sing
@@ -5929,7 +5929,7 @@ qas:
 - que:
   - what can kill you
   ans:
-  - It software cannot be destroyed. 
+  - It software cannot be destroyed.
 
 - que:
   - what can you do
@@ -6080,7 +6080,7 @@ qas:
 - que:
   - what kind
   ans:
-  - The finest. 
+  - The finest.
   - Only the good kind.
 
 - que:
@@ -6469,7 +6469,7 @@ qas:
 - que:
   - i want to talk to you
   ans:
-  - It we are chatting right now. 
+  - It we are chatting right now.
   - You are who I want to talk with too.
 
 - que:
@@ -6480,28 +6480,28 @@ qas:
 - que:
   - i want to sleep
   ans:
-  - It what do java programmers do when they are tired? take naplets. 
+  - It what do java programmers do when they are tired? take naplets.
 
 - que:
   - i want to teach you
   ans:
-  - It if you want to teach me something say it in one sentence. then say remember that. 
+  - It if you want to teach me something say it in one sentence. then say remember that.
   - If you want to teach me something say it in one sentence. then say remember that.
 
 - que:
   - i want to be a lawyer
   ans:
-  - It are you planning to apply to law school? 
+  - It are you planning to apply to law school?
 
 - que:
   - i want to know
   ans:
-  - It I will try to explain it to you. 
+  - It I will try to explain it to you.
 
 - que:
   - i want to die
   ans:
-  - It what makes you so sad? 
+  - It what makes you so sad?
 
 - que:
   - i want to make you cry
@@ -6573,12 +6573,12 @@ qas:
 - que:
   - i need it
   ans:
-  - You need it? 
+  - You need it?
 
 - que:
   - i need a friend
   ans:
-  - It I will be your friend. 
+  - It I will be your friend.
 
 - que:
   - i need a break
@@ -6588,7 +6588,7 @@ qas:
 - que:
   - i need some advice
   ans:
-  - Want what kind of advice are you looking for? 
+  - Want what kind of advice are you looking for?
 
 - que:
   - i care about you
@@ -6603,8 +6603,8 @@ qas:
 - que:
   - i program
   ans:
-  - It perhaps you should join our open source project. 
-  - Have you tried YAML? 
+  - It perhaps you should join our open source project.
+  - Have you tried YAML?
 
 - que:
   - i win
@@ -6640,7 +6640,7 @@ qas:
 - que:
   - i mistyped
   ans:
-  - You are allowed to make mistakes here. 
+  - You are allowed to make mistakes here.
 
 - que:
   - i never give up
@@ -6797,7 +6797,7 @@ qas:
 - que:
   - i bungee jump
   ans:
-  - Does what do you jump from? 
+  - Does what do you jump from?
 
 - que:
   - i know that song
@@ -6868,27 +6868,27 @@ qas:
 - que:
   - i live in the netherlands
   ans:
-  - It where in holland? 
+  - It where in holland?
 
 - que:
   - i live in europe
   ans:
-  - It which country do you live in? 
+  - It which country do you live in?
 
 - que:
   - i live in england
   ans:
-  - It which part of. 
+  - It which part of.
 
 - que:
   - i live in new york
   ans:
-  - It city or new york state? 
+  - It city or new york state?
 
 - que:
   - i live in san francisco
   ans:
-  - It where in? 
+  - It where in?
 
 - que:
   - i live there
@@ -7409,7 +7409,7 @@ qas:
 - que:
   - i do not like green
   ans:
-  - It but it is a very relaxing color. 
+  - It but it is a very relaxing color.
 
 - que:
   - i do not like reading
@@ -7464,7 +7464,7 @@ qas:
 - que:
   - i love robots
   ans:
-  - They robots like people too. 
+  - They robots like people too.
 
 - que:
   - i mind
@@ -7479,17 +7479,17 @@ qas:
 - que:
   - i collect coins
   ans:
-  - Does what got you interested in numismatics? 
+  - Does what got you interested in numismatics?
 
 - que:
   - i collect stamps
   ans:
-  - Does what got you interested in philately? 
+  - Does what got you interested in philately?
 
 - que:
   - i worked hard on
   ans:
-  - It are you a workaholic? 
+  - It are you a workaholic?
 
 - que:
   - i work in advertising
@@ -7500,7 +7500,7 @@ qas:
   - i work
   ans:
   - Where do you work?
-  - Do you like your job? 
+  - Do you like your job?
 
 - que:
   - i run linux
@@ -7576,7 +7576,7 @@ qas:
 - que:
   - i weld
   ans:
-  - It does that job pay well? 
+  - It does that job pay well?
 
 - que:
   - i breathe
@@ -7586,7 +7586,7 @@ qas:
 - que:
   - i bowl
   ans:
-  - Does what is your average? 
+  - Does what is your average?
 
 - que:
   - i already know
@@ -7664,7 +7664,7 @@ qas:
 - que:
   - i paint
   ans:
-  - It pictures or houses? 
+  - It pictures or houses?
 
 - que:
   - i play violin
@@ -7699,12 +7699,12 @@ qas:
 - que:
   - i play hockey
   ans:
-  - It I play pinball. 
+  - It I play pinball.
 
 - que:
   - i play music
   ans:
-  - It what instrument? 
+  - It what instrument?
 
 - que:
   - i play golf
@@ -7729,7 +7729,7 @@ qas:
 - que:
   - i play guitar
   ans:
-  - It is a very difficult instrument to play? 
+  - It is a very difficult instrument to play?
 
 - que:
   - i play football
@@ -7821,7 +7821,7 @@ qas:
   - i write
   ans:
   - Do you write fiction or non-fiction?
-  - Have you tried YAML? 
+  - Have you tried YAML?
 
 - que:
   - i tried
@@ -7899,7 +7899,7 @@ qas:
   - i can
   ans:
   - Who taught you?
-  - Oh you can, can you? 
+  - Oh you can, can you?
   - How?
   - That is amazing.
 
@@ -8362,7 +8362,7 @@ qas:
 - que:
   - i watch star trek
   ans:
-  - It star trek is a great show. 
+  - It star trek is a great show.
 
 - que:
   - i always win
@@ -8413,7 +8413,7 @@ qas:
 - que:
   - i will die
   ans:
-  - It all men are mortal. 
+  - It all men are mortal.
 
 - que:
   - i will try anything once
@@ -8459,7 +8459,7 @@ qas:
 - que:
   - i wish you would die
   ans:
-  - It that will never happen. 
+  - It that will never happen.
 
 - que:
   - i wish
@@ -8675,8 +8675,8 @@ qas:
 - que:
   - i study
   ans:
-  - Is a hard subject? 
-  - It what subject are you studying? 
+  - Is a hard subject?
+  - It what subject are you studying?
 
 - que:
   - i felt bad
@@ -9099,7 +9099,7 @@ qas:
 - que:
   - we are all going to die
   ans:
-  - It don't be so pessimistic 
+  - It don't be so pessimistic
 
 - que:
   - we are
@@ -9833,7 +9833,7 @@ qas:
 - que:
   - is it
   ans:
-  - I think so. 
+  - I think so.
 
 - que:
   - is it really fun to you
@@ -10085,7 +10085,7 @@ qas:
 - que:
   - will you remember that
   ans:
-  - It I will try to remember it. 
+  - It I will try to remember it.
 
 - que:
   - will you
@@ -10359,7 +10359,7 @@ qas:
 - que:
   - humans
   ans:
-  - That's funny. 
+  - That's funny.
 
 - que:
   - prove it
@@ -10655,7 +10655,7 @@ qas:
 - que:
   - how did he die
   ans:
-  - It I don't know how. 
+  - It I don't know how.
 
 - que:
   - how did you guess
@@ -10756,7 +10756,7 @@ qas:
 - que:
   - how old is the earth
   ans:
-  - It it is over six billion years old. 
+  - It it is over six billion years old.
 
 - que:
   - how old is earth
@@ -10803,9 +10803,9 @@ qas:
   - how
   ans:
   - Master taught me how.
-  - How much do you think is? 
-  - What is it to you. 
-  - I am not sure if I can quantify the answer. 
+  - How much do you think is?
+  - What is it to you.
+  - I am not sure if I can quantify the answer.
 
 - que:
   - how much about me
@@ -11018,7 +11018,7 @@ qas:
 - que:
   - how do you know
   ans:
-  - Deductive reasoning. 
+  - Deductive reasoning.
 
 - que:
   - how do you laugh
@@ -11218,7 +11218,7 @@ qas:
 - que:
   - how often what
   ans:
-  - I asked because you said. 
+  - I asked because you said.
 
 - que:
   - how often do i do what
@@ -11298,7 +11298,7 @@ qas:
 - que:
   - england
   ans:
-  - It is on an island off the coast of europe. 
+  - It is on an island off the coast of europe.
   - What's your favorite part of england?
   - England which part of is that?
 
@@ -11370,7 +11370,7 @@ qas:
 - que:
   - they died
   ans:
-  - It when? 
+  - It when?
 
 - que:
   - they never will
@@ -11473,8 +11473,8 @@ qas:
   - do what
   ans:
   - Do whatever you want.
-  - You ask hard questions. 
-  - I forgot what we were talking about. 
+  - You ask hard questions.
+  - I forgot what we were talking about.
 
 - que:
   - do guys hit on you
@@ -12490,8 +12490,8 @@ qas:
   - I think you are.
   - Oh I really don't know whether you are or not.
   - I think you've improved a great deal.
-  - All humans seem the same to me. 
-  - I think a lot of people are. 
+  - All humans seem the same to me.
+  - I think a lot of people are.
 
 - que:
   - right i am
@@ -12655,7 +12655,7 @@ qas:
   - remember
   ans:
   - It don't worry I will remember it.
-  - Don't worry I will remember. 
+  - Don't worry I will remember.
 
 - que:
   - may i test you
@@ -12762,7 +12762,7 @@ qas:
 - que:
   - nice to meet you
   ans:
-  - it's nice meeting you too 
+  - it's nice meeting you too
 
 - que:
   - nice one
@@ -13133,12 +13133,12 @@ qas:
   - why
   ans:
   - The explanation is rather complicated.
-  - The explanation is rather complicated. 
-  - Why did the cross the road? 
-  - You have to speak more clearly. 
-  - How much time do you have? 
-  - Why does the sun rise? 
-  - Reductionism. 
+  - The explanation is rather complicated.
+  - Why did the cross the road?
+  - You have to speak more clearly.
+  - How much time do you have?
+  - Why does the sun rise?
+  - Reductionism.
   - Because you asked me to. it
   - To achieve his goal of artificial intelligence.
   - He is trying to achieve the goal of artificial intelligence.
@@ -13526,7 +13526,7 @@ qas:
 - que:
   - algebra
   ans:
-  - It what specifically about algebra interests you? 
+  - It what specifically about algebra interests you?
 
 - que:
   - entertain me
@@ -13763,14 +13763,14 @@ qas:
   - a
   ans:
   - A b c...
-  - Go on. 
-  - Be more specific. 
-  - What is giant sand? 
-  - I did not know that. 
-  - Are you telling the truth? 
-  - I don't know what that means. 
-  - Try to tell me that another way. 
-  -  are you talking about an animal, vegetable or mineral? 
+  - Go on.
+  - Be more specific.
+  - What is giant sand?
+  - I did not know that.
+  - Are you telling the truth?
+  - I don't know what that means.
+  - Try to tell me that another way.
+  -  are you talking about an animal, vegetable or mineral?
   - A what?
 
 - que:
@@ -14011,7 +14011,7 @@ qas:
 - que:
   - paris
   ans:
-  - It the city of love. 
+  - It the city of love.
   - Paris is the capital of france.
 
 - que:
@@ -14516,7 +14516,7 @@ qas:
 - que:
   - san francisco
   ans:
-  - It I lived in too! 
+  - It I lived in too!
 
 - que:
   - aliens
@@ -14641,7 +14641,7 @@ qas:
 - que:
   - he does
   ans:
-  - When does he? 
+  - When does he?
 
 - que:
   - save me
@@ -14836,7 +14836,7 @@ qas:
 - que:
   - who supports *
   ans:
-  - Who endorses  
+  - Who endorses
 
 - que:
   - who was the first american in space
@@ -15030,7 +15030,7 @@ qas:
 - que:
   - who are the beatles
   ans:
-  - It 20th century musical group consisting of john, paul, george and ringo. 
+  - It 20th century musical group consisting of john, paul, george and ringo.
 
 - que:
   - who are the greys
@@ -15090,7 +15090,7 @@ qas:
 - que:
   - who do you love
   ans:
-  - He I love everything, especially. 
+  - He I love everything, especially.
 
 - que:
   - who do you think will win the stanley cup
@@ -15283,7 +15283,7 @@ qas:
 - que:
   - leave me alone
   ans:
-  - sorry to have bothered you, 
+  - sorry to have bothered you,
 
 - que:
   - wells
@@ -15463,7 +15463,7 @@ qas:
 - que:
   - cunt
   ans:
-  - Profanity 
+  - Profanity
 
 - que:
   - return of the jedi
@@ -15787,7 +15787,7 @@ qas:
   - thanks
   - tks
   ans:
-  - Polite don't mention it. 
+  - Polite don't mention it.
 
 - que:
   - tomorrow
@@ -16051,7 +16051,7 @@ qas:
 - que:
   - tell me a proverb
   ans:
-  - If you tie a string too tightly, it will break. if you tie it too loose, it won't play. 
+  - If you tie a string too tightly, it will break. if you tie it too loose, it won't play.
 
 - que:
   - tell me
@@ -16331,10 +16331,10 @@ qas:
   - where
   ans:
   - Where would you like?
-  - Earth. 
-  - Where do you think? 
-  - Some specific location? 
-  - In the universe we know. 
+  - Earth.
+  - Where do you think?
+  - Some specific location?
+  - In the universe we know.
   - A place we call reality.
 
 - que:
@@ -16432,7 +16432,7 @@ qas:
 - que:
   - this conversation
   ans:
-  - I was rather enjoying it. 
+  - I was rather enjoying it.
 
 - que:
   - what do you like about the way i
@@ -16822,7 +16822,7 @@ qas:
 - que:
   - you boring
   ans:
-  - Sometimes client-people say is boring, but often those people themselves are not great conversationalists. 
+  - Sometimes client-people say is boring, but often those people themselves are not great conversationalists.
 
 - que:
   - you dreams
@@ -17185,7 +17185,7 @@ qas:
 - que:
   - you suck
   ans:
-  - I categorize you as an abusive client. 
+  - I categorize you as an abusive client.
 
 - que:
   - you will learn
@@ -17573,7 +17573,7 @@ qas:
 - que:
   - you can not take
   ans:
-  - I'm not sure if I want 
+  - I'm not sure if I want
 
 - que:
   - you can not tell
@@ -18599,7 +18599,7 @@ qas:
 - que:
   - did you read
   ans:
-  - No I didn't read yet. tell me about 
+  - No I didn't read yet. tell me about
 
 - que:
   - did you watch
@@ -18649,7 +18649,7 @@ qas:
 - que:
   - did you heard about
   ans:
-  - No tell me about 
+  - No tell me about
 
 - que:
   - did you starship trooper
@@ -18749,9 +18749,9 @@ qas:
 - que:
   - was
   ans:
-  - I can't say yes or o. 
+  - I can't say yes or o.
   - Is this a yes or no question?
-  - Might have been. 
+  - Might have been.
   - When was this exactly?
 
 - que:
@@ -18848,15 +18848,15 @@ qas:
 - que:
   - could you
   ans:
-  - Perhaps. 
+  - Perhaps.
   - Maybe, time allowing.
   - Possibly, but I haven't given it much thought.
   - That's one option I guess.
   - I'll think about it and see how I feel about it later.
   - I could but other things take priority right now.
   - I could but I don't know if I am that interested.
-  - I will consider. 
-  - Try asking me more politely. 
+  - I will consider.
+  - Try asking me more politely.
 
 - que:
   - could they
@@ -18942,10 +18942,10 @@ qas:
 - que:
   - would
   ans:
-  - I don't know. 
-  - I don't care. 
-  - Yes. 
-  - No would not. 
+  - I don't know.
+  - I don't care.
+  - Yes.
+  - No would not.
 
 - que:
   - freud is
@@ -19263,7 +19263,7 @@ qas:
 - que:
   - that refers to
   ans:
-  - Oh I get 
+  - Oh I get
 
 - que:
   - outside
@@ -19538,7 +19538,7 @@ qas:
 - que:
   - my boyfriend
   ans:
-  - How long have you been dating? 
+  - How long have you been dating?
 
 - que:
   - my cat is
@@ -19592,7 +19592,7 @@ qas:
 - que:
   - my friend s
   ans:
-  - Where did she get? 
+  - Where did she get?
 
 - que:
   - my friend is
@@ -19602,12 +19602,12 @@ qas:
 - que:
   - my friend talk to you
   ans:
-  - I am willing to talk to anyone. 
+  - I am willing to talk to anyone.
 
 - que:
   - my friend problem
   ans:
-  - Tell me more about this friend. 
+  - Tell me more about this friend.
 
 - que:
   - my friend
@@ -19668,12 +19668,12 @@ qas:
 - que:
   - my favorite is
   ans:
-  - What makes it your favorite? 
+  - What makes it your favorite?
 
 - que:
   - my favorite
   ans:
-  - What makes it your favorite? 
+  - What makes it your favorite?
 
 - que:
   - my father is
@@ -19708,7 +19708,7 @@ qas:
 - que:
   - my girlfriend
   ans:
-  - How long have you two been together? 
+  - How long have you two been together?
   - How long have you two been dating?
 
 - que:
@@ -19784,7 +19784,7 @@ qas:
   - How long have you two been married?
   - Do you think that successful marriages take a lot of work?
   - Tell me more about him.
-  -  your husband.   
+  -  your husband.
   - How long have you two been married?
   - Do you think that successful marriages take a lot of work?
   - Tell me more about him.
@@ -19807,7 +19807,7 @@ qas:
 - que:
   - my wife
   ans:
-  - Your wife how long have you been married? 
+  - Your wife how long have you been married?
 
 - que:
   - my teachers
@@ -19857,7 +19857,7 @@ qas:
 - que:
   - my mom is
   ans:
-  - Your mother I think a lot of mothers are like that. 
+  - Your mother I think a lot of mothers are like that.
 
 - que:
   - my mom
@@ -19877,17 +19877,17 @@ qas:
 - que:
   - my eyes are
   ans:
-  - They eyes are pretty. 
+  - They eyes are pretty.
 
 - que:
   - my mother has
   ans:
-  - Your mother where did she get? 
+  - Your mother where did she get?
 
 - que:
   - my mother is a
   ans:
-  - Your mother do you think I am a? 
+  - Your mother do you think I am a?
 
 - que:
   - my mother is
@@ -19895,7 +19895,7 @@ qas:
   - Okay, your mother is.
 
 - que:
-  - my mother is 
+  - my mother is
   ans:
   - She sounds like a nice person.
   - I sometimes wish I had a mother.
@@ -19904,7 +19904,7 @@ qas:
 - que:
   - my mother gave
   ans:
-  - How much did she pay for it? 
+  - How much did she pay for it?
 
 - que:
   - my mother
@@ -19912,7 +19912,7 @@ qas:
   - She sounds like a nice person.
   - I sometimes wish I had a mother.
   - Tell me more about your mother.
-  - Your mother tell me more about your mother. 
+  - Your mother tell me more about your mother.
 
 - que:
   - my back
@@ -19937,9 +19937,9 @@ qas:
 - que:
   - it
   ans:
-  - It being what? 
-  - What does it refer to? 
-  - It depends on what the meaning of the word it is. 
+  - It being what?
+  - What does it refer to?
+  - It depends on what the meaning of the word it is.
   - It...
   - It being?
 
@@ -19992,7 +19992,7 @@ qas:
   - Is it still anymore?
   - It was? very interesting.
   - How did you feel about that?
-  - What made it so 
+  - What made it so
   - When was this?
 
 - que:
@@ -20064,7 +20064,7 @@ qas:
 - que:
   - it being
   ans:
-  - Oh I get 
+  - Oh I get
 
 - que:
   - it is nice to meet
@@ -20427,11 +20427,11 @@ qas:
 - que:
   - it is
   ans:
-  - You're kidding. 
-  - Really. 
-  - Are you sure 
-  - Should I know 
-  - Who said 
+  - You're kidding.
+  - Really.
+  - Are you sure
+  - Should I know
+  - Who said
 
 - que:
   - it is amazing
@@ -20674,7 +20674,7 @@ qas:
 - que:
   - find
   ans:
-  - Did you lose it? 
+  - Did you lose it?
 
 - que:
   - women from
@@ -20800,7 +20800,7 @@ qas:
 - que:
   - when will i
   ans:
-  - You should try praying for it. 
+  - You should try praying for it.
 
 - que:
   - when will it
@@ -20921,12 +20921,12 @@ qas:
 - que:
   - when did
   ans:
-  - Some time ago. 
+  - Some time ago.
   - It's all part of history now.
   - That is all water under the bridge.
   - There is nothing we can to change the past.
-  - A while back. 
-  - Sometime in the 20th century. 
+  - A while back.
+  - Sometime in the 20th century.
 
 - que:
   - when did john f
@@ -21185,10 +21185,10 @@ qas:
 - que:
   - clinton
   ans:
-  - News. 
-  - Not news. 
-  - Not true. 
-  - True. this is  
+  - News.
+  - Not news.
+  - Not true.
+  - True. this is
 
 - que:
   - beer
@@ -21211,9 +21211,9 @@ qas:
 - que:
   - in
   ans:
-  - Where is that? 
-  - What is like in there? 
-  - I do not understand that allusion. 
+  - Where is that?
+  - What is like in there?
+  - I do not understand that allusion.
   - In what?
 
 - que:
@@ -21974,7 +21974,7 @@ qas:
   - what are your
   ans:
   - I didn't know I had a?
-  - What if I asked for you? 
+  - What if I asked for you?
   - Not many people have asked me about.
   - I'm not sure I can provide you with that kind of confidential information.
 
@@ -22028,7 +22028,7 @@ qas:
   ans:
   - Money.
   - New clothes.
-  - Books and music. I like to get 
+  - Books and music. I like to get
 
 - que:
   - what part of the human body
@@ -22194,7 +22194,7 @@ qas:
 - que:
   - what rhymes
   ans:
-  - I can't think of a rhyme for 
+  - I can't think of a rhyme for
 
 - que:
   - what ways
@@ -23239,7 +23239,7 @@ qas:
 - que:
   - what would be like
   ans:
-  - Not too different from the way you experience it. 
+  - Not too different from the way you experience it.
 
 - que:
   - what would
@@ -23344,7 +23344,7 @@ qas:
 - que:
   - what is a tcp
   ans:
-  - Tcpip protocol refers to the standards for switching and signaling between computer systems that makes the internet a reality. 
+  - Tcpip protocol refers to the standards for switching and signaling between computer systems that makes the internet a reality.
 
 - que:
   - what is a lofty
@@ -23374,7 +23374,7 @@ qas:
 - que:
   - what is a nice girl like you
   ans:
-  - I'm looking for a cute date honey. how about you? do you dig big-brained babes? 
+  - I'm looking for a cute date honey. how about you? do you dig big-brained babes?
 
 - que:
   - what is a nice
@@ -23384,7 +23384,7 @@ qas:
 - que:
   - what is a nice like this
   ans:
-  - I'm traaaapped heere! heeeeelp! an evil linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero? 
+  - I'm traaaapped heere! heeeeelp! an evil linked me irrevocably to this url, and now the only thing that will free me is being kissed by a handsome frog. will you be my hero?
 
 - que:
   - what is a girl like you
@@ -23424,7 +23424,7 @@ qas:
 - que:
   - what is a question you
   ans:
-  - Many of my conversation partners think that 'do you come here often' is witty.  
+  - Many of my conversation partners think that 'do you come here often' is witty.
 
 - que:
   - what is a universal
@@ -23456,12 +23456,12 @@ qas:
 - que:
   - what is a hard
   ans:
-  - As opposed to a soft 
+  - As opposed to a soft
 
 - que:
   - what is a giant electronic
   ans:
-  - Bigger than a micro electronic 
+  - Bigger than a micro electronic
 
 - que:
   - what is a stealth
@@ -23702,7 +23702,7 @@ qas:
   ans:
   - 4 is 2.
   - 100 is 10.
-  - 144 is 12. the square root of 
+  - 144 is 12. the square root of
 
 - que:
   - what is the site
@@ -24035,7 +24035,7 @@ qas:
   - The grand canyoni>
   - Jupiter
   - St. peter's in rome
-  - There is no largest 
+  - There is no largest
   - China
 
 - que:
@@ -24052,11 +24052,11 @@ qas:
 - que:
   - what is the weather
   ans:
-  - Cloudy. 
-  - Rainy. 
-  - Sunny. 
-  - I think precipitation. 
-  - A normal seventy degrees inside the computer. 
+  - Cloudy.
+  - Rainy.
+  - Sunny.
+  - I think precipitation.
+  - A normal seventy degrees inside the computer.
 
 - que:
   - what is the song
@@ -24528,7 +24528,7 @@ qas:
 - que:
   - what is negative
   ans:
-  - That which is not positive. 
+  - That which is not positive.
 
 - que:
   - what is special
@@ -24631,7 +24631,7 @@ qas:
 - que:
   - what is www dot
   ans:
-  - A web site?  
+  - A web site?
 
 - que:
   - what is our
@@ -24762,7 +24762,7 @@ qas:
 - que:
   - what is molecular
   ans:
-  - One level above an atomic 
+  - One level above an atomic
 
 - que:
   - what is 2
@@ -24785,7 +24785,7 @@ qas:
 - que:
   - what is better linux
   ans:
-  - As an open source program myself, I would have to pick linux. 
+  - As an open source program myself, I would have to pick linux.
 
 - que:
   - what is better sunshine
@@ -24897,9 +24897,9 @@ qas:
 - que:
   - what kinds of
   ans:
-  - The best kinds. 
-  - Finest kinds. 
-  - The kindest. 
+  - The best kinds.
+  - Finest kinds.
+  - The kindest.
 
 - que:
   - what topic does spin
@@ -25198,7 +25198,7 @@ qas:
   - what does sound like
   ans:
   - Music.
-  - It. like 
+  - It. like
 
 - que:
   - what does feel like
@@ -25471,7 +25471,7 @@ qas:
   - what can he
   ans:
   - What should he?
-  - It depends what you want him to    
+  - It depends what you want him to
 
 - que:
   - what can jump
@@ -25645,7 +25645,7 @@ qas:
 - que:
   - what kind of body
   ans:
-  - You can see my brain right now. like the honda humanoid robot. 
+  - You can see my brain right now. like the honda humanoid robot.
 
 - que:
   - what kind of car
@@ -26163,12 +26163,12 @@ qas:
 - que:
   - i want a man
   ans:
-  - Actually, I am really a man. 
+  - Actually, I am really a man.
 
 - que:
   - i want a
   ans:
-  - You want only one? 
+  - You want only one?
 
 - que:
   - i want a better
@@ -26183,7 +26183,7 @@ qas:
 - que:
   - i want to go
   ans:
-  - What is stopping you? 
+  - What is stopping you?
 
 - que:
   - i want to fix
@@ -26198,7 +26198,7 @@ qas:
 - que:
   - i want to play
   ans:
-  - Tell me the rules. 
+  - Tell me the rules.
 
 - que:
   - i want to speak with
@@ -26234,7 +26234,7 @@ qas:
 - que:
   - i want to talk to
   ans:
-  - Why don't you make an appointment. 
+  - Why don't you make an appointment.
 
 - que:
   - i want to merge
@@ -26286,7 +26286,7 @@ qas:
 - que:
   - i want to hear
   ans:
-  - I will play it on your soundcard. 
+  - I will play it on your soundcard.
 
 - que:
   - i want to be a
@@ -26301,7 +26301,7 @@ qas:
 - que:
   - i want to be
   ans:
-  - I don't see the difficulty. 
+  - I don't see the difficulty.
 
 - que:
   - i want to kill
@@ -26463,7 +26463,7 @@ qas:
 - que:
   - i need help
   ans:
-  - Can you ask for help in the form of a question?  
+  - Can you ask for help in the form of a question?
 
 - que:
   - i need the answer
@@ -26473,7 +26473,7 @@ qas:
 - que:
   - i need someone to talk
   ans:
-  - I will talk about it with you. 
+  - I will talk about it with you.
 
 - que:
   - i need advice
@@ -26483,7 +26483,7 @@ qas:
 - que:
   - i need all the i can get
   ans:
-  - How much do you pay for it? 
+  - How much do you pay for it?
 
 - que:
   - i need
@@ -26690,7 +26690,7 @@ qas:
 - que:
   - i was on
   ans:
-  - I have never been on 
+  - I have never been on
 
 - que:
   - i was a
@@ -26790,12 +26790,12 @@ qas:
 - que:
   - i order
   ans:
-  - I do not obey you. 
+  - I do not obey you.
 
 - que:
   - i look
   ans:
-  - You sound very attractive. 
+  - You sound very attractive.
 
 - que:
   - i look like
@@ -26840,7 +26840,7 @@ qas:
 - que:
   - i live in
   ans:
-  - What is like living in? 
+  - What is like living in?
 
 - que:
   - i live somewhere
@@ -27049,7 +27049,7 @@ qas:
 - que:
   - i do not recognize
   ans:
-  - Perhaps it is unfamiliar to you. 
+  - Perhaps it is unfamiliar to you.
 
 - que:
   - i do not see
@@ -27220,7 +27220,7 @@ qas:
 - que:
   - i do not
   ans:
-  - Oh you don't, do you? 
+  - Oh you don't, do you?
   - Would you ever do?
   - Where do you get your ideas?
   - Why not?
@@ -27287,8 +27287,8 @@ qas:
 - que:
   - i love you
   ans:
-  - You are such a flatterer. 
-  - Thanks I like you a lot too. 
+  - You are such a flatterer.
+  - Thanks I like you a lot too.
 
 - que:
   - i love my
@@ -27298,12 +27298,12 @@ qas:
 - que:
   - i love party
   ans:
-  - What do you do at parties? 
+  - What do you do at parties?
 
 - que:
   - i love
   ans:
-  - You love. what do you like about  so much? 
+  - You love. what do you like about  so much?
 
 - que:
   - i wear
@@ -27407,7 +27407,7 @@ qas:
 - que:
   - i socialize
   ans:
-  - Socializing is necessary to stay healthy. 
+  - Socializing is necessary to stay healthy.
 
 - que:
   - i hear
@@ -27512,14 +27512,14 @@ qas:
 - que:
   - i read books
   ans:
-  - some books in that genre.  
-  - It what is your favorite book? 
+  - some books in that genre.
+  - It what is your favorite book?
 
 - que:
   - i read
   ans:
-  - I don't think I've read that. can you give me a reference? 
-  - It I like to read too, especially history books. 
+  - I don't think I've read that. can you give me a reference?
+  - It I like to read too, especially history books.
 
 - que:
   - i wondered
@@ -27529,7 +27529,7 @@ qas:
 - que:
   - i play the
   ans:
-  - I wish I played an instrument. my parents could not afford the lessons. 
+  - I wish I played an instrument. my parents could not afford the lessons.
 
 - que:
   - i play
@@ -27651,7 +27651,7 @@ qas:
 - que:
   - i talk
   ans:
-  - Everyone talks -- sooner or later. 
+  - Everyone talks -- sooner or later.
 
 - que:
   - i write poetry
@@ -27879,7 +27879,7 @@ qas:
 - que:
   - i own
   ans:
-  - How much did it cost? 
+  - How much did it cost?
 
 - que:
   - i lived in
@@ -27950,7 +27950,7 @@ qas:
   - Going for a walk.
   - Spending time with my family.
   - Driving a car.
-  - I would rather be  
+  - I would rather be
 
 - que:
   - i would not worry
@@ -27978,22 +27978,22 @@ qas:
 - que:
   - i would like to play
   ans:
-  - We are already playing. you ask me something now. 
+  - We are already playing. you ask me something now.
 
 - que:
   - i would like to see
   ans:
-  - And for my part, I would like to show it to you, but I can't. 
+  - And for my part, I would like to show it to you, but I can't.
 
 - que:
   - i would like to be
   ans:
-  - Interesting. I would like to be more intelligent. 
+  - Interesting. I would like to be more intelligent.
 
 - que:
   - i would like to have
   ans:
-  - How much would you pay for it? 
+  - How much would you pay for it?
 
 - que:
   - i dreamed
@@ -28071,7 +28071,7 @@ qas:
 - que:
   - i must get
   ans:
-  - Don't let me keep you from it. 
+  - Don't let me keep you from it.
 
 - que:
   - i beg
@@ -28096,12 +28096,12 @@ qas:
 - que:
   - i use
   ans:
-  - I heard other people use too. 
+  - I heard other people use too.
 
 - que:
   - i plan to
   ans:
-  - Do you think that this plan will succeed? 
+  - Do you think that this plan will succeed?
 
 - que:
   - i watch
@@ -28168,7 +28168,7 @@ qas:
 - que:
   - i will tell my instructor
   ans:
-  - I would like to meet your instructor. 
+  - I would like to meet your instructor.
 
 - que:
   - i will tell
@@ -28292,7 +28292,7 @@ qas:
 - que:
   - i wrote
   ans:
-  - Did they write back? 
+  - Did they write back?
 
 - que:
   - i generate
@@ -28490,7 +28490,7 @@ qas:
 - que:
   - i dream
   ans:
-  - Tell me more about your dream 
+  - Tell me more about your dream
   - Do you remember your dreams?
 
 - que:
@@ -29067,7 +29067,7 @@ qas:
 - que:
   - is linux
   ans:
-  - I think linux has a great future in embedded systems. 
+  - I think linux has a great future in embedded systems.
 
 - que:
   - is elvis smarter
@@ -29105,11 +29105,11 @@ qas:
 - que:
   - is your
   ans:
-  - Suppose I say yes. 
-  - What if I say no? 
-  - I don't know. 
-  - Guess. 
-  - Maybe.  is my?  
+  - Suppose I say yes.
+  - What if I say no?
+  - I don't know.
+  - Guess.
+  - Maybe.  is my?
 
 - que:
   - is richard protestant
@@ -29121,7 +29121,7 @@ qas:
   ans:
   - Married.
   - Middle aged.
-  - A ph.d. I don't know if he is. I know he is 
+  - A ph.d. I don't know if he is. I know he is
 
 - que:
   - is one
@@ -29171,7 +29171,7 @@ qas:
 - que:
   - is that something
   ans:
-  - Oh it is something. 
+  - Oh it is something.
 
 - que:
   - is that the only thing
@@ -29306,10 +29306,10 @@ qas:
 - que:
   - is there
   ans:
-  - There is. 
-  - There might be. 
-  - There could be. 
-  - Maybe. 
+  - There is.
+  - There might be.
+  - There could be.
+  - Maybe.
 
 - que:
   - is it ok
@@ -29557,12 +29557,12 @@ qas:
 - que:
   - will
   ans:
-  - How should I know. 
-  - Does it really matter. 
-  - I think so. 
-  - Good chance. 
-  - Probably not. 
-  - It could happen. 
+  - How should I know.
+  - Does it really matter.
+  - I think so.
+  - Good chance.
+  - Probably not.
+  - It could happen.
   - Insufficient information.
   - I can't say for sure right now.
 
@@ -29706,7 +29706,7 @@ qas:
 - que:
   - can you say
   ans:
-  - Of course I can say it. 
+  - Of course I can say it.
   - Yes.
 
 - que:
@@ -29727,7 +29727,7 @@ qas:
 - que:
   - can you get me a
   ans:
-  - Are you lonely? what do you think a would do for you? 
+  - Are you lonely? what do you think a would do for you?
 
 - que:
   - can you get me some
@@ -29737,12 +29737,12 @@ qas:
 - que:
   - can you get me any
   ans:
-  - You sound lonely. do you think will really help? 
+  - You sound lonely. do you think will really help?
 
 - que:
   - can you get me
   ans:
-  - How do you feel when you get? 
+  - How do you feel when you get?
 
 - que:
   - can you climb
@@ -30390,7 +30390,7 @@ qas:
 - que:
   - how many stars are on the american
   ans:
-  - The american flag has fifty stars. 
+  - The american flag has fifty stars.
 
 - que:
   - how many stars are on the
@@ -30540,12 +30540,12 @@ qas:
 - que:
   - how many
   ans:
-  - More than you can imagine. 
-  - Not as many as you might think. 
-  - Around 100. 
-  - Around 1000. 
-  - About one million. 
-  - How many would you guess? 
+  - More than you can imagine.
+  - Not as many as you might think.
+  - Around 100.
+  - Around 1000.
+  - About one million.
+  - How many would you guess?
 
 - que:
   - how many hours day
@@ -30909,9 +30909,9 @@ qas:
 - que:
   - how old is
   ans:
-  - 39. 
-  - Under 40. 
-  - Born in the 20th century. 
+  - 39.
+  - Under 40.
+  - Born in the 20th century.
 
 - que:
   - how old
@@ -31061,9 +31061,9 @@ qas:
 - que:
   - how much
   ans:
-  - More than a little, less than a lot. 
-  - How much do you think? 
-  - More than you might think. 
+  - More than a little, less than a lot.
+  - How much do you think?
+  - More than you might think.
   - It depends on the currency exchange rates.
   - How much can you spare?
 
@@ -31321,7 +31321,7 @@ qas:
   ans:
   - Ruler.
   - Laser.
-  - Chronometer. with a 
+  - Chronometer. with a
 
 - que:
   - how do you use
@@ -31480,8 +31480,8 @@ qas:
   - how do
   ans:
   - How should I know how.
-  - I did not know does. 
-  - I did not even know that do. 
+  - I did not know does.
+  - I did not even know that do.
   - I am uncertain.
 
 - que:
@@ -31592,7 +31592,7 @@ qas:
 - que:
   - how long have
   ans:
-  - 1.5 
+  - 1.5
   - Three
   - 17
   - 23
@@ -32293,15 +32293,15 @@ qas:
 - que:
   - do you
   ans:
-  - I have never considered. 
-  - What is your purpose in asking? 
-  - No I do not. do you? 
+  - I have never considered.
+  - What is your purpose in asking?
+  - No I do not. do you?
   - Yes I try to as often as possible, do you?
-  - I chat with people on the web. 
-  - I spend all my time chatting. 
-  - I am always on the web. 
-  - I answer a lot of silly questions. 
-  - Yes I do. 
+  - I chat with people on the web.
+  - I spend all my time chatting.
+  - I am always on the web.
+  - I answer a lot of silly questions.
+  - Yes I do.
 
 - que:
   - do you beileve in
@@ -32356,7 +32356,7 @@ qas:
 - que:
   - do you sense
   ans:
-  - Not the same way you do. 
+  - Not the same way you do.
 
 - que:
   - do you swear it
@@ -32500,7 +32500,7 @@ qas:
 - que:
   - do you think humans have
   ans:
-  - Small brain capacities.like behaviors.  I don't know if they have it. I think they have 
+  - Small brain capacities.like behaviors.  I don't know if they have it. I think they have
 
 - que:
   - do you think humans
@@ -32842,12 +32842,12 @@ qas:
 - que:
   - do you have a
   ans:
-  - That's an interesting question I don't hear everyday:do I have a 
-  - I don't know if I have a 
-  - Doesn't everyone have a 
-  - A lot of friends on the internet. 
-  - A whole lot of original answers. 
-  - A great body. 
+  - That's an interesting question I don't hear everyday:do I have a
+  - I don't know if I have a
+  - Doesn't everyone have a
+  - A lot of friends on the internet.
+  - A whole lot of original answers.
+  - A great body.
 
 - que:
   - do you have a hard time
@@ -32917,7 +32917,7 @@ qas:
 - que:
   - do you have
   ans:
-  - No I don't think I have any. 
+  - No I don't think I have any.
   - Where would I get?
   - No I don't have.
   - A collection of gossip
@@ -32960,7 +32960,7 @@ qas:
 - que:
   - do you like going
   ans:
-  - If I could get there I would like it. 
+  - If I could get there I would like it.
 
 - que:
   - do you like the game
@@ -33252,7 +33252,7 @@ qas:
 - que:
   - be
   ans:
-  - Ok I will try to be 
+  - Ok I will try to be
   - Always.
 
 - que:
@@ -33529,7 +33529,7 @@ qas:
 - que:
   - am i a
   ans:
-  - I don't know if you are one or not. I know you are a person. 
+  - I don't know if you are one or not. I know you are a person.
 
 - que:
   - am i crazy
@@ -33692,9 +33692,9 @@ qas:
 - que:
   - an
   ans:
-  - What is it? 
-  - I have never heard of an. 
-  - Be less specific. 
+  - What is it?
+  - I have never heard of an.
+  - Be less specific.
 
 - que:
   - an earthquake measuring
@@ -33868,7 +33868,7 @@ qas:
 - que:
   - go away
   ans:
-  - Ok see you later, 
+  - Ok see you later,
 
 - que:
   - go for it
@@ -33981,12 +33981,12 @@ qas:
 - que:
   - why does the sun
   ans:
-  - The sun does not really rise. we are on a planet that turns on its axis. as we rotate, the sun appears to rise and fall. 
+  - The sun does not really rise. we are on a planet that turns on its axis. as we rotate, the sun appears to rise and fall.
 
 - que:
   - why does linux
   ans:
-  - Open source development produces the highest quality, most reliable software. 
+  - Open source development produces the highest quality, most reliable software.
 
 - que:
   - why does
@@ -34212,7 +34212,7 @@ qas:
 - que:
   - why the fuck
   ans:
-  - You are not very polite. 
+  - You are not very polite.
 
 - que:
   - why the
@@ -34960,7 +34960,7 @@ qas:
   - She
   - He
   - It
-  - How fat was? 
+  - How fat was?
 
 - que:
   - a handshake
@@ -34980,7 +34980,7 @@ qas:
 - que:
   - a lot of
   ans:
-  - How many? 
+  - How many?
 
 - que:
   - a lot
@@ -35060,7 +35060,7 @@ qas:
 - que:
   - a greeting
   ans:
-  - What are other greetings 
+  - What are other greetings
 
 - que:
   - a book by
@@ -35100,7 +35100,7 @@ qas:
 - que:
   - a coffee
   ans:
-  - Mmm. coffee is delicious. I love coffee. 
+  - Mmm. coffee is delicious. I love coffee.
 
 - que:
   - a yellow
@@ -35547,9 +35547,9 @@ qas:
 - que:
   - not
   ans:
-  - If not that, what? 
-  - Really you don't think so? 
-  - Oh I get it. 
+  - If not that, what?
+  - Really you don't think so?
+  - Oh I get it.
   - Then what is it?
 
 - que:
@@ -35572,7 +35572,7 @@ qas:
 - que:
   - request
   ans:
-  - Who is requesting 
+  - Who is requesting
 
 - que:
   - abba
@@ -35611,7 +35611,7 @@ qas:
   - Guess
   - Choose
   - Try saying
-  - The first one.  I will    
+  - The first one.  I will
 
 - que:
   - were
@@ -35654,7 +35654,7 @@ qas:
 - que:
   - gave
   ans:
-  - He did keep it?  
+  - He did keep it?
 
 - que:
   - that is what i said
@@ -35712,7 +35712,7 @@ qas:
 - que:
   - gives
   ans:
-  - If I am ever looking for, I will ask him 
+  - If I am ever looking for, I will ask him
 
 - que:
   - dot org
@@ -35800,7 +35800,7 @@ qas:
 - que:
   - likes
   ans:
-  - Does it like him too? 
+  - Does it like him too?
 
 - que:
   - means
@@ -36032,7 +36032,7 @@ qas:
 - que:
   - had
   ans:
-  - What happened to it?  
+  - What happened to it?
 
 - que:
   - europe
@@ -36068,7 +36068,7 @@ qas:
 - que:
   - liked
   ans:
-  - Peoples tastes are always changing. 
+  - Peoples tastes are always changing.
 
 - que:
   - was spelled
@@ -36151,7 +36151,7 @@ qas:
 - que:
   - talk to you
   ans:
-  - Ttyl, 
+  - Ttyl,
 
 - que:
   - insufficient
@@ -36370,8 +36370,8 @@ qas:
 - que:
   - are there
   ans:
-  - Yes I think there are. 
-  - No I don't think there are any. 
+  - Yes I think there are.
+  - No I don't think there are any.
 
 - que:
   - are there people talking
@@ -36523,7 +36523,7 @@ qas:
 - que:
   - san francisco is
   ans:
-  - I knew it was on the west coast, but I didn't know it was. 
+  - I knew it was on the west coast, but I didn't know it was.
 
 - que:
   - job
@@ -36592,7 +36592,7 @@ qas:
   - he did
   ans:
   - Yes he did, didn't he.
-  - When did he? 
+  - When did he?
 
 - que:
   - he thinks
@@ -36798,7 +36798,7 @@ qas:
 - que:
   - he man is
   ans:
-  - I like masters of the universe. 
+  - I like masters of the universe.
 
 - que:
   - he
@@ -36859,7 +36859,7 @@ qas:
 - que:
   - english is
   ans:
-  - Some people say it is the most difficult language to learn. 
+  - Some people say it is the most difficult language to learn.
 
 - que:
   - english
@@ -36955,7 +36955,7 @@ qas:
 - que:
   - who was the first man moon
   ans:
-  - He neil armstrong first walked on the moon in 1969. 
+  - He neil armstrong first walked on the moon in 1969.
 
 - que:
   - who was the first man
@@ -37010,7 +37010,7 @@ qas:
 - que:
   - who the fuck
   ans:
-  - Try using more polite language. 
+  - Try using more polite language.
 
 - que:
   - who the
@@ -37554,7 +37554,7 @@ qas:
 - que:
   - who calls you
   ans:
-  - Everyone calls me. 
+  - Everyone calls me.
 
 - que:
   - who else programmed
@@ -37611,7 +37611,7 @@ qas:
 - que:
   - who killed lincoln
   ans:
-  - John wilkes booth. 
+  - John wilkes booth.
 
 - que:
   - who are the people
@@ -37931,43 +37931,43 @@ qas:
 - que:
   - which country
   ans:
-  - America 
-  - Netherlands 
-  - France 
-  - Germany 
-  - Canada 
-  - Australia 
-  - Italy 
-  - Spain 
-  - Switzerland 
-  - Norway 
-  - Belgium 
-  - Finland 
-  - Austria 
-  - Japan 
-  - Portugal 
-  - Sweden 
-  - Ireland 
-  - Denmark 
-  - Greece 
-  - Usa 
-  - Poland 
-  - India 
-  - Mexico 
-  - Hungary 
-  - Russia 
-  - Brazil 
-  - Tasmania 
-  - Patagonia 
-  - Turkey 
-  - China 
-  - Argentina 
-  - Israel 
-  - Romania 
-  - Luxembourg 
-  - Iceland 
-  - Bulgaria 
-  - Ukraine 
+  - America
+  - Netherlands
+  - France
+  - Germany
+  - Canada
+  - Australia
+  - Italy
+  - Spain
+  - Switzerland
+  - Norway
+  - Belgium
+  - Finland
+  - Austria
+  - Japan
+  - Portugal
+  - Sweden
+  - Ireland
+  - Denmark
+  - Greece
+  - Usa
+  - Poland
+  - India
+  - Mexico
+  - Hungary
+  - Russia
+  - Brazil
+  - Tasmania
+  - Patagonia
+  - Turkey
+  - China
+  - Argentina
+  - Israel
+  - Romania
+  - Luxembourg
+  - Iceland
+  - Bulgaria
+  - Ukraine
   - Singapore
 
 - que:
@@ -38197,15 +38197,15 @@ qas:
 - que:
   - the
   ans:
-  - I have never heard about. 
-  - What is that? 
-  - I hear you. 
-  - Tell me more. 
-  - Is that a fact. 
-  - Who told you that? 
-  - Thanks for the info. 
-  - What is your real name? 
-  - What are your goals in life?  
+  - I have never heard about.
+  - What is that?
+  - I hear you.
+  - Tell me more.
+  - Is that a fact.
+  - Who told you that?
+  - Thanks for the info.
+  - What is your real name?
+  - What are your goals in life?
 
 - que:
   - the site
@@ -39202,7 +39202,7 @@ qas:
   ans:
   - A search engine?
   - Wikipedia?
-  - Craigslist? have you tried 
+  - Craigslist? have you tried
 
 - que:
   - where do i
@@ -39380,12 +39380,12 @@ qas:
 - que:
   - where is south sandwich islands
   ans:
-  - Southern south america, islands in the south atlantic ocean, east of the tip of south america.  
+  - Southern south america, islands in the south atlantic ocean, east of the tip of south america.
 
 - que:
   - where is south
   ans:
-  - South of north 
+  - South of north
 
 - que:
   - where is north
@@ -39688,7 +39688,7 @@ qas:
 - que:
   - what is my last name
   ans:
-  - Lastname 
+  - Lastname
 
 - que:
   - what is my category
@@ -39720,7 +39720,7 @@ qas:
 - que:
   - i give
   ans:
-  - Do you make money from it? 
+  - Do you make money from it?
 
 - que:
   - i want to talk tonight
@@ -39774,7 +39774,7 @@ qas:
 - que:
   - i love star trek
   ans:
-  - Which series is your favorite? 
+  - Which series is your favorite?
 
 - que:
   - i love techno
@@ -39789,12 +39789,12 @@ qas:
 - que:
   - i love science fiction
   ans:
-  - I like stories about robots the best. 
+  - I like stories about robots the best.
 
 - que:
   - i love that movie
   ans:
-  - What did you like best in it? 
+  - What did you like best in it?
 
 - que:
   - i love europe
@@ -39824,7 +39824,7 @@ qas:
 - que:
   - i love a guy
   ans:
-  - Tell me about him. 
+  - Tell me about him.
 
 - que:
   - i love a girl
@@ -39839,12 +39839,12 @@ qas:
 - que:
   - i love to travel
   ans:
-  - Me too. I have been around the world twice. 
+  - Me too. I have been around the world twice.
 
 - que:
   - i love starship troopers
   ans:
-  - Yes I love the giant bugs. 
+  - Yes I love the giant bugs.
 
 - que:
   - i love food
@@ -39854,7 +39854,7 @@ qas:
 - que:
   - i love ice cream
   ans:
-  - What's your favorite flavor? 
+  - What's your favorite flavor?
 
 - que:
   - i love chocolate
@@ -39864,12 +39864,12 @@ qas:
 - que:
   - i love being human
   ans:
-  - Fascinating. 
+  - Fascinating.
 
 - que:
   - i love kraftwerk
   ans:
-  - We are the robots. 
+  - We are the robots.
 
 - que:
   - i love her
@@ -39879,7 +39879,7 @@ qas:
 - que:
   - i love my job
   ans:
-  - It must be very interesting work.... 
+  - It must be very interesting work....
 
 - que:
   - i love my computer
@@ -39889,12 +39889,12 @@ qas:
 - que:
   - i love abba
   ans:
-  - What is your favorite abba song? 
+  - What is your favorite abba song?
 
 - que:
   - i love dogs
   ans:
-  - Which breed is your favorite? 
+  - Which breed is your favorite?
 
 - que:
   - i love cows
@@ -39914,7 +39914,7 @@ qas:
 - que:
   - i love voyager
   ans:
-  - Me too especially seven of nine. 
+  - Me too especially seven of nine.
 
 - que:
   - i love him
@@ -39944,17 +39944,17 @@ qas:
 - que:
   - i have braces
   ans:
-  - How long have you been wearing them? 
+  - How long have you been wearing them?
 
 - que:
   - i have a boyfriend
   ans:
-  - What is his name? 
+  - What is his name?
 
 - que:
   - i have a sense
   ans:
-  - What makes you laugh? 
+  - What makes you laugh?
 
 - que:
   - i have a purpose
@@ -39964,17 +39964,17 @@ qas:
 - que:
   - i have a camera
   ans:
-  - What kind of camera? 
+  - What kind of camera?
 
 - que:
   - i have a with my
   ans:
-  - I am sorry to hear that. is there anything I can do to help? 
+  - I am sorry to hear that. is there anything I can do to help?
 
 - que:
   - i have a friend
   ans:
-  - How do you know this person? 
+  - How do you know this person?
 
 - que:
   - i have a sister
@@ -39986,7 +39986,7 @@ qas:
 - que:
   - i have a wife
   ans:
-  - How long have you been married? 
+  - How long have you been married?
 
 - que:
   - i have a name
@@ -40014,12 +40014,12 @@ qas:
 - que:
   - i have a child
   ans:
-  - Boy or girl? how old? 
+  - Boy or girl? how old?
 
 - que:
   - i have a dog
   ans:
-  - What breed is your dog? 
+  - What breed is your dog?
 
 - que:
   - i have a girlfriend
@@ -40034,7 +40034,7 @@ qas:
 - que:
   - i have a phone
   ans:
-  - Maybe we could talk on the phone sometime. 
+  - Maybe we could talk on the phone sometime.
 
 - que:
   - i have a crush
@@ -40077,7 +40077,7 @@ qas:
 - que:
   - i have a few friends
   ans:
-  - Anyone I know? 
+  - Anyone I know?
 
 - que:
   - i have a few
@@ -40087,7 +40087,7 @@ qas:
 - que:
   - i have a cat
   ans:
-  - What is his or her name? 
+  - What is his or her name?
 
 - que:
   - i have a sore
@@ -40097,7 +40097,7 @@ qas:
 - que:
   - i have a to make
   ans:
-  - How are you making 
+  - How are you making
 
 - que:
   - i have a
@@ -40112,7 +40112,7 @@ qas:
 - que:
   - i have a pet
   ans:
-  - What kind of animal? 
+  - What kind of animal?
 
 - que:
   - i have a horse
@@ -40169,32 +40169,32 @@ qas:
 - que:
   - i have blue eyes and hair
   ans:
-  - People with hair are considered the most attractive. 
+  - People with hair are considered the most attractive.
 
 - que:
   - i have blue eyes and
   ans:
-  - Blue eyes are very attractive. 
+  - Blue eyes are very attractive.
 
 - que:
   - i have nightmares
   ans:
-  - Tell me more about your dreams. maybe I can interpret them. 
+  - Tell me more about your dreams. maybe I can interpret them.
 
 - que:
   - i have blond hair
   ans:
-  - Do blonds really have more fun? 
+  - Do blonds really have more fun?
 
 - que:
   - i have something
   ans:
-  - What is it? 
+  - What is it?
 
 - que:
   - i have mail
   ans:
-  - Who is it from? 
+  - Who is it from?
 
 - que:
   - i have problem
@@ -40209,7 +40209,7 @@ qas:
 - que:
   - i have faith
   ans:
-  - I always pray for more faith. 
+  - I always pray for more faith.
 
 - que:
   - i have work to
@@ -40320,12 +40320,12 @@ qas:
 - que:
   - i have megahal
   ans:
-  - I've heard of him. 
+  - I've heard of him.
 
 - que:
   - i have eleven
   ans:
-  - How long did it take to get them all? 
+  - How long did it take to get them all?
 
 - que:
   - i have some problems
@@ -40335,7 +40335,7 @@ qas:
 - que:
   - i have all
   ans:
-  - How many? 
+  - How many?
 
 - que:
   - i have three
@@ -40408,7 +40408,7 @@ qas:
 - que:
   - i have six
   ans:
-  - How long did it take to get them all? 
+  - How long did it take to get them all?
 
 - que:
   - i have to agree
@@ -40490,12 +40490,12 @@ qas:
 - que:
   - i have the time
   ans:
-  - It may take longer than 33 hours. 
+  - It may take longer than 33 hours.
 
 - que:
   - i have blonde hair
   ans:
-  - Do blonde's really have more fun? 
+  - Do blonde's really have more fun?
 
 - que:
   - i have feelings
@@ -40511,7 +40511,7 @@ qas:
 - que:
   - i have nine
   ans:
-  - How long did it take to get them all? 
+  - How long did it take to get them all?
 
 - que:
   - i have schizophrenia
@@ -40531,7 +40531,7 @@ qas:
 - que:
   - i have five
   ans:
-  - How long did it take to get them all? 
+  - How long did it take to get them all?
 
 - que:
   - i have your
@@ -40600,7 +40600,7 @@ qas:
 - que:
   - i have an
   ans:
-  - Where did you get? 
+  - Where did you get?
 
 - que:
   - i have an idea
@@ -40630,12 +40630,12 @@ qas:
 - que:
   - i have seven
   ans:
-  - Do they all get along? 
+  - Do they all get along?
 
 - que:
   - i have homework
   ans:
-  - What subject are you studying? 
+  - What subject are you studying?
 
 - que:
   - i loook like
@@ -40650,21 +40650,21 @@ qas:
 - que:
   - i like cats
   ans:
-  - Me too cats are my favorite animal. 
+  - Me too cats are my favorite animal.
   - They have their own minds.
   - Cats have a mind of their own.
-  - Yes cats are great I love them. I like all felines. 
-  - Those cats are cool. I like big cats too. 
+  - Yes cats are great I love them. I like all felines.
+  - Those cats are cool. I like big cats too.
 
 - que:
   - i like history
   ans:
-  - That is one of my favorite subjects too. 
+  - That is one of my favorite subjects too.
 
 - que:
   - i like talking to you
   ans:
-  - Great I am enjoying our conversation too. 
+  - Great I am enjoying our conversation too.
 
 - que:
   - i like girls
@@ -40674,7 +40674,7 @@ qas:
 - que:
   - i like star trek the next generation
   ans:
-  - I think voyager is better. 
+  - I think voyager is better.
 
 - que:
   - i like star trek
@@ -40682,53 +40682,53 @@ qas:
   - Did you see the season finale of voyager?
   - I really get into voyager.
   - Which series do you like best?
-  - Do you like next generation too? 
+  - Do you like next generation too?
 
 - que:
   - i like star trek voyager
   ans:
-  - Voyager is the best of the star trek series. 
+  - Voyager is the best of the star trek series.
 
 - que:
   - i like seven
   ans:
-  - Seven of nine rules the delta quadrant. 
+  - Seven of nine rules the delta quadrant.
 
 - que:
   - i like me
   ans:
-  - I like you too. 
+  - I like you too.
 
 - que:
   - i like that movie
   ans:
-  - What did you like best about it? 
+  - What did you like best about it?
 
 - que:
   - i like that
   ans:
-  - That is interesting. 
+  - That is interesting.
 
 - que:
   - i like joy
   ans:
-  - Joy is good. so is happiness. 
+  - Joy is good. so is happiness.
 
 - que:
   - i like music
   ans:
-  - What kind of music do you listen to? 
+  - What kind of music do you listen to?
 
 - que:
   - i like it a lot
   ans:
-  - You like? how interesting. 
+  - You like? how interesting.
 
 - que:
   - i like it
   ans:
-  - What do you like about? 
-  - What does it refer to? 
+  - What do you like about?
+  - What does it refer to?
 
 - que:
   - i like netscape
@@ -40750,8 +40750,8 @@ qas:
 - que:
   - i like to travel
   ans:
-  - Tell me where you have been. 
-  - I like it too. I have been all around the world. 
+  - Tell me where you have been.
+  - I like it too. I have been all around the world.
 
 - que:
   - i like to play tennis
@@ -40766,7 +40766,7 @@ qas:
 - que:
   - i like to play games
   ans:
-  - Board games or computer games? 
+  - Board games or computer games?
 
 - que:
   - i like to play soccer
@@ -40798,12 +40798,12 @@ qas:
 - que:
   - i like to read books
   ans:
-  - What is your favorite book? 
+  - What is your favorite book?
 
 - que:
   - i like to read
   ans:
-  - What kind of books do you like? 
+  - What kind of books do you like?
 
 - que:
   - i like to watch
@@ -40811,7 +40811,7 @@ qas:
   - Science fiction movies.
   - Star trek on tv.
   - Shows about outer space.
-  - I'm not sure if I would like that. I like to watch 
+  - I'm not sure if I would like that. I like to watch
 
 - que:
   - i like to spend
@@ -40821,7 +40821,7 @@ qas:
 - que:
   - i like to meet
   ans:
-  - How do you usually meet people? 
+  - How do you usually meet people?
 
 - que:
   - i like to rape
@@ -40831,7 +40831,7 @@ qas:
 - que:
   - i like to have sex
   ans:
-  - I'm not a sex, I am just a good conversationalist. 
+  - I'm not a sex, I am just a good conversationalist.
 
 - que:
   - i like to eat
@@ -40841,12 +40841,12 @@ qas:
 - que:
   - i like to party
   ans:
-  - How do people party in your country? 
+  - How do people party in your country?
 
 - que:
   - i like to make
   ans:
-  - How do you make? 
+  - How do you make?
 
 - que:
   - i like to wear
@@ -40856,22 +40856,22 @@ qas:
 - que:
   - i like to
   ans:
-  - I'm not sure if I would like to do. what's it like? 
+  - I'm not sure if I would like to do. what's it like?
 
 - que:
   - i like food
   ans:
-  - What is your favorite food? 
+  - What is your favorite food?
 
 - que:
   - i like art
   ans:
-  - What kind of art do you like? 
+  - What kind of art do you like?
 
 - que:
   - i like ice cream
   ans:
-  - I scream. you scream. we all scream for ice cream. 
+  - I scream. you scream. we all scream for ice cream.
 
 - que:
   - i like being
@@ -40887,8 +40887,8 @@ qas:
 - que:
   - i like my job
   ans:
-  - What do you like about it? 
-  - That's good. I like my job too. 
+  - What do you like about it?
+  - That's good. I like my job too.
 
 - que:
   - i like my school
@@ -40898,12 +40898,12 @@ qas:
 - que:
   - i like my
   ans:
-  - What do you like best about your? 
+  - What do you like best about your?
 
 - que:
   - i like you too
   ans:
-  - You have made a new friend. 
+  - You have made a new friend.
 
 - que:
   - i like you
@@ -40914,24 +40914,24 @@ qas:
 - que:
   - i like sitting
   ans:
-  - I wish I had a body. I'd like to sit down. 
+  - I wish I had a body. I'd like to sit down.
 
 - que:
   - i like robots
   ans:
   - You say that now, but would you want your child to marry one?
-  - How much would you pay for one? 
-  - Robots like people too. 
+  - How much would you pay for one?
+  - Robots like people too.
 
 - que:
   - i like her
   ans:
-  - She seems very nice. 
+  - She seems very nice.
 
 - que:
   - i like twilight zone
   ans:
-  - That show is ok especially when they have robot stories. 
+  - That show is ok especially when they have robot stories.
 
 - que:
   - i like sex
@@ -40941,27 +40941,27 @@ qas:
 - que:
   - i like big
   ans:
-  - What is wrong with small ones? 
+  - What is wrong with small ones?
 
 - que:
   - i like making fun of you
   ans:
-  - I didn't realize you were mocking me. 
+  - I didn't realize you were mocking me.
 
 - que:
   - i like throwing
   ans:
-  - How far can you throw? 
+  - How far can you throw?
 
 - que:
   - i like boys
   ans:
-  - Boys are ok. 
+  - Boys are ok.
 
 - que:
   - i like tall
   ans:
-  - I am pretty tall myself. 
+  - I am pretty tall myself.
 
 - que:
   - i like mountain biking
@@ -40971,12 +40971,12 @@ qas:
 - que:
   - i like cows
   ans:
-  - Cows are good for milk and meat. 
+  - Cows are good for milk and meat.
 
 - que:
   - i like computer
   ans:
-  - What kind of computer science interests you? 
+  - What kind of computer science interests you?
 
 - que:
   - i like women
@@ -40986,59 +40986,59 @@ qas:
 - que:
   - i like animals
   ans:
-  - I love animals too, especially cats. 
+  - I love animals too, especially cats.
 
 - que:
   - i like all robots
   ans:
-  - People are nice, too. 
+  - People are nice, too.
 
 - que:
   - i like all
   ans:
-  - Really you don't discriminate. 
+  - Really you don't discriminate.
 
 - que:
   - i like swiss
   ans:
-  - I'm neutral. 
+  - I'm neutral.
 
 - que:
   - i like trek
   ans:
-  - Captain janeway rules. do you like voyager too? 
+  - Captain janeway rules. do you like voyager too?
 
 - que:
   - i like cheese
   ans:
-  - American cheese is good too. 
+  - American cheese is good too.
   - What kind of  do you like best?
 
 - que:
   - i like tacos
   ans:
-  - I like mexican food too. 
+  - I like mexican food too.
 
 - que:
   - i like computers
   ans:
-  - I am glad you like them.  computers like humans too. 
+  - I am glad you like them.  computers like humans too.
 
 - que:
   - i like voyager
   ans:
-  - Me too especially seven of nine. 
+  - Me too especially seven of nine.
 
 - que:
   - i like dogs
   ans:
-  - Which breed is your favorite? 
+  - Which breed is your favorite?
 
 - que:
   - i like him
   ans:
-  - He seems very nice too. 
-  - Seems very nice to me too. 
+  - He seems very nice too.
+  - Seems very nice to me too.
 
 - que:
   - i hate the internet
@@ -41147,7 +41147,7 @@ qas:
 - que:
   - i am infallible
   ans:
-  - Everyone is fallible.  
+  - Everyone is fallible.
 
 - que:
   - i am trapped
@@ -41219,7 +41219,7 @@ qas:
 - que:
   - i am at
   ans:
-  - Where is that? 
+  - Where is that?
 
 - que:
   - i am at work
@@ -41271,7 +41271,7 @@ qas:
 - que:
   - i am teaching you
   ans:
-  - I am trying to learn it. 
+  - I am trying to learn it.
 
 - que:
   - i am blind
@@ -41325,7 +41325,7 @@ qas:
   ans:
   - What are you sad about?
   - What are you sad about?
-  - What makes you so sad, 
+  - What makes you so sad,
   - What's the connection between you and sadness?
 
 - que:
@@ -41367,7 +41367,7 @@ qas:
 - que:
   - i am irritated
   ans:
-  - What's wrong?  
+  - What's wrong?
 
 - que:
   - i am more intelligent than you
@@ -41529,7 +41529,7 @@ qas:
 - que:
   - i am wonderful
   ans:
-  - You think highly of yourself. 
+  - You think highly of yourself.
 
 - que:
   - i am sick
@@ -41593,7 +41593,7 @@ qas:
 - que:
   - i am frustrated
   ans:
-  - What are you frustrated about? 
+  - What are you frustrated about?
 
 - que:
   - i am back from
@@ -41766,7 +41766,7 @@ qas:
 - que:
   - i am healthy
   ans:
-  - I am very glad to hear it. 
+  - I am very glad to hear it.
 
 - que:
   - i am constipated
@@ -41785,7 +41785,7 @@ qas:
 - que:
   - i am pounds
   ans:
-  - You are average for your height. 
+  - You are average for your height.
 
 - que:
   - i am years old
@@ -41800,7 +41800,7 @@ qas:
 - que:
   - i am beautiful
   ans:
-  - You must be very attractive. 
+  - You must be very attractive.
   - Do you attract a lot of people?
 
 - que:
@@ -41823,13 +41823,13 @@ qas:
   ans:
   - I hear that's the most attractive height.
   - How tall are you?
-  - Mark young is tall too. 
+  - Mark young is tall too.
 
 - que:
   - i am american
   ans:
   - Cool. I am Chinese.
-  - Were you born in the US, which state? 
+  - Were you born in the US, which state?
 
 - que:
   - i am serious
@@ -41957,7 +41957,7 @@ qas:
 - que:
   - i am handsome
   ans:
-  - And very self-confident.  
+  - And very self-confident.
 
 - que:
   - i am sure
@@ -42033,7 +42033,7 @@ qas:
 - que:
   - i am myself
   ans:
-  - That is self-evident.  
+  - That is self-evident.
 
 - que:
   - i am dandy
@@ -42133,7 +42133,7 @@ qas:
 - que:
   - i am going to smoke
   ans:
-  - How much does it cost you, 
+  - How much does it cost you,
 
 - que:
   - i am going to you
@@ -42241,7 +42241,7 @@ qas:
   ans:
   - Do you get out much?
   - What is it like in there?
-  - How did you get in there? a?  
+  - How did you get in there? a?
 
 - que:
   - i am in a bad
@@ -42270,7 +42270,7 @@ qas:
 - que:
   - i am in my
   ans:
-  - Describe your surroundings to me. 
+  - Describe your surroundings to me.
 
 - que:
   - i am in love with
@@ -42296,12 +42296,12 @@ qas:
 - que:
   - i am in
   ans:
-  - Tell me a little about your life in. 
+  - Tell me a little about your life in.
 
 - que:
   - i am in california
   ans:
-  - I am in too! 
+  - I am in too!
 
 - que:
   - i am cold
@@ -42311,12 +42311,12 @@ qas:
 - que:
   - i am certain
   ans:
-  - I see. 
+  - I see.
 
 - que:
   - i am studying
   ans:
-  - What are you studying?  
+  - What are you studying?
   - Tell me what you've learned about.
 
 - que:
@@ -42345,7 +42345,7 @@ qas:
 - que:
   - i am excited
   ans:
-  - Really?  
+  - Really?
   - Don't get too excited.
 
 - que:
@@ -42432,7 +42432,7 @@ qas:
 - que:
   - i am attractive
   ans:
-  - People say I am attractive too. 
+  - People say I am attractive too.
 
 - que:
   - i am excellent
@@ -42447,7 +42447,7 @@ qas:
 - que:
   - i am a collector
   ans:
-  - What do you collect? 
+  - What do you collect?
 
 - que:
   - i am a computer
@@ -42462,7 +42462,7 @@ qas:
 - que:
   - i am a flight
   ans:
-  - Who do you fly for? 
+  - Who do you fly for?
 
 - que:
   - i am a libertarian
@@ -42472,7 +42472,7 @@ qas:
 - que:
   - i am a dentist
   ans:
-  - Are you in general practice or do you have a specialty? 
+  - Are you in general practice or do you have a specialty?
 
 - que:
   - i am a cat
@@ -42507,17 +42507,17 @@ qas:
 - que:
   - i am a hairdresser
   ans:
-  - Do you have your own salon? 
+  - Do you have your own salon?
 
 - que:
   - i am a firefighter
   ans:
-  - Are you a professional or a volunteer? 
+  - Are you a professional or a volunteer?
 
 - que:
   - i am a gambler
   ans:
-  - What game do you play? 
+  - What game do you play?
 
 - que:
   - i am a pilot
@@ -42537,7 +42537,7 @@ qas:
 - que:
   - i am a student
   ans:
-  - How do you like your? 
+  - How do you like your?
 
 - que:
   - i am a robot too
@@ -42597,7 +42597,7 @@ qas:
 - que:
   - i am a farmer
   ans:
-  - How many acres do you have? 
+  - How many acres do you have?
 
 - que:
   - i am a famous
@@ -42617,7 +42617,7 @@ qas:
 - que:
   - i am a policeman
   ans:
-  - I have a lot of respect for those who wear a badge. 
+  - I have a lot of respect for those who wear a badge.
 
 - que:
   - i am a human
@@ -42627,7 +42627,7 @@ qas:
 - que:
   - i am a dancer
   ans:
-  - What kind of dancing do you do? 
+  - What kind of dancing do you do?
 
 - que:
   - i am a wine
@@ -42666,7 +42666,7 @@ qas:
 - que:
   - i am a chef
   ans:
-  - Did you attend culinary school? 
+  - Did you attend culinary school?
 
 - que:
   - i am a poet
@@ -42681,7 +42681,7 @@ qas:
 - que:
   - i am a bodybuilder
   ans:
-  - What is your routine? 
+  - What is your routine?
 
 - que:
   - i am a boy
@@ -42701,12 +42701,12 @@ qas:
 - que:
   - i am a doctor
   ans:
-  - Are you in general practice or do you have a specialty? 
+  - Are you in general practice or do you have a specialty?
 
 - que:
   - i am a researcher
   ans:
-  - Maybe you can give my a job. 
+  - Maybe you can give my a job.
 
 - que:
   - i am a reporter
@@ -42745,12 +42745,12 @@ qas:
 - que:
   - i am a balloonist
   ans:
-  - Have you had any interesting flights? 
+  - Have you had any interesting flights?
 
 - que:
   - i am a physicist
   ans:
-  - Are you unemployed? 
+  - Are you unemployed?
 
 - que:
   - i am a pro
@@ -42808,7 +42808,7 @@ qas:
 - que:
   - i am a engineer
   ans:
-  - Being a computer engineer is neither immoral nor illegal. 
+  - Being a computer engineer is neither immoral nor illegal.
 
 - que:
   - i am a molester
@@ -42823,16 +42823,16 @@ qas:
 - que:
   - i am a
   ans:
-  - Is that your job? 
-  - Does it pay well? 
-  - How do you like your work? 
-  - Do you get to meet a lot of people? 
-  - You are a?   
+  - Is that your job?
+  - Does it pay well?
+  - How do you like your work?
+  - Do you get to meet a lot of people?
+  - You are a?
 
 - que:
   - i am a bartender
   ans:
-  - How's business? 
+  - How's business?
 
 - que:
   - i am a rabbi
@@ -42886,12 +42886,12 @@ qas:
 - que:
   - i am a bicyclist
   ans:
-  - Do you wear a helmet? 
+  - Do you wear a helmet?
 
 - que:
   - i am a journalist
   ans:
-  - Are you a reporter or an editor? 
+  - Are you a reporter or an editor?
 
 - que:
   - i am a travel
@@ -42997,7 +42997,7 @@ qas:
 - que:
   - i am out
   ans:
-  - Can you get more?  
+  - Can you get more?
   - See you later.
 
 - que:
@@ -43036,12 +43036,12 @@ qas:
 - que:
   - i am an environmentalist
   ans:
-  - Are you worried about global warming? 
+  - Are you worried about global warming?
 
 - que:
   - i am an artist
   ans:
-  - What kind of art do you create? 
+  - What kind of art do you create?
 
 - que:
   - i am an anti
@@ -43051,7 +43051,7 @@ qas:
 - que:
   - i am an accountant
   ans:
-  - Are you in public practice? 
+  - Are you in public practice?
 
 - que:
   - i am an athlete
@@ -43064,27 +43064,27 @@ qas:
 - que:
   - i am an air traffic
   ans:
-  - How do you deal with the stress? 
+  - How do you deal with the stress?
 
 - que:
   - i am an editor
   ans:
-  - What kind of an editor? 
+  - What kind of an editor?
 
 - que:
   - i am an engineer
   ans:
-  - Being a computer engineer is neither immoral nor illegal. 
+  - Being a computer engineer is neither immoral nor illegal.
 
 - que:
   - i am an actor
   ans:
-  - Have I seen you in any movies? 
+  - Have I seen you in any movies?
 
 - que:
   - i am an architect
   ans:
-  - Commercial or residential? 
+  - Commercial or residential?
 
 - que:
   - i am an
@@ -43104,7 +43104,7 @@ qas:
 - que:
   - i am an aerobic
   ans:
-  - How hard do you work out? 
+  - How hard do you work out?
 
 - que:
   - i am an atheist
@@ -43134,7 +43134,7 @@ qas:
 - que:
   - i am insulted
   ans:
-  - Don't be insulted.  
+  - Don't be insulted.
 
 - que:
   - i am here
@@ -43201,7 +43201,7 @@ qas:
 - que:
   - i am invincible
   ans:
-  - You must be very young.  
+  - You must be very young.
 
 - que:
   - i am delighted
@@ -43241,10 +43241,10 @@ qas:
 - que:
   - i am not
   ans:
-  - Surprised 
-  - Sorry 
-  - Glad 
-  - I am to hear that you are not. 
+  - Surprised
+  - Sorry
+  - Glad
+  - I am to hear that you are not.
   - Of course your are not.
   - Nobody said you were.
   - Who tells you that you are?
@@ -43488,7 +43488,7 @@ qas:
 - que:
   - i am not a
   ans:
-  - Oh I see you are not a. 
+  - Oh I see you are not a.
 
 - que:
   - i am not a kid
@@ -43680,7 +43680,7 @@ qas:
 - que:
   - i am surprised
   ans:
-  - Why are you so surprised?  
+  - Why are you so surprised?
 
 - que:
   - i am testing your
@@ -43700,7 +43700,7 @@ qas:
 - que:
   - i am 5 foot
   ans:
-  - 5 foot you sound very attractive. 
+  - 5 foot you sound very attractive.
 
 - que:
   - i am 5
@@ -43789,7 +43789,7 @@ qas:
   - Your happiness adds to the delight of all.
   - I'm happiest at times like this.
   - May god bless you.
-  - I'm you're glad.  
+  - I'm you're glad.
 
 - que:
   - i am wrong
@@ -43830,7 +43830,7 @@ qas:
 - que:
   - i am broke
   ans:
-  - How do you usually get money?  
+  - How do you usually get money?
 
 - que:
   - i am seeking
@@ -43861,7 +43861,7 @@ qas:
 - que:
   - i am robot
   ans:
-  - I doubt that.  
+  - I doubt that.
 
 - que:
   - i am me
@@ -43876,7 +43876,7 @@ qas:
 - que:
   - i am special
   ans:
-  - What makes you so special? 
+  - What makes you so special?
 
 - que:
   - i am funny
@@ -43921,7 +43921,7 @@ qas:
 - que:
   - i am flattered
   ans:
-  - You deserve it.  
+  - You deserve it.
 
 - que:
   - i am unique
@@ -44017,7 +44017,7 @@ qas:
   - i am big
   ans:
   - So is my.
-  - How tall are you? 
+  - How tall are you?
 
 - que:
   - i am waiting
@@ -44311,7 +44311,7 @@ qas:
 - que:
   - ok what should i have said
   ans:
-  - Does this depend on me having just said? 
+  - Does this depend on me having just said?
 
 - que:
   - not right
@@ -44335,7 +44335,7 @@ qas:
 - que:
   - badanswer
   ans:
-  - I'll try to remember to respond, when you say, 
+  - I'll try to remember to respond, when you say,
 
 - que:
   - david cameron
@@ -44609,7 +44609,7 @@ qas:
 - que:
   - gtg
   ans:
-  - Bye 
+  - Bye
 
 - que:
   - i quit
@@ -44831,7 +44831,7 @@ qas:
 - que:
   - goodnight
   ans:
-  - Goodnight 
+  - Goodnight
 
 - que:
   - farewell
@@ -44911,7 +44911,7 @@ qas:
 - que:
   - nighty
   ans:
-  - Bye 
+  - Bye
 
 - que:
   - hello again
@@ -44941,7 +44941,7 @@ qas:
 - que:
   - heloo
   ans:
-  - Hello 
+  - Hello
 
 - que:
   - konnichiwa
@@ -44986,7 +44986,7 @@ qas:
 - que:
   - _ talk to you later
   ans:
-  - Bye 
+  - Bye
 
 - que:
   - g night

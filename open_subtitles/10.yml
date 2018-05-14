@@ -1,6 +1,3 @@
-tag:
-- dia
-
 qas:
 
 - que:
@@ -44279,7 +44276,7 @@ qas:
   - I'm at the Earle.
 
 - que:
-  - To be honest, I don't go to the pictures much, Mr. Lipnik 
+  - To be honest, I don't go to the pictures much, Mr. Lipnik
   ans:
   - ...Yes, thank you.
 
@@ -44291,7 +44288,7 @@ qas:
 - que:
   - ...Can I be honest, Mr. Lipnik?
   ans:
-  - I  Mr. Lipnik 
+  - I  Mr. Lipnik
 
 - que:
   - F-I-N-K. Fink, Barton. That must be you, huh?

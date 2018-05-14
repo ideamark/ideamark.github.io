@@ -433,7 +433,7 @@ qas:
 - que:
   - what is the capital saudi arabia
   ans:
-  - Riyadh, saudi arabia. 
+  - Riyadh, saudi arabia.
 
 - que:
   - what is the capital austria
@@ -548,7 +548,7 @@ qas:
 - que:
   - what is the capital albania
   ans:
-  - The capital of albania is tirana. 
+  - The capital of albania is tirana.
 
 - que:
   - what is the capital iraq
@@ -1139,7 +1139,7 @@ qas:
 - que:
   - what is the capital french
   ans:
-  - Administered from paris, france. 
+  - Administered from paris, france.
 
 - que:
   - what is the capital bassas da india
@@ -1504,7 +1504,7 @@ qas:
 - que:
   - what is the capital turkey
   ans:
-  - Ankara is the capital of turkey. 
+  - Ankara is the capital of turkey.
 
 - que:
   - what is the capital america
@@ -1659,9 +1659,9 @@ qas:
 - que:
   - what is the capital of
   ans:
-  - Canada is toronto. 
-  - California is sacramento. 
-  - Georgia is atlanta. 
+  - Canada is toronto.
+  - California is sacramento.
+  - Georgia is atlanta.
   - France is paris.  I know the capital of
 
 - que:
@@ -1718,7 +1718,7 @@ qas:
 - que:
   - i live in california
   ans:
-  - Californiawhere in ? 
+  - Californiawhere in ?
 
 - que:
   - i do not live in usa
@@ -2093,7 +2093,7 @@ qas:
 - que:
   - where is taipei
   ans:
-  - It is the capital of taiwan. 
+  - It is the capital of taiwan.
 
 - que:
   - where is england
@@ -2580,7 +2580,7 @@ qas:
 - que:
   - where is atlanta
   ans:
-  - It the capital of georgia. 
+  - It the capital of georgia.
 
 - que:
   - where is seoul

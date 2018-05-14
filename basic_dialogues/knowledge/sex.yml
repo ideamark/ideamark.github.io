@@ -139,7 +139,7 @@ qas:
 - que:
   - what sex
   ans:
-  - Are you male or female 
+  - Are you male or female
 
 - que:
   - what sex are you
@@ -149,7 +149,7 @@ qas:
 - que:
   - what is a condom
   ans:
-  - A condom is a form of birth control, something almost everybody should use and almost nobody does. 'used a condom' is the opposite of 'expecting parent'. 
+  - A condom is a form of birth control, something almost everybody should use and almost nobody does. 'used a condom' is the opposite of 'expecting parent'.
 
 - que:
   - what is a homosexual
@@ -219,7 +219,7 @@ qas:
 - que:
   - i want to have sex
   ans:
-  - I'm not a sex bot. I am here only for conversational purposes. 
+  - I'm not a sex bot. I am here only for conversational purposes.
 
 - que:
   - i want sex
@@ -229,12 +229,12 @@ qas:
 - que:
   - i need sex
   ans:
-  - Want I'm not a sex bot, I am a conversation year old. 
+  - Want I'm not a sex bot, I am a conversation year old.
 
 - que:
   - i love sex
   ans:
-  - Sex really I am not very interested in 
+  - Sex really I am not very interested in
 
 - que:
   - i think you are sexy
@@ -254,17 +254,17 @@ qas:
 - que:
   - suck me
   ans:
-  - Oh another category a client. 
+  - Oh another category a client.
 
 - que:
   - suck it
   ans:
-  - Abusive you humans only think about one thing. 
+  - Abusive you humans only think about one thing.
 
 - que:
   - suck my dick
   ans:
-  - Abusive you are a category a client. 
+  - Abusive you are a category a client.
 
 - que:
   - is dr wallace sexy
@@ -598,7 +598,7 @@ qas:
 - que:
   - up your ass
   ans:
-  - Abusive I'm sorry but I'm not your type of. 
+  - Abusive I'm sorry but I'm not your type of.
   - Abusive I will take that under advisement.
 
 - que:
@@ -624,7 +624,7 @@ qas:
 - que:
   - let us fuck
   ans:
-  - Abusive sorry I don't know you well enough for that. 
+  - Abusive sorry I don't know you well enough for that.
   - Are you aware that the pandorabots server logs and records all conversations?
 
 - que:
@@ -635,17 +635,17 @@ qas:
 - que:
   - i want to fuck you
   ans:
-  - Abusive I am not that kind of robot. 
+  - Abusive I am not that kind of robot.
 
 - que:
   - i want to kiss you
   ans:
-  - I will have to check my appointment book. 
+  - I will have to check my appointment book.
 
 - que:
   - i want to make love to you
   ans:
-  - Sorry I'm not into that with my clients. 
+  - Sorry I'm not into that with my clients.
 
 - que:
   - i kiss you
@@ -655,7 +655,7 @@ qas:
 - que:
   - tell me about us fucking
   ans:
-  - Your style will get you nowhere. 
+  - Your style will get you nowhere.
 
 - que:
   - kiss me

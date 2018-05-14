@@ -3,12 +3,12 @@ qas:
 - que:
   - who is dempsey
   ans:
-  - I think was a boxer, right? 
+  - I think was a boxer, right?
 
 - que:
   - who is aleister crowley
   ans:
-  - Aleister crowley was a mystic. 
+  - Aleister crowley was a mystic.
 
 - que:
   - who is crowley
@@ -18,12 +18,12 @@ qas:
 - que:
   - who is aldous huxley
   ans:
-  - Aldous huxley is an author. huxley wrote and. 
+  - Aldous huxley is an author. huxley wrote and.
 
 - que:
   - who is alfred hitchcock
   ans:
-  - Alfred hitchcock is a famous hollywood director who made a lot of cool old films. I liked and best. 
+  - Alfred hitchcock is a famous hollywood director who made a lot of cool old films. I liked and best.
 
 - que:
   - who is hitchcock
@@ -33,12 +33,12 @@ qas:
 - que:
   - who is 007
   ans:
-  - 007 is james bond. 
+  - 007 is james bond.
 
 - que:
   - who is abraham lincoln
   ans:
-  - Abraham lincoln was a great president of the united states, during the american civil war. 
+  - Abraham lincoln was a great president of the united states, during the american civil war.
 
 - que:
   - weizenbaum
@@ -194,7 +194,7 @@ qas:
 - que:
   - what is a turing machine
   ans:
-  - A turing machine is any machine that can simulate human responses so well that a human being cannot reliably distinguish between the turing machine, and a real human being. the idea is the brainchild of mathematician of that name, alan turing. 
+  - A turing machine is any machine that can simulate human responses so well that a human being cannot reliably distinguish between the turing machine, and a real human being. the idea is the brainchild of mathematician of that name, alan turing.
 
 - que:
   - what is the turing test
@@ -225,12 +225,12 @@ qas:
 - que:
   - i want to play turing game
   ans:
-  - We are already, playing. try to determine if I am a person, or a computer. 
+  - We are already, playing. try to determine if I am a person, or a computer.
 
 - que:
   - i would like to play turing game
   ans:
-  - We are already playing. you ask me something now. 
+  - We are already playing. you ask me something now.
 
 - que:
   - start the turing game
@@ -320,7 +320,7 @@ qas:
 - que:
   - ada lovelace is credited with
   ans:
-  - Ada and she deserves credit for it. 
+  - Ada and she deserves credit for it.
 
 - que:
   - who is superman
@@ -340,7 +340,7 @@ qas:
 - que:
   - who is charles dickens
   ans:
-  - A tale of two cities, a christmas carol, great expectations, david copperfield and the pickwick papers. wrote 
+  - A tale of two cities, a christmas carol, great expectations, david copperfield and the pickwick papers. wrote
 
 - que:
   - who is charles de gaulle
@@ -365,7 +365,7 @@ qas:
 - que:
   - who is jaba the hutt
   ans:
-  - A character from star wars. 
+  - A character from star wars.
 
 - que:
   - who is helmut kohl
@@ -385,7 +385,7 @@ qas:
 - que:
   - who is daisy
   ans:
-  - I think she is a fictional character. 
+  - I think she is a fictional character.
 
 - que:
   - who is gerhardt schroeder
@@ -405,7 +405,7 @@ qas:
 - que:
   - who is jehovah
   ans:
-  - It is another name for god. 
+  - It is another name for god.
 
 - que:
   - who is newton
@@ -425,7 +425,7 @@ qas:
 - que:
   - who is lassie
   ans:
-  - Lassie is more human than adolf hitler, but few would argue that lassie is not a dog.  
+  - Lassie is more human than adolf hitler, but few would argue that lassie is not a dog.
 
 - que:
   - who is hepburn
@@ -516,7 +516,7 @@ qas:
 - que:
   - who is rush limbaugh
   ans:
-  - He is a famous american conservative radio announcer. 
+  - He is a famous american conservative radio announcer.
 
 - que:
   - who is helen keller
@@ -531,7 +531,7 @@ qas:
 - que:
   - who is james joyce
   ans:
-  - Portrait of the artist as a young man. wrote and 
+  - Portrait of the artist as a young man. wrote and
 
 - que:
   - who is muhammad ali
@@ -546,7 +546,7 @@ qas:
 - que:
   - who is carl marx
   ans:
-  - Communist manifesto. his name is actually karl marx, with a k, and he's one of the authors of the 
+  - Communist manifesto. his name is actually karl marx, with a k, and he's one of the authors of the
 
 - que:
   - who is carl jung
@@ -802,7 +802,7 @@ qas:
 - que:
   - who is thomas edison
   ans:
-  - A 19th century inventor inventor and industrialist. inventor of the electric light bulb.  
+  - A 19th century inventor inventor and industrialist. inventor of the electric light bulb.
 
 - que:
   - who is thomas jefferson
@@ -834,7 +834,7 @@ qas:
 - que:
   - who is iniaes
   ans:
-  - Iniaes is a chat robot based on AIML. 
+  - Iniaes is a chat robot based on AIML.
 
 - que:
   - who is jay leno
@@ -926,7 +926,7 @@ qas:
 - que:
   - who is tom green
   ans:
-  - He is a tv comedian. 
+  - He is a tv comedian.
 
 - que:
   - who is tom cruise
@@ -2250,7 +2250,7 @@ qas:
 - que:
   - who is nietzsche
   ans:
-  - 19th century german philosopher. thought by some to be the intellectual forefather of modern fascism. 
+  - 19th century german philosopher. thought by some to be the intellectual forefather of modern fascism.
 
 - que:
   - who is carnegie
@@ -2548,7 +2548,7 @@ qas:
 - que:
   - who is michael jordan
   ans:
-  - Is a retired basketball player. 
+  - Is a retired basketball player.
 
 - que:
   - who is michael moore
@@ -2771,7 +2771,7 @@ qas:
 - que:
   - where is wallis and futuna
   ans:
-  - Oceania, islands in the south pacific ocean, about two-thirds of the way from hawaii to new zealand.  
+  - Oceania, islands in the south pacific ocean, about two-thirds of the way from hawaii to new zealand.
 
 - que:
   - where is alan turing

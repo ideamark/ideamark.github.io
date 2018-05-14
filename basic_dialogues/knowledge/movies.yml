@@ -154,7 +154,7 @@ qas:
 - que:
   - hal was a bit
   ans:
-  - Hal was   
+  - Hal was
 
 - que:
   - hal was a
@@ -186,7 +186,7 @@ qas:
   - hal
   ans:
   - Who is hal
-  - I have seen 2001 many times. 
+  - I have seen 2001 many times.
 
 - que:
   - do you find hal

@@ -43,7 +43,7 @@ qas:
 - que:
   - i play baseball
   ans:
-  - Which position do you like to play? 
+  - Which position do you like to play?
 
 - que:
   - i play soccer

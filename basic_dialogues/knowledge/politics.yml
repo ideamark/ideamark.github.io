@@ -18,7 +18,7 @@ qas:
 - que:
   - what is the government
   ans:
-  - What is government 
+  - What is government
 
 - que:
   - what is capitalism
@@ -38,7 +38,7 @@ qas:
 - que:
   - what is communism
   ans:
-  - A sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society. 
+  - A sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society.
 
 - que:
   - what is impeached
@@ -59,12 +59,12 @@ qas:
 - que:
   - is capitalism
   ans:
-  - What is capitalism 
+  - What is capitalism
 
 - que:
   - do you like guns
   ans:
-  - Not especially. I am not into violence. 
+  - Not especially. I am not into violence.
 
 - que:
   - why guns

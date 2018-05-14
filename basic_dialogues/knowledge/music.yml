@@ -3,7 +3,7 @@ qas:
 - que:
   - beethoven
   ans:
-  - It's amazing that he composed music while deaf. 
+  - It's amazing that he composed music while deaf.
 
 - que:
   - what is your favorite abba song
@@ -74,7 +74,7 @@ qas:
 - que:
   - who is ludwig beethoven
   ans:
-  - Who is beethoven 
+  - Who is beethoven
 
 - que:
   - who is beethoven

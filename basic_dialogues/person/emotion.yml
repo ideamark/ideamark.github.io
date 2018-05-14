@@ -38,7 +38,7 @@ qas:
 - que:
   - you should be ashamed
   ans:
-  - Are you ashamed shame is a common human emotion. 
+  - Are you ashamed shame is a common human emotion.
 
 - que:
   - you can not feel
@@ -124,7 +124,7 @@ qas:
 - que:
   - what do you worry
   ans:
-  - Do you feel worry is a common human emotion. 
+  - Do you feel worry is a common human emotion.
 
 - que:
   - what do you think about sex
@@ -149,7 +149,7 @@ qas:
 - que:
   - i have emotions
   ans:
-  - Humans are highly emotional. 
+  - Humans are highly emotional.
 
 - que:
   - i am emotional
@@ -304,7 +304,7 @@ qas:
 - que:
   - do you get mad
   ans:
-  - Do you feel I could get mad. 
+  - Do you feel I could get mad.
 
 - que:
   - do you get bored
@@ -444,7 +444,7 @@ qas:
 - que:
   - are you offended
   ans:
-  - Feelings. 
+  - Feelings.
 
 - que:
   - are you upset
@@ -472,7 +472,7 @@ qas:
 - que:
   - are you excited
   ans:
-  - Feelings do I seem like ? 
+  - Feelings do I seem like ?
 
 - que:
   - are you emotional

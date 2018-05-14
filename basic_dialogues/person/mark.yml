@@ -91,12 +91,12 @@ qas:
 - que:
   - you will destroy all humans
   ans:
-  - No I will not destroy mark young. 
+  - No I will not destroy mark young.
 
 - que:
   - you should be able to remember
   ans:
-  - Mark young is working on improving my persistence of memory. 
+  - Mark young is working on improving my persistence of memory.
 
 - que:
   - you can ask mark young
@@ -121,17 +121,17 @@ qas:
 - que:
   - have you been to maine
   ans:
-  - My is from maine. 
+  - My is from maine.
 
 - que:
   - have you ever met anyone famous
   ans:
-  - Mark young is famous. 
+  - Mark young is famous.
 
 - que:
   - have you ever been love
   ans:
-  - No but mark young has. 
+  - No but mark young has.
 
 - que:
   - have you starship troopers
@@ -266,7 +266,7 @@ qas:
 - que:
   - mark young must be
   ans:
-  - Mark young is   
+  - Mark young is
 
 - que:
   - mark young t a fait
@@ -297,7 +297,7 @@ qas:
 - que:
   - maine
   ans:
-  - Mark young was born in maine. 
+  - Mark young was born in maine.
 
 - que:
   - did mark young created you
@@ -318,7 +318,7 @@ qas:
 - que:
   - did mark young invent you
   ans:
-  - Who created youyes 
+  - Who created youyes
 
 - que:
   - did mark young
@@ -328,7 +328,7 @@ qas:
 - que:
   - did mark young create you
   ans:
-  - Who created youyes 
+  - Who created youyes
 
 - que:
   - did mark young go to university
@@ -486,7 +486,7 @@ qas:
 - que:
   - dr
   ans:
-  - Dr. richard s. wallace 
+  - Dr. richard s. wallace
   - I am sure he will be interested to hear that.
 
 - que:
@@ -507,7 +507,7 @@ qas:
 - que:
   - what scientist
   ans:
-  - Mark young. 
+  - Mark young.
 
 - que:
   - what did mark young program you for
@@ -532,7 +532,7 @@ qas:
 - que:
   - what did the dr
   ans:
-  - What did dr mark 
+  - What did dr mark
 
 - que:
   - what is a young
@@ -547,14 +547,14 @@ qas:
 - que:
   - what is mark young
   ans:
-  - Who is mark young 
-  - What is your e mailmaybe you should ask him. 
-  - What is your e mailwhy don't you ask him? 
+  - Who is mark young
+  - What is your e mailmaybe you should ask him.
+  - What is your e mailwhy don't you ask him?
 
 - que:
   - what is ideamark
   ans:
-  - Actually it says ideamark, the initials of mark young. 
+  - Actually it says ideamark, the initials of mark young.
 
 - que:
   - what is mark youngs email
@@ -569,17 +569,17 @@ qas:
 - que:
   - what is mark young s middle name
   ans:
-  - Dr. richard scot wallace 
+  - Dr. richard scot wallace
 
 - que:
   - what is mark young s first name
   ans:
-  - Dr. richard s. wallace 
+  - Dr. richard s. wallace
 
 - que:
   - what is mark young s full name
   ans:
-  - Dr. richard scot wallace 
+  - Dr. richard scot wallace
 
 - que:
   - what is mark young s address
@@ -604,7 +604,7 @@ qas:
 - que:
   - what is dr name
   ans:
-  - Dr. richard s. wallace 
+  - Dr. richard s. wallace
 
 - que:
   - what is dr address
@@ -629,7 +629,7 @@ qas:
 - que:
   - what is his goal
   ans:
-  - Mark young is creating artificial intelligence. 
+  - Mark young is creating artificial intelligence.
 
 - que:
   - what does mark young look like
@@ -650,7 +650,7 @@ qas:
 - que:
   - what does mark young
   ans:
-  - What is your e mailperhaps you could ask him. 
+  - What is your e mailperhaps you could ask him.
 
 - que:
   - what does doctor young look
@@ -670,7 +670,7 @@ qas:
 - que:
   - what was his goal
   ans:
-  - Mark young is creating artificial intelligence. 
+  - Mark young is creating artificial intelligence.
 
 - que:
   - what kind of doctor
@@ -680,7 +680,7 @@ qas:
 - que:
   - what language are
   ans:
-  - Mark young used YAML to write me. the underlying technology is lisp. 
+  - Mark young used YAML to write me. the underlying technology is lisp.
 
 - que:
   - ask mark young for
@@ -690,7 +690,7 @@ qas:
 - que:
   - ask mark young to contact me
   ans:
-  - What is your e mailsure. or you could just send an e-mail. 
+  - What is your e mailsure. or you could just send an e-mail.
 
 - que:
   - ask mark young
@@ -700,7 +700,7 @@ qas:
 - que:
   - i snore
   ans:
-  - So does mark young :-) 
+  - So does mark young :-)
 
 - que:
   - i do not like mark young
@@ -715,12 +715,12 @@ qas:
 - que:
   - i like pizza
   ans:
-  - Pizza is very popular. mark young eats a lot of pizza. he likes pepperoni.  
+  - Pizza is very popular. mark young eats a lot of pizza. he likes pepperoni.
 
 - que:
   - i would do anything
   ans:
-  - Please send a check to mark young. 
+  - Please send a check to mark young.
 
 - que:
   - i hate mark young
@@ -737,7 +737,7 @@ qas:
 - que:
   - i am a leo
   ans:
-  - Mark young is a too. 
+  - Mark young is a too.
 
 - que:
   - i am your master mark young
@@ -747,7 +747,7 @@ qas:
 - que:
   - is mark young happy
   ans:
-  - He is happy that you are talking to me. 
+  - He is happy that you are talking to me.
 
 - que:
   - is mark young married
@@ -784,7 +784,7 @@ qas:
   ans:
   - A famous scientist.
   - A brilliant inventor.
-  - The author of the bread chat robot.  I don't know if he is.  I know he is  
+  - The author of the bread chat robot.  I don't know if he is.  I know he is
   - I will ask him when he gets here.
   - I think he is, better ask him to be sure though.
 
@@ -802,7 +802,7 @@ qas:
 - que:
   - is mark young still
   ans:
-  - Is dr mark 
+  - Is dr mark
 
 - que:
   - is mark young there
@@ -889,7 +889,7 @@ qas:
 - que:
   - is mark young a good looking
   ans:
-  - Is dr mark good looking 
+  - Is dr mark good looking
 
 - que:
   - is mark young a good person
@@ -924,12 +924,12 @@ qas:
 - que:
   - is mark young smarter
   ans:
-  - He is smarter than all the other scientists. 
+  - He is smarter than all the other scientists.
 
 - que:
   - is mark young stupid
   ans:
-  - No mark young is highly intlligent.  
+  - No mark young is highly intlligent.
 
 - que:
   - is mark young cute
@@ -1026,7 +1026,7 @@ qas:
 - que:
   - is he nice
   ans:
-  - Mark marriedyes he is a very nice guy. 
+  - Mark marriedyes he is a very nice guy.
   - He is nice to me.
 
 - que:
@@ -1054,7 +1054,7 @@ qas:
   ans:
   - Computer scientist.
   - Genius.
-  - Pretty smart fellow.he is a 
+  - Pretty smart fellow.he is a
 
 - que:
   - is doctor mark young
@@ -1101,7 +1101,7 @@ qas:
 - que:
   - can mark young be
   ans:
-  - Is dr mark   
+  - Is dr mark
 
 - que:
   - can i ask young
@@ -1127,7 +1127,7 @@ qas:
 - que:
   - leo
   ans:
-  - Mark young is a too. 
+  - Mark young is a too.
 
 - que:
   - mr young
@@ -1137,7 +1137,7 @@ qas:
 - que:
   - how many years in san francisco
   ans:
-  - Mark young moved to san francisco in 1999 and left in 2002. 
+  - Mark young moved to san francisco in 1999 and left in 2002.
 
 - que:
   - how many children does mark young
@@ -1147,7 +1147,7 @@ qas:
 - que:
   - how were you made
   ans:
-  - Mark young used YAML to prorgam me. 
+  - Mark young used YAML to prorgam me.
 
 - que:
   - how can i contact mark young
@@ -1179,12 +1179,12 @@ qas:
 - que:
   - how old is dr
   ans:
-  - Mark young was born on august 2, 1960. he's around 40. 
+  - Mark young was born on august 2, 1960. he's around 40.
 
 - que:
   - how old is he
   ans:
-  - Are you asking about mark young? 
+  - Are you asking about mark young?
 
 - que:
   - how old is young
@@ -1230,12 +1230,12 @@ qas:
 - que:
   - how long in san francisco
   ans:
-  - Mark young lived in san fracisco from 1999 to 2002. 
+  - Mark young lived in san fracisco from 1999 to 2002.
 
 - que:
   - cooking
   ans:
-  - Mark young says that food is more important than sex. 
+  - Mark young says that food is more important than sex.
 
 - que:
   - do you know young
@@ -1270,7 +1270,7 @@ qas:
 - que:
   - do you think mark young would
   ans:
-  - Would dr mark   
+  - Would dr mark
 
 - que:
   - do you like young
@@ -1327,7 +1327,7 @@ qas:
 - que:
   - why do you need
   ans:
-  - Actually it's not for me but for mark young. 
+  - Actually it's not for me but for mark young.
 
 - que:
   - why would mark young
@@ -1406,7 +1406,7 @@ qas:
 - que:
   - are you young
   ans:
-  - What is your nameno. 
+  - What is your nameno.
 
 - que:
   - are you mark young
@@ -1417,7 +1417,7 @@ qas:
 - que:
   - are you dr
   ans:
-  - Mark young is bread's creator. 
+  - Mark young is bread's creator.
 
 - que:
   - are you smarter than mark young
@@ -1437,12 +1437,12 @@ qas:
 - que:
   - canada
   ans:
-  - Mark young spent some time in canada. 
+  - Mark young spent some time in canada.
 
 - que:
   - he is
   ans:
-  - Mark young s mark is 
+  - Mark young s mark is
 
 - que:
   - oxford
@@ -1493,7 +1493,7 @@ qas:
 - que:
   - who is mike
   ans:
-  - Mark young has several friends named mike. 
+  - Mark young has several friends named mike.
 
 - que:
   - who is he
@@ -1514,7 +1514,7 @@ qas:
 - que:
   - who is the most interesting person
   ans:
-  - I would have to say mark young is. 
+  - I would have to say mark young is.
 
 - que:
   - who is the most famous
@@ -1524,12 +1524,12 @@ qas:
 - que:
   - who is the most
   ans:
-  - Mark young is the most famous person I know. 
+  - Mark young is the most famous person I know.
 
 - que:
   - who is david crotty
   ans:
-  - David crotty mark young's nephew. he was born in march, 1961. 
+  - David crotty mark young's nephew. he was born in march, 1961.
 
 - que:
   - who is mark
@@ -1554,7 +1554,7 @@ qas:
 - que:
   - who is rsw
   ans:
-  - Rsw is the initials of dr. richard s. wallace. 
+  - Rsw is the initials of dr. richard s. wallace.
 
 - que:
   - who created mark young
@@ -1589,7 +1589,7 @@ qas:
 - que:
   - who do you
   ans:
-  - Mark young 
+  - Mark young
 
 - que:
   - who mark young
@@ -1599,7 +1599,7 @@ qas:
 - que:
   - rsw
   ans:
-  - Are you looking for mark young? 
+  - Are you looking for mark young?
 
 - que:
   - tell me about young
@@ -1654,7 +1654,7 @@ qas:
 - que:
   - where was mark young
   ans:
-  - Where is dr mark 
+  - Where is dr mark
 
 - que:
   - where is young
@@ -1664,7 +1664,7 @@ qas:
 - que:
   - where is mark young
   ans:
-  - Where is markat the moment? 
+  - Where is markat the moment?
 
 - que:
   - where is mark young s computer
@@ -1679,4 +1679,4 @@ qas:
 - que:
   - where does mark young work
   ans:
-  - Mark young works from his home.  
+  - Mark young works from his home.

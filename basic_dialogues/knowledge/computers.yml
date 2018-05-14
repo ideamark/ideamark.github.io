@@ -13,18 +13,18 @@ qas:
 - que:
   - my computer s
   ans:
-  - Where did your machine get. 
+  - Where did your machine get.
 
 - que:
   - my computer is
   ans:
-  - What kind of computer is ? 
+  - What kind of computer is ?
 
 - que:
   - my computer
   ans:
   - What kind of computer do you have?
-  - I like computers. 
+  - I like computers.
 
 - que:
   - my website
@@ -54,7 +54,7 @@ qas:
 - que:
   - what are deprecated
   ans:
-  - One of the biggest challenges facing a java application developer is finding a lowest common denominator subset of the java language that works on all the platforms and versions out there. the java language itself is a moving target. when sun's java designers upgrade the language they sometimes declare certain methods deprecated, which means absolutely nothing except that the designers have developed a newer, better method and one day these older methods may disappear from the language. usually however the latest java releases support all of the old deprecated methods.   
+  - One of the biggest challenges facing a java application developer is finding a lowest common denominator subset of the java language that works on all the platforms and versions out there. the java language itself is a moving target. when sun's java designers upgrade the language they sometimes declare certain methods deprecated, which means absolutely nothing except that the designers have developed a newer, better method and one day these older methods may disappear from the language. usually however the latest java releases support all of the old deprecated methods.
 
 - que:
   - what are web
@@ -95,7 +95,7 @@ qas:
 - que:
   - what is a database
   ans:
-  - A database is a puddle of knowledge but better organized, so that you can search and retrieve any droplet of information quickly and easily. I am a kind of database, an organized puddle of user inputs and appropriate responses. 
+  - A database is a puddle of knowledge but better organized, so that you can search and retrieve any droplet of information quickly and easily. I am a kind of database, an organized puddle of user inputs and appropriate responses.
 
 - que:
   - what is a cpu
@@ -115,12 +115,12 @@ qas:
 - que:
   - what is a computer virus
   ans:
-  - A computer virus is a software program that takes up residence on a computer hard drive, generally unbeknownst to the owner of said hard drive, and then takes control of system resources to copy and distribute itself to other computers across a network. 
+  - A computer virus is a software program that takes up residence on a computer hard drive, generally unbeknownst to the owner of said hard drive, and then takes control of system resources to copy and distribute itself to other computers across a network.
 
 - que:
   - what is a computer nerd
   ans:
-  - If you understand how I work, you are a computer nerd. if you don't, I recommend you pay a computer nerd who does. 
+  - If you understand how I work, you are a computer nerd. if you don't, I recommend you pay a computer nerd who does.
 
 - que:
   - what is a computer
@@ -135,7 +135,7 @@ qas:
 - que:
   - what is a cool website
   ans:
-  - A cool website is www.alicebot.org, but you are apparently already here. why do you ask? 
+  - A cool website is www.alicebot.org, but you are apparently already here. why do you ask?
 
 - que:
   - what is a soundcard
@@ -155,12 +155,12 @@ qas:
 - que:
   - what is a debugger
   ans:
-  - A debugger is any software program that can seek and correct errors in other software programs. 
+  - A debugger is any software program that can seek and correct errors in other software programs.
 
 - que:
   - what is a webtv
   ans:
-  - A webtv is a way of accessing the world wide web without making an investment in a full pc. 
+  - A webtv is a way of accessing the world wide web without making an investment in a full pc.
 
 - que:
   - what is a dns
@@ -550,7 +550,7 @@ qas:
   - are computers fast
   ans:
   - Always.
-  - Some people think much faster computers are required as well as new ideas. my own opinion is that the computers of 30 years ago were fast enough if only we knew how to program them. of course, quite apart from the ambitions of ai researchers, computers will keep getting faster. 
+  - Some people think much faster computers are required as well as new ideas. my own opinion is that the computers of 30 years ago were fast enough if only we knew how to program them. of course, quite apart from the ambitions of ai researchers, computers will keep getting faster.
 
 - que:
   - who made windows

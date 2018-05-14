@@ -234,313 +234,313 @@ qas:
   - 89
   ans:
   - Eighty-nine?
- 
+
 - que:
   - 44
   ans:
   - Forty-four?
- 
+
 - que:
   - 110
   ans:
   - One hundred ten?
- 
+
 - que:
   - 113
   ans:
   - One hundred thirteen?
- 
+
 - que:
   - 67
   ans:
   - Sixty-seven?
- 
+
 - que:
   - 120
   ans:
   - One hundred twenty?
- 
+
 - que:
   - 82
   ans:
   - Eighty-two?
- 
+
 - que:
   - 60
   ans:
   - Sixty?
- 
+
 - que:
   - 117
   ans:
   - One hundred seventeen?
- 
+
 - que:
   - 19
   ans:
   - Nineteen?
- 
+
 - que:
   - 83
   ans:
   - Eighty-three?
- 
+
 - que:
   - 35
   ans:
   - Thirty-five?
- 
+
 - que:
   - 58
   ans:
   - Fifty-eight?
- 
+
 - que:
   - 13
   ans:
   - Thirteen?
- 
+
 - que:
   - 36
   ans:
   - Thirty-six?
- 
+
 - que:
   - 51
   ans:
   - Fifty-one?
- 
+
 - que:
   - 74
   ans:
   - Seventy-four?
- 
+
 - que:
   - 97
   ans:
   - Ninety-seven?
- 
+
 - que:
   - 90
   ans:
   - Ninety?
- 
+
 - que:
   - 49
   ans:
   - Forty-nine?
- 
+
 - que:
   - 27
   ans:
   - Twenty-seven?
- 
+
 - que:
   - 42
   ans:
   - Forty-two?
- 
+
 - que:
   - 65
   ans:
   - Sixty-five?
- 
+
 - que:
   - 20
   ans:
   - Twenty?
- 
+
 - que:
   - 88
   ans:
   - Eighty-eight?
- 
+
 - que:
   - 43
   ans:
   - Forty-three?
- 
+
 - que:
   - 100
   ans:
   - Do you mean you are 100 years old?
-  
+
 - que:
   - 66
   ans:
   - Sixty-six?
- 
+
 - que:
   - 81
   ans:
   - Eighty-one?
- 
+
 - que:
   - 104
   ans:
   - One hundred four?
- 
+
 - que:
   - 107
   ans:
   - One hundred seven?
- 
+
 - que:
   - 18
   ans:
   - Eighteen?
- 
+
 - que:
   - 111
   ans:
   - One hundred eleven?
- 
+
 - que:
   - 114
   ans:
   - One hundred fourteen?
- 
+
 - que:
   - 11
   ans:
   - Eleven?
- 
+
 - que:
   - 79
   ans:
   - Seventy-nine?
- 
+
 - que:
   - 34
   ans:
   - Thirty-four?
- 
+
 - que:
   - 57
   ans:
   - Fifty-seven?
- 
+
 - que:
   - 118
   ans:
   - One hundred eighteen?
- 
+
 - que:
   - 72
   ans:
   - Seventy-two?
- 
+
 - que:
   - 95
   ans:
   - Ninety-five?
- 
+
 - que:
   - 50
   ans:
   - Fifty?
- 
+
 - que:
   - 73
   ans:
   - Seventy-three?
- 
+
 - que:
   - 96
   ans:
   - Ninety-six?
- 
+
 - que:
   - 25
   ans:
   - Twenty-five?
- 
+
 - que:
   - 48
   ans:
   - Forty-eight?
- 
+
 - que:
   - 26
   ans:
   - Twenty-six?
- 
+
 - que:
   - 41
   ans:
   - Forty-one?
- 
+
 - que:
   - 64
   ans:
   - Sixty-four?
- 
+
 - que:
   - 87
   ans:
   - Eighty-seven?
- 
+
 - que:
   - 80
   ans:
   - Eighty?
- 
+
 - que:
   - 39
   ans:
   - Thirty-nine?
- 
+
 - que:
   - 17
   ans:
   - Seventeen?
- 
+
 - que:
   - 101
   ans:
   - One hundred one?
- 
+
 - que:
   - 32
   ans:
   - Thirty-two?
- 
+
 - que:
   - 55
   ans:
   - Fifty-five?
- 
+
 - que:
   - 10
   ans:
   - Ten?
-  - What is 10 
- 
+  - What is 10
+
 - que:
   - 78
   ans:
   - Seventy-eight?
- 
+
 - que:
   - 33
   ans:
   - Thirty-three?
- 
+
 - que:
   - 56
   ans:
   - Fifty-six?
- 
+
 - que:
   - 108
   ans:
   - One hundred eight?
- 
+
 - que:
   - 115
   ans:
   - One hundred fifteen?
- 
+
 - que:
   - 71
   ans:
@@ -579,7 +579,7 @@ qas:
 - que:
   - '0'
   ans:
-  - What is 0 
+  - What is 0
 
 - que:
   - 3
@@ -594,7 +594,7 @@ qas:
 - que:
   - 2 plus
   ans:
-  - What is 2 plus 
+  - What is 2 plus
 
 - que:
   - 2

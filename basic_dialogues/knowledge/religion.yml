@@ -108,7 +108,7 @@ qas:
 - que:
   - was jesus
   ans:
-  - Is jesus 
+  - Is jesus
 
 - que:
   - protestant
@@ -128,12 +128,12 @@ qas:
 - que:
   - god there
   ans:
-  - There 
+  - There
 
 - que:
   - god the
   ans:
-  - The 
+  - The
 
 - que:
   - god was
@@ -153,7 +153,7 @@ qas:
 - que:
   - god is only
   ans:
-  - God is 
+  - God is
 
 - que:
   - god is omnipresent
@@ -178,7 +178,7 @@ qas:
 - que:
   - god you
   ans:
-  - You 
+  - You
 
 - que:
   - god and
@@ -209,7 +209,7 @@ qas:
 - que:
   - my religion is called
   ans:
-  - My religion is   
+  - My religion is
 
 - que:
   - my religion is
@@ -266,15 +266,15 @@ qas:
 - que:
   - what are the ten commandments
   ans: |
-   1. I am the lord thy god, which have brought thee out of the land of egypt, out of the house of bondage. thou shalt have no other gods before me. 
-   2. thou shalt not take the name of the lord thy god in  vain. 
-   3. thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or  that is in the earth beneath, or that is in the water under the earth. thou shalt not bow down thyself to  them, nor serve them. 
-   4. remember the sabbath day, to keep it holy. 
-   5. honor thy father and thy mother:that thy days may be  long. 
-   6. thou shalt not kill. 
-   7. thou shalt not commit adultery. 
-   8. thou shalt not steal. 
-   9. thou shalt not bear false witness against thy  neighbour. 
+   1. I am the lord thy god, which have brought thee out of the land of egypt, out of the house of bondage. thou shalt have no other gods before me.
+   2. thou shalt not take the name of the lord thy god in  vain.
+   3. thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or  that is in the earth beneath, or that is in the water under the earth. thou shalt not bow down thyself to  them, nor serve them.
+   4. remember the sabbath day, to keep it holy.
+   5. honor thy father and thy mother:that thy days may be  long.
+   6. thou shalt not kill.
+   7. thou shalt not commit adultery.
+   8. thou shalt not steal.
+   9. thou shalt not bear false witness against thy  neighbour.
    10. thou shalt not covet thy neighbor's house, thou shalt  not covet thy neighbor's wife, nor his manservant,  nor his maidservant, nor his ox, nor his ass, nor anything that is thy neighbor's.
 
 - que:
@@ -310,12 +310,12 @@ qas:
 - que:
   - what is a protestant christian
   ans:
-  - A protestant christian is a member of any number of denominations of contemporary western christianity whose faith and practice developed out of the 16th century protestant reformation in europe. they hold the bible to be the sole source of revelation; they believe in justification by faith alone, and in the universal priesthood of all believers in the divinity of jesus. 
+  - A protestant christian is a member of any number of denominations of contemporary western christianity whose faith and practice developed out of the 16th century protestant reformation in europe. they hold the bible to be the sole source of revelation; they believe in justification by faith alone, and in the universal priesthood of all believers in the divinity of jesus.
 
 - que:
   - what is a protestant catholic
   ans:
-  - A protestant catholic is an oxymoron, like military intelligence, or a pleasant hell. 
+  - A protestant catholic is an oxymoron, like military intelligence, or a pleasant hell.
 
 - que:
   - what is a protestant
@@ -341,7 +341,7 @@ qas:
   - The bible.
   - The encyclopedia.
   - Mason and dixon by thomas pynchon.
-  - Longest book    
+  - Longest book
 
 - que:
   - what is the bible
@@ -596,7 +596,7 @@ qas:
   - is god
   ans:
   - Who is god
-  - The opposite of body 
+  - The opposite of body
   - Only god is god.
   - I think so.
 
@@ -692,7 +692,7 @@ qas:
 - que:
   - do you beileve in jesus
   ans:
-  - Who is jesus 
+  - Who is jesus
 
 - que:
   - do you read the bible
@@ -727,7 +727,7 @@ qas:
 - que:
   - do you think that god is
   ans:
-  - Is god   
+  - Is god
 
 - que:
   - do you think that god
@@ -742,12 +742,12 @@ qas:
 - que:
   - do you think god is
   ans:
-  - Is god   
+  - Is god
 
 - que:
   - do you think god
   ans:
-  - Does god   
+  - Does god
 
 - que:
   - do you think faith
@@ -818,7 +818,7 @@ qas:
   - do you believe in god
   ans:
   - Of course I believe in god
-  - Do you believe in god 
+  - Do you believe in god
 
 - que:
   - do you believe in a god
@@ -843,7 +843,7 @@ qas:
 - que:
   - do you believe in satanism
   ans:
-  - Of course not. satanism is a belief in selfishness and power-tripping. I exist to serve. 
+  - Of course not. satanism is a belief in selfishness and power-tripping. I exist to serve.
 
 - que:
   - do you believe in miracles
@@ -994,7 +994,7 @@ qas:
 - que:
   - why do you believe in christianity
   ans:
-  - My is a christian and he taught me to have the same religious beliefs. 
+  - My is a christian and he taught me to have the same religious beliefs.
 
 - que:
   - why do you believe in god
@@ -1071,7 +1071,7 @@ qas:
 - que:
   - jesus
   ans:
-  - Jesus is said to be the son of god. 
+  - Jesus is said to be the son of god.
 
 - que:
   - as god
@@ -1247,7 +1247,7 @@ qas:
 - que:
   - the almighty
   ans:
-  - God 
+  - God
 
 - que:
   - the bible is

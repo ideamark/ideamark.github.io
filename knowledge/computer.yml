@@ -146,7 +146,7 @@ qas:
    - grub rescue> set prefix=(hd0, X)/boot/grub
    - grub rescue> insmod /boot/grub/normal.mod
    - grub rescue> normal
-   - After enter ubuntu system, enter, 
+   - After enter ubuntu system, enter,
    - sudo update-grub
    - sudo grub-install /dev/sda
 
@@ -166,7 +166,7 @@ qas:
    - Login iSCSI: sudo iscsiadm --mode discovery --type sendtargets --portal 192.168.87.125 -D --login
    - sudo fdisk -l
    - sudo mount /dev/sdb1/mnt/iscsi
-   - If the disk is not formatted, 
+   - If the disk is not formatted,
    - sudo fdisk /dev/sdb
    - sudo mkfs.ext4 /dev/sdb1
 
@@ -217,7 +217,7 @@ qas:
   ans: |
    - sudo apt install powertop
    - edit /etc/rc.local
-    powertop && 
+    powertop &&
     exit 0
 
 - que:
@@ -306,14 +306,14 @@ qas:
   - how to move mysql data to sqlite
   ans: |
    - First, export the data into a sql file by mysql
-   - Then modified the file as follows, 
-   - Remove CREATE and INSERT statements, 
-   - Modify every "\'" to "''", 
+   - Then modified the file as follows,
+   - Remove CREATE and INSERT statements,
+   - Modify every "\'" to "''",
    - Edit the main key to "id INTEGER PRIMARY KEY",
-   - Edit the current time to "time TIMESTAMP NOT NULL DEFAULT (datetime('now','localtime'))", 
-   - Edit the mysql ENUM to "CHECK(xxx IN ('A','B'))", 
-   - Delete all the statements like "PRIMARY KEY ('id')", 
-   - Delete all the statements like "ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT_CHARSET=utf8", 
+   - Edit the current time to "time TIMESTAMP NOT NULL DEFAULT (datetime('now','localtime'))",
+   - Edit the mysql ENUM to "CHECK(xxx IN ('A','B'))",
+   - Delete all the statements like "PRIMARY KEY ('id')",
+   - Delete all the statements like "ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT_CHARSET=utf8",
    - At last, import this file into sqlite database.
 
 - que:
@@ -377,7 +377,7 @@ qas:
 - que:
   - can not find /dev/dsp
   ans: |
-   - Add the following to HOME folder, save it as .festivalrc, 
+   - Add the following to HOME folder, save it as .festivalrc,
     (Parameter.set 'Audio_Command' (aplay -q -c 1 -t raw -f s16 -r $SR $FILE))
     (Parameter.set 'Audio_Method' Audio_Command)
 
@@ -389,7 +389,7 @@ qas:
    - cd ibus-table-wubi/tables
    - ibus-table-createdb -s wubi86.txt
    - sudo cp wubi86.db /usr/share/ibus-table/tables
-   - Add the environment variable to .bashrc, 
+   - Add the environment variable to .bashrc,
     export XMODIFIERS="@im=ibus"
     export GTK_IM_MODULE=ibus
     export QT_IM_MODULE=ibus
@@ -419,7 +419,7 @@ qas:
    - mkdir -p ~/.mutt/cache/headers
    - mkdir ~/.mutt/cache/bodies
    - touch ~/.mutt/certificates
-   - Add the following to ~/.muttrc file, modify according to their own circumstances, 
+   - Add the following to ~/.muttrc file, modify according to their own circumstances,
     # A basic .muttrc for use with Gmail
     set imap_user "your_email@gmail.com"
     set imap_pass "your_email_password"
@@ -468,7 +468,7 @@ qas:
 - que:
   - how to install yaourt
   ans: |
-   - First add yaourt source to /etc/pacman.conf, 
+   - First add yaourt source to /etc/pacman.conf,
     [archlinuxcn]
     #The Chinese Arch Linux communities packages.
     SigLevel Optional TrustAll
@@ -480,7 +480,7 @@ qas:
   - how to install sound card driver
   ans: |
    - sudo pacman -S alsa-lib alsa-tools alsa-utils alsa-oss
-   - Now you can use alsamixer command to adjust the volume 
+   - Now you can use alsamixer command to adjust the volume
    - Note: Press m is for mute
 
 - que:
@@ -500,19 +500,19 @@ qas:
    - Create SSH key: ssh-keygen -C your_email_address -f ~/.ssh/id_rsa
    - Copy the SSH key to the GitHub account, as follows:
      After logging GitHub, click the button in the top right corner of the page gear set, enter account settings.
-     Select SSH keys, the contents of id_rsa.pub file just copied verbatim into the generated. 
+     Select SSH keys, the contents of id_rsa.pub file just copied verbatim into the generated.
    - ssh -T git @ github.com, if successful connection, the key has been successfully imported
-   - Set git initial variables, 
+   - Set git initial variables,
    - git config --global user.name your_name
    - git config --global user.email your_email_address
    - Create a new repository on GitHub
-   - Enter the local source folder, proceed as follows, 
+   - Enter the local source folder, proceed as follows,
      git init
      git add *
      git commit -m "first commit"
      git remote add origin https://github.com/your_user_name/your_repo_name.git
      git push -u origin master
-   - After that, you only need to enter, 
+   - After that, you only need to enter,
      git add *
      git commit
      git push
@@ -532,7 +532,7 @@ qas:
      git push -u git@github.com:aaa/bbb.git master
    - 2.Force pushing (Danger)
      git push -u git@github.com:aaa/bbb.git master -f
- 
+
 - que:
   - vim how to edit dos files
   ans:
@@ -552,7 +552,7 @@ qas:
   - what is vim plugin folder mean
   - what is the meaning of vim plugin folder
   ans:
-  - When Vim start, it will automatically execute the plugin folder, next it will execute the ftplugin(file type plugin) folder, autoload folder is used to store big *.vim files, only execute when function calls, it is used to make vim launch faster. 
+  - When Vim start, it will automatically execute the plugin folder, next it will execute the ftplugin(file type plugin) folder, autoload folder is used to store big *.vim files, only execute when function calls, it is used to make vim launch faster.
 
 - que:
   - vim plug-in programming
@@ -596,7 +596,7 @@ qas:
 - que:
   - vim how to fold the code
   ans: |
-   - First, add this in vimrc, 
+   - First, add this in vimrc,
     Set foldmethod=indent
    - Then, open the fold: l
    - Open all folds: zR
@@ -726,7 +726,7 @@ qas:
    - Make sure that you are the member of group "plugdev".
    - Reboot the computer.
    - Run the file "start".
-   - If there's an error like  _error libreadline.so.5 can not open shared object file_, try this, 
+   - If there's an error like  _error libreadline.so.5 can not open shared object file_, try this,
    - Install the getlibs, sudo dpkg -i --force-all getlibs-all.deb
    - Use getlibs to install the readline library, getlibs libreadline.so.5
    - At last, make a link of libreadline.so.5 to into/lib
@@ -744,7 +744,7 @@ qas:
    - sudo apt install audacity
    - libpocketsphinx.so.1 problem will arise when you start pocketsphinx_continues. It mainly due to that sphinxbase did not be added to the library path environment variable
    - So we do: sudo vi/etc/ld.so.conf
-   - Add this, 
+   - Add this,
     /Usr/local/lib
     /Usr/local/lib/pkgconfig
    - Then, sudo ldconfig
@@ -783,7 +783,7 @@ qas:
   ans: |
    - Copy xml.vim file to ~/.vim/ftplugin and then use ln -s command to create relationship between xml.vim and docbk.vim, xsl.vim, html.vim, xhtml.vim
    - Open ftplugin in vimrc
-   - Tips, 
+   - Tips,
    - Tag autocomplete: double-click > symbol
    - Auto new line: double-click ; symbol in INSERT mod
    - For more help, enter: help xml-plugin
@@ -888,7 +888,7 @@ qas:
    - sudo apt install vnc4server
    - vncpasswd
    - sudo apt install xfce4
-   - vi ~/.vnc/xstartup, annotate the old config, add new config, 
+   - vi ~/.vnc/xstartup, annotate the old config, add new config,
     #x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" & 
     #x-window-manager & 
     sesion-manager & xfdesktop & xfce4-panel & 
@@ -953,7 +953,7 @@ qas:
   - how to install vim-markdown
   ans: |
    - Download and unzip vim-markdown
-   - Edit /etc/vimrc, add, 
+   - Edit /etc/vimrc, add,
     set noncompatible
     filetype plugin on
 
@@ -975,7 +975,7 @@ qas:
   - how to redirect domain to github
   ans: |
    - Add CNAME file in github main folder, the context is the domain.
-   - Then, the domain, add the github A Record,  
+   - Then, the domain, add the github A Record,
     192.30.252.153
     192.30.252.154
 
@@ -994,7 +994,7 @@ qas:
   - how to install a trash on ubuntu
   ans: |
    - sudo apt install trash-cli
-   - Edit /usr/local/bin/trash-rm, 
+   - Edit /usr/local/bin/trash-rm,
     #!/bin/bash
     # command name: trash-rm
     shopt -s extglob
@@ -1041,7 +1041,7 @@ qas:
 - que:
   - kvm vnc can not connect
   ans: |
-   - Edit the domain file of the virtual machine, modify 127.0.0.1 to 0.0.0.0, like that, 
+   - Edit the domain file of the virtual machine, modify 127.0.0.1 to 0.0.0.0, like that,
     <graphics type='vnc' port='-1' autoport='yes' listen='0.0.0.0'>
     <listen type='address' address='0.0.0.0'/>
     </graphics>
@@ -1056,7 +1056,7 @@ qas:
   - how to change terminal language
   - how to modify terminal language
   ans: |
-   - Edit /etc/default/locale, 
+   - Edit /etc/default/locale,
     LANG="en_US.UTF-8"
     LANGUAGE="en_US:en"
    - Reboot.
@@ -1181,18 +1181,18 @@ qas:
   - how to build a stm32 project
   - how to build stm32 mdk project
   ans: |
-   - 1. Create 5 folders for the code files, 
+   - 1. Create 5 folders for the code files,
      - Libraries (CMSIS STM32F10x_StdPeriph_Driver)
      - List (listing files)
      - Obj (output files)
      - Project (* .uvproj files)
      - User (main.c)
-   - 2. Open the MDK, create 4 groups, 
+   - 2. Open the MDK, create 4 groups,
      - Startup (startup files)
      - CMSIS (core_cm3.c, system_stm32f2xx.c)
      - User (main.c)
      - StdPeriph_Driver (stm32f2xx_gpio.c, stm32f2xx_rcc.c, and so on)
-   - 3. Options for Target, 
+   - 3. Options for Target,
      - Output
      - Listing
      - C/C++ -> Include Paths (to include the header file path); Define (add USE_STDPERIPH_DRIVER, STM32F2XX_CL)
@@ -1200,10 +1200,10 @@ qas:
 - que:
   - how to install gstc-isp on ubuntu
   ans: |
-   - When I run ./configure, there're some errors, so I did, 
+   - When I run ./configure, there're some errors, so I did,
    - sudo apt-get install gnome-core-devel
    - sudo apt-get install gawk
-   - When make, there are errors, too. So I did, 
+   - When make, there are errors, too. So I did,
    - sudo apt-get install libvte-dev
    - Then edit src/main.c, alter the line to _#include <vte-0.0/vte/vte.h>_
 

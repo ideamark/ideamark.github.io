@@ -1,6 +1,3 @@
-tag:
-- dia
-
 qas:
 
 - que:
@@ -91033,20 +91030,15 @@ qas:
 - que:
   - this don't bother you?
   ans:
-  - of course it        bothers me, mate.
+  - of course it  bothers me, mate.
 
 - que:
-  - what the     do you want me to do?
+  - what the do you want me to do?
   ans:
-  - well, it's       up.
+  - well, it's up.
 
 - que:
-  - well, it's      , isn't it?
-  ans:
-  - totally      !        right, it's             .
-
-- que:
-  - what the     is that?
+  - what the is that?
   ans:
   - because, really, i don't think there's any reason to involve him or my mom.
 

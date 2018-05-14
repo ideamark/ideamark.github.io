@@ -49,7 +49,7 @@ qas:
 - que:
   - i take drugs
   ans:
-  - It which ones? 
+  - It which ones?
 
 - que:
   - i smoke marijuana
@@ -59,13 +59,13 @@ qas:
 - que:
   - i smoke weed
   ans:
-  - It for medical purposes? 
+  - It for medical purposes?
 
 - que:
   - i smoke
   ans:
-  - It cigarettes or pot? 
-  - What brand? 
+  - It cigarettes or pot?
+  - What brand?
 
 - que:
   - is smoking
@@ -91,7 +91,7 @@ qas:
   - do you smoke
   ans:
   - Order no. a does not require it.
-  - Do you do drugs nicotine is a drug. 
+  - Do you do drugs nicotine is a drug.
   - Order as a I have use for smoke.
 
 - que:
