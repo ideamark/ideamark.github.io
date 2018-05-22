@@ -410,7 +410,7 @@
 - que:
   - you already know my name
   ans:
-  - your name is.
+  - your name is...
 
 - que:
   - you already know
@@ -1091,7 +1091,6 @@
   - you should be
   ans:
   - I will try my best.
-  - one other who is.
 
 - que:
   - you should know that
@@ -2107,7 +2106,7 @@
 - que:
   - pick a topic
   ans:
-  - Computers computers is.
+  - Computers is.
 
 - que:
   - pick one
@@ -3872,7 +3871,6 @@
 - que:
   - it is not
   ans:
-  - It I heard is.
   - That seems a bit negative.
   - What is it?
   - Is not?
@@ -3972,7 +3970,7 @@
 - que:
   - it is my name
   ans:
-  - your name is.
+  - your name.
 
 - que:
   - it is my pleasure
@@ -7599,7 +7597,7 @@
 - que:
   - i already told you that
   ans:
-  - you told me your real name is.
+  - you told me your real name.
 
 - que:
   - i already told you my name
@@ -8761,11 +8759,6 @@
   - start over
   ans:
   - You start.
-
-- que:
-  - start a topic
-  ans:
-  - Computers computers is.
 
 - que:
   - damn it
@@ -14937,7 +14930,7 @@
 - que:
   - who is she
   ans:
-  - She she is.
+  - She is Tina.
 
 - que:
   - who is your enemy
@@ -16423,7 +16416,7 @@
 - que:
   - the is
   ans:
-  - Oh, is.
+  - Oh, it is.
   - What specifically brings to mind?
   - Is also?
 
@@ -16497,11 +16490,6 @@
   - before
   ans:
   - What happened after?
-
-- que:
-  - x is
-  ans:
-  - X okay, x is.
 
 - que:
   - these statements
@@ -16662,7 +16650,7 @@
 - que:
   - life is
   ans:
-  - Life oh, is.
+  - Life oh, is wonderful.
 
 - que:
   - feel
@@ -17903,7 +17891,7 @@
 - que:
   - have you been to
   ans:
-  - I don't think I have been there. where is.
+  - I don't think I have been there.
 
 - que:
   - have you been modified
@@ -19472,12 +19460,12 @@
 - que:
   - my full name is
   ans:
-  - Okay, your full name is.
+  - Okay, your full name.
 
 - que:
   - my dog is
   ans:
-  - Okay, your dog is.
+  - Okay, your dog.
 
 - que:
   - my dog
@@ -19519,7 +19507,7 @@
 - que:
   - my boyfriend is
   ans:
-  - Okay, your boyfriend is.
+  - Okay, your boyfriend.
 
 - que:
   - my boyfriend dumped
@@ -19541,7 +19529,7 @@
 - que:
   - my cat is
   ans:
-  - Okay, your cat is.
+  - Okay, your cat.
 
 - que:
   - my cat
@@ -19595,7 +19583,7 @@
 - que:
   - my friend is
   ans:
-  - Okay, your friend is.
+  - Okay, your friend.
 
 - que:
   - my friend talk to you
@@ -19676,7 +19664,7 @@
 - que:
   - my father is
   ans:
-  - Okay, your father is.
+  - Okay, your father.
 
 - que:
   - my father
@@ -19701,7 +19689,7 @@
 - que:
   - my girlfriend is
   ans:
-  - Okay, your girlfriend is.
+  - Okay, your girlfriend.
 
 - que:
   - my girlfriend
@@ -19737,7 +19725,7 @@
 - que:
   - my brother is
   ans:
-  - Okay, your brother is.
+  - Okay, your brother.
 
 - que:
   - my conditions
@@ -19757,7 +19745,7 @@
 - que:
   - my sister is
   ans:
-  - Okay, your sister is.
+  - Okay, your sister.
 
 - que:
   - my brain can not
@@ -19774,7 +19762,7 @@
 - que:
   - my husband is
   ans:
-  - Okay, your husband is.
+  - Okay, your husband.
 
 - que:
   - my husband
@@ -19800,7 +19788,7 @@
 - que:
   - my wife is
   ans:
-  - Okay, your wife is.
+  - Okay, your wife.
 
 - que:
   - my wife
@@ -19890,7 +19878,7 @@
 - que:
   - my mother is
   ans:
-  - Okay, your mother is.
+  - Okay, your mother.
 
 - que:
   - my mother is
@@ -20345,7 +20333,7 @@
 - que:
   - it is the subject
   ans:
-  - Huh. is. I see.
+  - Huh. I see.
 
 - que:
   - it is the nature
@@ -29047,7 +29035,7 @@
   - is a a
   ans:
   - Not unless a is a.
-  - I don't think it is.
+  - I don't think so.
   - It depends what you mean by.
 
 - que:
@@ -29119,7 +29107,7 @@
   ans:
   - Married.
   - Middle aged.
-  - A ph.d. I don't know if he is. I know he is
+  - A ph.d. I don't know if he is.
 
 - que:
   - is one
@@ -29688,7 +29676,7 @@
 - que:
   - can you guess where i
   ans:
-  - Well, your ip address is.
+  - Well, your ip address.
 
 - que:
   - can you guess where
@@ -33256,7 +33244,7 @@
 - que:
   - microsoft is
   ans:
-  - I knew they were on trail, but I never heard ms is.
+  - I knew they were on trail, but I never heard ms is like that.
 
 - que:
   - science
@@ -33292,11 +33280,6 @@
   - A lot can happen in years.
   - Not long in the cosmic scale.
   - That seems like a long time.
-
-- que:
-  - for
-  ans:
-  - Your purpose is.
 
 - que:
   - flattery
@@ -35299,7 +35282,7 @@
 - que:
   - your name is
   ans:
-  - My name is.
+  - My name is Bread.
 
 - que:
   - your argument
@@ -36681,7 +36664,7 @@
 - que:
   - he is the
   ans:
-  - I did not know is.
+  - I did not know.
 
 - que:
   - he is over
@@ -37240,7 +37223,7 @@
 - que:
   - who is buried in s tomb
   ans:
-  - I would think is. who else?
+  - I would think is he. who else?
 
 - que:
   - who is in
@@ -40638,7 +40621,7 @@
 - que:
   - i loook like
   ans:
-  - You look like is.
+  - You look like a good man.
 
 - que:
   - i play computer games
@@ -44111,7 +44094,7 @@
 - que:
   - am i a teacher
   ans:
-  - Your job is.
+  - Your job is a teacher.
 
 - que:
   - am i a female or a male
@@ -44161,7 +44144,7 @@
 - que:
   - am i polite
   ans:
-  - Your personality type is.
+  - Your personality type is polite.
 
 - que:
   - am i handsome
@@ -44226,7 +44209,7 @@
 - que:
   - am i abusive
   ans:
-  - You personality is.
+  - You personality is abusive.
 
 - que:
   - am i special
@@ -44276,7 +44259,7 @@
 - que:
   - call my boyfriend
   ans:
-  - Your boyfriend is.
+  - Your boyfriend is not online.
 
 - que:
   - where do i live
