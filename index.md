@@ -1,6 +1,5 @@
 ### Breadbot
 * [About](https://github.com/ideamark/breadbot/blob/master/README.md)
-* [Download](https://github.com/ideamark/breadbot)
 
 ### Corpus
 * [basic_dialogues](basic_dialogues/index.md)
