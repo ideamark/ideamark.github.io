@@ -1491,3 +1491,13 @@
   - how to check memory on linux
   ans:
   - free -h
+
+- que:
+  - how to replace string by tr
+  ans:
+  - cat xxx | tr "aa" "bb"
+
+- que:
+  - how to delete string by tr
+  ans:
+  - cat xxx | tr -d "xx"

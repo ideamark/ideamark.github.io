@@ -15594,3 +15594,33 @@
   - sb
   ans:
   - Actually I am not.
+
+- que:
+  - nb
+  ans:
+  - wow
+
+- que:
+  - translate
+  ans:
+  - translate what?
+
+- que:
+  - baidu
+  ans:
+  - you want baidu what?
+
+- que:
+  - wikipedia
+  ans:
+  - a famous wiki
+
+- que:
+  - google
+  ans:
+  - google what?
+
+- que:
+  - baidu
+  ans:
+  - baidu what?
