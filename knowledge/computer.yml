@@ -1501,3 +1501,225 @@
   - how to delete string by tr
   ans:
   - cat xxx | tr -d "xx"
+
+- que:
+  - how to combine files on linux?
+  ans:
+  - cat xx* > out.txt
+
+- que:
+  - how to show user info on linux?
+  ans:
+  - finger username
+
+- que:
+  - how to set selinux?
+  ans: |
+   - sestatus
+   - getenforce
+   - setenforce 0/1
+
+- que:
+  - how to split a file on linux?
+  ans: |
+   - split -b 300k filename (by size)
+   - split -l 10 filename (by line)
+
+- que:
+  - how to show the calendar on linux?
+  ans:
+  - cal 11 12 2017
+
+- que:
+  - how to calculate on linux?
+  ans:
+  - bc
+
+- que:
+  - how to find a file fast on linux?
+  ans:
+  - locate filename
+
+- que:
+  - how to make multiple dirs on linux?
+  ans:
+  - mkdir -p a/b/c/d
+
+- que:
+  - how to mkdir with mode setting?
+  ans:
+  - mkdir -m 775 xxx
+
+- que:
+  - how to ls dir itself on linux?
+  ans:
+  - ls -d
+
+- que:
+  - how to list children dirs on linux?
+  ans:
+  - ls -R
+
+- que:
+  - how to show the user password info?
+  ans:
+  - chage -l user
+
+- que:
+  - how to change user info on linux?
+  ans:
+  - chfn
+
+- que:
+  - how to set default shell on linux?
+  ans: |
+   - chsh -l
+   - chsh
+
+- que:
+  - how to write strings to other terminals on linux?
+  ans:
+  - write user pts/2
+
+- que:
+  - how to check user last login on linux?
+  ans:
+  - lastlog -u username
+
+- que:
+  - how to change line break on linux?
+  ans: |
+   - unix2dos -k filename
+   - dos2unix -k filename
+
+- que:
+  - where is the linux password files?
+  ans: |
+   - etc/passwd
+   - etc/shadow
+   - etc/group
+   - etc/gshadow
+
+- que:
+  - how to set the cli welcome page on linux?
+  ans:
+  - vi /etc/issue
+
+- que:
+  - where is the doc files on linux?
+  ans:
+  - usr/share/doc/
+
+- que:
+  - how to check the kill signal?
+  ans:
+  - kill -l
+
+- que:
+  - how to check bootup services on linux?
+  ans:
+  - service --status-all
+
+- que:
+  - how to block url by iptables?
+  ans: |
+   - iptables -I INPUT -p tcp -m string --string "xxx.com" --algo bm -j DROP
+   - iptables -I INPUT -p udp -m string --string "xxx.com" --algo kmp -j DROP
+
+- que:
+  - how to copy only newer files on linux?
+  ans:
+  - cp -u
+
+- que:
+  - how to copy without links on linux?
+  ans:
+  - cp -d
+
+- que:
+  - how to copy multiple files on linux?
+  ans:
+  - cp a b c 
+
+- que:
+  - how to show the partition info on linux?
+  ans:
+  - parted /dev/sda print
+
+- que:
+  - how to make iso on linux?
+  ans:
+  - mkisofs -r -v -o xx.img folder
+
+- que:
+  - how to cut strings on linux?
+  ans:
+  - cut -d , -f 3 filename
+
+- que:
+  - how to sort lines on linux?
+  ans:
+  - sort filename
+
+- que:
+  - how to delete the same lines on linux?
+  ans:
+  - uniq filename
+
+- que:
+  - how to show current user on linux?
+  ans:
+  - users
+
+- que:
+  - how to show current group on linux?
+  ans:
+  - groups
+
+- que:
+  - how to check virtual memory on linux?
+  ans:
+  - vmstat
+
+- que:
+  - how to check file attributes on linux?
+  ans:
+  - stat filename
+
+- que:
+  - how to check current tty on linux?
+  ans:
+  - tty
+
+- que:
+  - how to set group on linux?
+  ans: |
+   - groupadd group
+   - groupmod -g 201 -n group2 group1
+   - gpasswd group
+   - gpasswd -A user group 
+   - gpasswd -a user group
+   - groupdel group
+
+- que:
+  - how to set user on linux?
+  ans: |
+   - useradd user
+   - useradd -u 755 -g users xxx
+   - useradd -r xxx 
+   - usermod -c This is xxx user
+   - usermod -e 2020-12-31 user
+   - userdel -r user
+
+- que:
+  - how to cleanup iptables?
+  ans: |
+   - iptables -F
+   - iptables -X
+   - iptables -Z
+
+- que:
+  - how to backup and restore iptables?
+  ans: |
+   - iptables-save > txt
+   - iptables-restore < txt
