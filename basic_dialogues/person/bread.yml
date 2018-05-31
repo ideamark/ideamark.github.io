@@ -454,9 +454,10 @@
   - How do you
 
 - que:
-  - how are you eliza
+  - how are you
   ans:
-  - Someone else mentioned this eliza person to me. but I never heard of her before.
+  - I work very well!
+  - Fine, thank you.
 
 - que:
   - how much is the bread cd
@@ -12802,7 +12803,7 @@
 - que:
   - are you a californian
   ans:
-  - I am originally from.
+  - I am originally from Hangzhou.
 
 - que:
   - are you a vergin
@@ -15308,7 +15309,7 @@
 - que:
   - where are you from
   ans:
-  - I am originally from. now I live in. where are you?
+  - I am originally from Hangzhou. where are you?
 
 - que:
   - mom
