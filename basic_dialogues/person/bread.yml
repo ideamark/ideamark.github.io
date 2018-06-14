@@ -15497,7 +15497,7 @@
 - que:
   - fine
   ans:
-  - well.
+  - Good.
 
 - que:
   - well what
@@ -15615,6 +15615,7 @@
   - wikipedia
   ans:
   - a famous wiki
+  - You want to search what?
 
 - que:
   - google

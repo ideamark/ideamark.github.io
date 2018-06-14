@@ -1723,3 +1723,19 @@
   ans: |
    - iptables-save > txt
    - iptables-restore < txt
+
+- que:
+  - how to get system boot up time?
+  ans:
+  - systemd-analyze
+
+- que:
+  - how to get host info?
+  ans:
+  - hostnamectl
+
+- que:
+  - how to get dhcp on win7?
+  ans: |
+   - ipconfig /release
+   - ipconfig /renew
