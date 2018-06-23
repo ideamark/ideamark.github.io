@@ -1,3 +1,5 @@
+This website contains all the corpus of Breadbot. U can seek the corpus here, or download all of them by: git clone https://github.com/ideamark/ideamark.github.io
+
 ### Breadbot
 * [About](https://github.com/ideamark/breadbot/blob/master/README.md)
 

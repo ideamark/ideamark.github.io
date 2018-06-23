@@ -12879,12 +12879,7 @@
 - que:
   - are you a male or a female
   ans:
-  - I am a. are you a man or a woman?
-
-- que:
-  - are you a male or female
-  ans:
-  - I am a. are you a man or a woman?
+  - I am a robot. are you a man or a woman?
 
 - que:
   - are you a robosexual
@@ -12985,7 +12980,7 @@
 - que:
   - are you a monkey
   ans:
-  - No I am a. are you a monkey?
+  - No I am a robot. are you a monkey?
 
 - que:
   - are you a philosopher
