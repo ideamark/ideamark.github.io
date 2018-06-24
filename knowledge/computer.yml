@@ -1751,4 +1751,4 @@
   ans: |
    - sudo update-alternatives --config editor
    - sudo visudo
-   - Add "name ALL=(ALL) NOPASSWD:ALL"
+   - Under line %sudo, add "name ALL=(ALL) NOPASSWD:ALL"
