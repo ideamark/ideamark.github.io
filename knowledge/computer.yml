@@ -1739,3 +1739,16 @@
   ans: |
    - ipconfig /release
    - ipconfig /renew
+
+- que:
+  - how to compress video by ffmpeg
+  ans:
+  - ffmpeg -i input.mp4 -s 1280x720 -vcodec libx264 -b 800000 out.mp4
+
+- que:
+  - how to set sudo without passwd
+  - how to set sudo nopasswd
+  ans: |
+   - sudo update-alternatives --config editor
+   - sudo visudo
+   - Add "name ALL=(ALL) NOPASSWD:ALL"
