@@ -1,4 +1,4 @@
-# basic_dialogues/knowledge
+# knowledge/common
 
 * [biography.yml](biography.yml)
 * [computers.yml](computers.yml)

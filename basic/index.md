@@ -1,4 +1,4 @@
-# basic_dialogues/person
+# basic
 
 * [ai.yml](ai.yml)
 * [atomic.yml](atomic.yml)
