@@ -66,11 +66,12 @@
   - how to unzip
   - how to untar
   - how to uncompress
+  - how to uncompress gz
   ans: |
    - tar xf
-   - unrar e
-   - unzip
-   - 7z (p7zip-full)
+   - unrar e *.rar
+   - unzip *.zip
+   - gzip -d *.gz
 
 - que:
   - how to config samba
