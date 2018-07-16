@@ -1627,3 +1627,20 @@
    - sudo update-alternatives --config editor
    - sudo visudo
    - Under line %sudo, add "name ALL=(ALL) NOPASSWD:ALL"
+
+- que:
+  - how to check all cpus in top command
+  ans:
+  - press "1"
+
+- que:
+  - dpkg how to remove multiple pkgs
+  ans:
+  - dpkg -l | grep "<your_keyword>" | cut -d' ' -f3 | sudo xargs dpkg --purge
+
+- que:
+  - how to enable rc.local on ubuntu18
+  ans: |
+   - ln -fs /lib/systemd/system/rc-local.service /etc/systemd/system/rc-local.service
+   - touch /etc/rc.local
+   - chmod 755 /etc/rc.local
