@@ -1644,3 +1644,33 @@
    - ln -fs /lib/systemd/system/rc-local.service /etc/systemd/system/rc-local.service
    - touch /etc/rc.local
    - chmod 755 /etc/rc.local
+
+- que:
+  - how to fix apt
+  ans:
+  - sudo rm /var/lib/dpkg/info/*
+
+- que:
+  - how to show graphics card on linux
+  ans:
+  - sudo lshw -c display
+
+- que:
+  - how to ln
+  ans:
+  - ln -s file link
+
+- que:
+  - how to remove bazel
+  ans:
+  - rm -fr ~/.bazel ~/.bazelrc
+
+- que:
+  - python how to not match
+  ans:
+  - [^xxx]* (must contain *)
+
+- que:
+  - python regex how to save middle string
+  ans:
+  - use (.*)
