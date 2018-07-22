@@ -1,3 +1,1 @@
-# ideamark.github.io
-
-* The website of Breadbot.
+The website of Breadbot.
