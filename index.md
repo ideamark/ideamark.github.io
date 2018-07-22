@@ -15,7 +15,7 @@ Breadbot is totally open source, download the source code from [GitHub](https://
 
 ### Corpus
 
-All of the Breadbot corpus is here for browsering and downloading (git clone).
+All of the Breadbot corpus is here for browsering and [downloading](https://github.com/ideamark/ideamark.github.io).
 
 * [basic](basic/index.md)
 * [knowledge](knowledge/index.md)
