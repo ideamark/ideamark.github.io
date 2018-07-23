@@ -21,11 +21,11 @@ Breadbot is totally open source, download the source code from [GitHub](https://
 
 All of the Breadbot corpus is here for browsing and [downloading](https://github.com/ideamark/ideamark.github.io).
 
-* [basic](basic/index.md)
-* [knowledge](knowledge/index.md)
-* [mp](mp/index.md)
-* [open_subtitles](open_subtitles/index.md)
-* [twitter](twitter/index.md)
+* [basic.d](basic/index.md)
+* [knowledge.d](knowledge/index.md)
+* [mp.d](mp/index.md)
+* [open_subtitles.d](open_subtitles/index.md)
+* [twitter.d](twitter/index.md)
 
 ## Seek more
 

@@ -24,3 +24,10 @@
   ans: |
    - ipconfig /release
    - ipconfig /renew
+
+- que:
+  - how to create thread by python
+  ans: |
+   - xx = threading.Thread(target=func, args=(a,))
+   - xx.setDaemon(True)
+   - xx.start()
