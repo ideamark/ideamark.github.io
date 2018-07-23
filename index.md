@@ -3,8 +3,8 @@
 Breadbot is a simple and powerful chatbot
 
 * Easy to deploy
-* More than 1000,000 corpus
 * Fast response
+* More than 1000,000 corpus
 * No database
 * Based on Python3
 * Support WeChat
