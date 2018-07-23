@@ -14,12 +14,12 @@
 - que:
   - linux chinese garbled
   ans:
-  - iconv -f gb2312 -t utf-8 xxx.txt> xxx.tzt
+  - iconv -f gb2312 -t utf-8 xx.txt> xx.tzt
 
 - que:
   - unzip garbled
   ans:
-  - unzip -O CP936 xxx.zip
+  - unzip -O CP936 xx.zip
 
 - que:
   - filename garbled
@@ -45,10 +45,9 @@
   - how to tar
   - how to compress
   ans: |
-   - tar cvf xxx.tar filename
-   - tar czf xxx.tar.gz filename
-   - tar cjf xxx.tar.bz2 filename
-   - tar cZf xxx.tar.Z filename
+   - tar cvf xx.tar filename
+   - tar czf xx.tar.gz filename
+   - tar cjf xx.tar.bz2 filename
 
 - que:
   - how to unzip
@@ -138,7 +137,7 @@
   ans: |
    - View open ports: nmap 127.0.0.1
    - View system services: service --status-all
-   - Close Service: sudo service xxx stop
+   - Close Service: sudo service xx stop
 
 - que:
   - how to turn off 631 port
@@ -157,7 +156,7 @@
 - que:
   - how to connect to samba on linux
   ans:
-  - sudo mount -t cifs //192.168.1.7/share -o username=your_PC_name, password='xxx', iocharset=utf8 ~/share
+  - sudo mount -t cifs //192.168.1.7/share -o username=your_PC_name, password='xx', iocharset=utf8 ~/share
 
 - que:
   - ubuntu can not shutdown
@@ -201,11 +200,11 @@
   ans: |
    - Method 1
    - iwlist wlan0
-   - sudo iwconfig wlan0 essid xxx key xxx
+   - sudo iwconfig wlan0 essid xx key xx
    - sudo dhclient wlan0 or sudo dhcpcd wlan0
    - Method 2
    - sudo iw dev wlan0
-   - sudo iw dev wlan0 connect xxx
+   - sudo iw dev wlan0 connect xx
    - sudo dhclient wlan0 or sudo dhcpcd wlan0
    - Note: If you set the essid iwconfig no response, sudo apt autoremove network-manager.
 
@@ -269,7 +268,7 @@
    - Modify every "\'" to "''",
    - Edit the main key to "id INTEGER PRIMARY KEY",
    - Edit the current time to "time TIMESTAMP NOT NULL DEFAULT (datetime('now','localtime'))",
-   - Edit the mysql ENUM to "CHECK(xxx IN ('A','B'))",
+   - Edit the mysql ENUM to "CHECK(xx IN ('A','B'))",
    - Delete all the statements like "PRIMARY KEY ('id')",
    - Delete all the statements like "ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT_CHARSET=utf8",
    - At last, import this file into sqlite database.
@@ -474,8 +473,8 @@
   - how to make vim plug-in
   ans: |
    - First, in /etc/vimrc, "filetype plugin on" should be opened
-   - Then in plugin, "au BufNewFile, BufRead, *.xxx call set filetype=AAA" to set the file type
-   - When open *.xxx file, Vim will find AAA.vim and execute it.
+   - Then in plugin, "au BufNewFile, BufRead, *.xx call set filetype=AAA" to set the file type
+   - When open *.xx file, Vim will find AAA.vim and execute it.
    - In each *.vim file, function like filename#function() will call filename#function() in filename.vim
    - In plugin folder, "set syntax=BBB" will call BBB.vim in syntax folder to highlight the codes.
 
@@ -668,8 +667,8 @@
    - If an error of bochsrc occured, the normal way is just comment the error line.
    - bochsrc use double quotes, not single quotes.
    - Use bximage to make image
-   - sudo kpartx -a xxx.img mount the image
-   - sudo kpartx -d xxx.img unmount the image
+   - sudo kpartx -a xx.img mount the image
+   - sudo kpartx -d xx.img unmount the image
 
 - que:
   - how to mount qcow2
@@ -792,7 +791,7 @@
   - vim how to save words in regular expression
   - vim how to save string in regular expression
   ans:
-  - :%s/\(str_1\) xxx \(str_2\)/\2 or \1/
+  - :%s/\(str_1\) xx \(str_2\)/\2 or \1/
 
 - que:
   - vim how to remove duplicate rows
@@ -810,8 +809,8 @@
   - vim how to convert case
   - vim how to change case
   ans: |
-   - :%s/\(xxx\)/\L\1/g (Lower)
-   - :%s/\(xxx\)/\U\1/g (Upper)
+   - :%s/\(xx\)/\L\1/g (Lower)
+   - :%s/\(xx\)/\U\1/g (Upper)
 
 - que:
   - how to install vim-markdown
@@ -940,7 +939,7 @@
   - how to transfer files through ssh
   - how to transfer files by cifs
   ans:
-  - sudo mount -t cifs //ip_address/folder -o username=xxx,password='xxx',iocharset=utf8 ~/folder
+  - sudo mount -t cifs //ip_address/folder -o username=xx,password='xx',iocharset=utf8 ~/folder
 
 - que:
   - git how to check the difference
@@ -1147,7 +1146,7 @@
   - how to make empty file
   - how to dd
   ans:
-  - dd if=/dev/zero of=xxx bs=100M count=1
+  - dd if=/dev/zero of=xx bs=100M count=1
 
 - que:
   - python simple http server
@@ -1168,7 +1167,7 @@
   - how to rm every file
   - how to rm all the files
   ans:
-  - find . -name "xxx" | xargs rm -f
+  - find . -name "xx" | xargs rm -f
 
 - que:
   - how to release port
@@ -1291,7 +1290,7 @@
 - que:
   - how to find files on linux
   ans:
-  - find -type d -name xxx -user mark -perm 775 -regex ‘^.*$’ -size +10k -mtime +60
+  - find -type d -name xx -user mark -perm 775 -regex ‘^.*$’ -size +10k -mtime +60
 
 - que:
   - how to shutdown on linux
@@ -1325,12 +1324,12 @@
 - que:
   - how to replace string by tr
   ans:
-  - cat xxx | tr "aa" "bb"
+  - cat xx | tr "aa" "bb"
 
 - que:
   - how to delete string by tr
   ans:
-  - cat xxx | tr -d "xx"
+  - cat xx | tr -d "xx"
 
 - que:
   - how to combine files on linux?
@@ -1378,7 +1377,7 @@
 - que:
   - how to mkdir with mode setting?
   ans:
-  - mkdir -m 775 xxx
+  - mkdir -m 775 xx
 
 - que:
   - how to ls dir itself on linux?
@@ -1453,8 +1452,8 @@
 - que:
   - how to block url by iptables?
   ans: |
-   - iptables -I INPUT -p tcp -m string --string "xxx.com" --algo bm -j DROP
-   - iptables -I INPUT -p udp -m string --string "xxx.com" --algo kmp -j DROP
+   - iptables -I INPUT -p tcp -m string --string "xx.com" --algo bm -j DROP
+   - iptables -I INPUT -p udp -m string --string "xx.com" --algo kmp -j DROP
 
 - que:
   - how to copy only newer files on linux?
@@ -1535,9 +1534,9 @@
   - how to set user on linux?
   ans: |
    - useradd user
-   - useradd -u 755 -g users xxx
-   - useradd -r xxx 
-   - usermod -c This is xxx user
+   - useradd -u 755 -g users xx
+   - useradd -r xx 
+   - usermod -c This is xx user
    - usermod -e 2020-12-31 user
    - userdel -r user
 
@@ -1617,7 +1616,7 @@
 - que:
   - python how to not match
   ans:
-  - [^xxx]* (must contain *)
+  - [^xx]* (must contain *)
 
 - que:
   - python regex how to save middle string
