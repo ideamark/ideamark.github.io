@@ -1,6 +1,6 @@
 # Breadbot Homepage
 
-* We found the power of short text message in Tacit knowledge management. So we created Breadbot and this website.
+* We found the value of short text message in Tacit knowledge management. So we created Breadbot and this website.
 * Without database, all the knowledge is saved in short text format on this website, and all of them can be downloaded free by git clone.
 * Breadbot is a simple and powerful chatbot, which is also the interface among users and this website, to give a simple, fast and humanized tacit knowledge searching.
 
