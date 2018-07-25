@@ -1622,3 +1622,8 @@
   - python regex how to save middle string
   ans:
   - use (.*)
+
+- que:
+  - how to change hostname on ubuntu
+  ans:
+  - sudo hostnamectl set-hostname xxx
