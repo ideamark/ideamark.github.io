@@ -1625,5 +1625,6 @@
 
 - que:
   - how to change hostname on ubuntu
-  ans:
-  - sudo hostnamectl set-hostname xxx
+  ans: |
+   - Edit /etc/cloud/cloud.cfg, set preserve_hostname to true.
+   - sudo hostnamectl set-hostname xxx
