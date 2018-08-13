@@ -2,7 +2,7 @@
 
 ## Breadbot
 
-Breadbot is an 100% open source, simple and powerful chatbot.
+Breadbot is a fully open source, simple and powerful chatbot.
 
 * Easy to deploy
 * Fast response
@@ -11,9 +11,12 @@ Breadbot is an 100% open source, simple and powerful chatbot.
 * Based on Python3
 * Support WeChat
 
-To know more about Breadbot, please read the [README](https://github.com/ideamark/breadbot/blob/master/README.md) file.
+You can scan the QR code on WeChat to talk with Breadbot.
+![QR](QR.jpg)
 
 Download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
+
+And read more about Breadbot from the [README](https://github.com/ideamark/breadbot/blob/master/README.md) file.
 
 ## Corpus
 
