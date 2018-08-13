@@ -1,11 +1,8 @@
 # Breadbot Homepage
 
-* We found the value of short text message in Tacit knowledge management. So we created Breadbot and this website.
-* Without database, all the knowledge is saved in short text format on this website, and all of them can be downloaded free by git clone.
-* Breadbot is a simple and powerful chatbot, which is also the interface among users and this website, to give a simple, fast and humanized tacit knowledge searching.
-
 ## Breadbot
 
+Breadbot is an 100% open source, simple and powerful chatbot.
 * Easy to deploy
 * Fast response
 * More than 1000,000 corpus
@@ -13,7 +10,7 @@
 * Based on Python3
 * Support WeChat
 
-Seek more about Breadbot, please read the [README](https://github.com/ideamark/breadbot/blob/master/README.md) file.
+To know more about Breadbot, please read the [README](https://github.com/ideamark/breadbot/blob/master/README.md) file.
 
 Breadbot is totally open source, download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
 
