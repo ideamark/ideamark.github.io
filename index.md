@@ -12,6 +12,7 @@ Breadbot is a fully open source, simple and powerful chatbot.
 * Support WeChat
 
 You can scan the QR code on WeChat to talk with Breadbot.
+
 ![QR](QR.jpg)
 
 Download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
