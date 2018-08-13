@@ -1,8 +1,9 @@
-# Breadbot Homepage
+# Breadbot.Fun
 
 ## Breadbot
 
 Breadbot is an 100% open source, simple and powerful chatbot.
+
 * Easy to deploy
 * Fast response
 * More than 1000,000 corpus
@@ -12,7 +13,7 @@ Breadbot is an 100% open source, simple and powerful chatbot.
 
 To know more about Breadbot, please read the [README](https://github.com/ideamark/breadbot/blob/master/README.md) file.
 
-Breadbot is totally open source, download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
+Download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
 
 ## Corpus
 
