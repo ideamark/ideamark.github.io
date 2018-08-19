@@ -1628,3 +1628,13 @@
   ans: |
    - Edit /etc/cloud/cloud.cfg, set preserve_hostname to true.
    - sudo hostnamectl set-hostname xxx
+
+- que:
+  - how to list files in tar
+  ans:
+  - tar -tf xx
+
+- que:
+  - pip how to use china origin
+  ans:
+  - -i https://pypi.tuna.tsinghua.edu.cn/simple
