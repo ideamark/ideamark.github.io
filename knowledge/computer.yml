@@ -31,3 +31,8 @@
    - xx = threading.Thread(target=func, args=(a,))
    - xx.setDaemon(True)
    - xx.start()
+
+- que:
+  - esc4000 how to set raid
+  ans:
+  - ctrl + s
