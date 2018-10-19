@@ -22,15 +22,15 @@
 - que:
   - how to get dhcp on win7?
   ans: |
-   - ipconfig /release
-   - ipconfig /renew
+   ipconfig /release
+   ipconfig /renew
 
 - que:
   - how to create thread by python
   ans: |
-   - xx = threading.Thread(target=func, args=(a,))
-   - xx.setDaemon(True)
-   - xx.start()
+   xx = threading.Thread(target=func, args=(a,))
+   xx.setDaemon(True)
+   xx.start()
 
 - que:
   - esc4000 how to set raid
