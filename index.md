@@ -2,8 +2,9 @@
 
 ## Breadbot
 
-Breadbot is a fully open source, simple and powerful chatbot.
+Breadbot is a lightweight and powerful chatbot with wiki for knowledge base.
 
+* Fully open source
 * Easy to deploy
 * Fast response
 * More than 1000,000 corpus
