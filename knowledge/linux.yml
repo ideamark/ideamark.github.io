@@ -1658,3 +1658,13 @@
    tcpdump 'host www.baidu.com'
    tcpdump 'port ftp'
    more filter, see "man pcap-filter"
+
+- que:
+  - how to change vim theme?
+  ans:
+  - colorscheme xxx
+
+- que:
+  - python how to get object size
+  ans:
+  - sys.getsizeof(xx)

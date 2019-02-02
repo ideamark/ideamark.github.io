@@ -36,3 +36,13 @@
   - esc4000 how to set raid
   ans:
   - ctrl + s
+
+- que:
+  - win10 how to add startup
+  ans:
+  - run -> shell:startup
+
+- que:
+  - how to play h264
+  ans:
+  - download potplayer
