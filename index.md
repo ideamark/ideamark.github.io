@@ -4,12 +4,10 @@
 
 Breadbot is a lightweight and powerful chatbot with wiki for knowledge base.
 
-* Fully open source
 * Easy to deploy
 * Fast response
 * More than 1000,000 corpus
 * No database
-* Based on Python3
 * Support WeChat
 
 Scan the QR code on WeChat and talk to Breadbot!
