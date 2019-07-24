@@ -1,6 +1,7 @@
 # Computer
 
-<!--QA1 Start-->
+[^_^]: # (QA1 Start)
+
 ## how to connect to samba on windows
 * \\\\IP_or_PC_name\\share
 
@@ -31,4 +32,4 @@ xx.start()
 ## how to play H264 vedios on windows
 * download potplayer
 
-<!--QA1 End-->
+[^_^]: # (QA1 End)

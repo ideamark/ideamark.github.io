@@ -9,7 +9,7 @@ Breadbot is a lightweight and powerful chatbot for knowledge management.
 * More than 1000,000 corpus
 * Support WeChat
 
-Scan the QR code on WeChat and talk to Breadbot!
+Scan the QR code by WeChat and talk to Breadbot!
 
 ![QR](QR.jpg)
 
@@ -17,7 +17,7 @@ Download the source code from [GitHub](https://github.com/ideamark/breadbot) or 
 
 ## Corpus
 
-All of the Breadbot corpus is here for browsing and [downloading](https://github.com/ideamark/ideamark.github.io).
+All of the Breadbot corpus is [here](https://github.com/ideamark/ideamark.github.io) for browsing and downloading.
 
 * [basic.d](basic/index.md)
 * [knowledge.d](knowledge/index.md)
