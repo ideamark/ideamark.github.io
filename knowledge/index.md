@@ -1,7 +1,7 @@
 # knowledge
 
 * [common.d](common/index.md)
-* [linux.yml](linux.yml)
-* [computer.yml](computer.yml)
-* [life.yml](life.yml)
-* [work.yml](work.yml)
+* [linux.md](linux.md)
+* [computer.md](computer.md)
+* [life.md](life.md)
+* [work.md](work.md)
