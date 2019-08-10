@@ -1,5 +1,8 @@
 # work skills
 
+
+[^_^]: # (simpleQA start)
+
 ## how to manage time
 * Use search function
 * Find the passion (shortly and high-frequency), the self-confidence and hungry of challenge,
@@ -124,3 +127,5 @@ Supply and Demand.
 
 ## how to pleasure the employees
 Give them what they want.
+
+[^_^]: # (simpleQA end)
