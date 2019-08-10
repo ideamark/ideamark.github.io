@@ -1,7 +1,7 @@
 # Computer
 
 
-[^_^]: # (simpleQA start)
+> [knowledgeQA start]
 
 ## how to connect to samba on windows
 \\\\IP_or_PC_name\\share
@@ -33,4 +33,4 @@ run -> shell:startup
 ## how to play H264 vedios on windows
 download potplayer
 
-[^_^]: # (simpleQA end)
+> [knowledgeQA end]

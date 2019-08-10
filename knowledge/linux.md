@@ -1,7 +1,7 @@
 # Linux
 
 
-[^_^]: # (simpleQA start)
+> [knowledgeQA start]
 
 ## install ubuntu dose not respond
 At startup selection screen, press F6, then unselect all the fork options.
@@ -1099,4 +1099,4 @@ colorscheme xxx
 ## python how to get object size
 sys.getsizeof(xx)
 
-[^_^]: # (simpleQA end)
+> [knowledgeQA end]

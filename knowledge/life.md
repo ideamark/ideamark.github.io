@@ -1,5 +1,8 @@
 # Some life notes
 
+
+> [knowledgeQA start]
+
 ## how much time to heat a cup of water
 * Just 0.5 min by microwave oven.
 
@@ -177,3 +180,5 @@
 * Nothing is more terrible than ignorance in action
 * He that can read an meditate will not find his evenings long or life tedious
 * The reading of all good books is like a conversation with the finest men of past centuries. -- Descartes
+
+> [knowledgeQA end]
