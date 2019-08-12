@@ -1,11 +1,7 @@
 # Computers
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## that information
 I know what you mean.
@@ -398,8 +394,4 @@ Inifnite loop I finished reading michael malone's book on the history of apple. 
 ## tensorflow
 a super AI platform
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

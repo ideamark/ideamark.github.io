@@ -1,11 +1,7 @@
 # Biography
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## who is dempsey
 I think was a boxer, right?
@@ -1697,8 +1693,4 @@ Oceania, islands in the south pacific ocean, about two-thirds of the way from ha
 ## where is alan turing
 Turing passed away in 1954.
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

@@ -1,11 +1,7 @@
 # Movies
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## you sound like hal
 To me that's a great compliment.
@@ -173,8 +169,4 @@ Who is hal
 ## where is hal
 It is the ai from the space ship disovery in 2001.
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

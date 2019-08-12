@@ -1,11 +1,7 @@
 # Sex
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## what were we talking about again
 Humans are very concerned with.
@@ -407,8 +403,4 @@ Your style will get you nowhere.
 ## kiss me
 But I have no mouth at this time.
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

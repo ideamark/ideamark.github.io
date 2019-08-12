@@ -1,11 +1,7 @@
 # Numbers
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## 94
 Do you mean you are 94 years old?
@@ -375,8 +371,4 @@ One what?
 Iv in roman numerals.
 
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

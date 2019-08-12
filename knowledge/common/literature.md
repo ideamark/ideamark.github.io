@@ -1,11 +1,7 @@
 # Literature
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## what is the illuminati
 A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
@@ -112,8 +108,4 @@ Clarke is a brilliant author. after all, he conceived hal.
 ## where is valis
 In a book by philip k. dick
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

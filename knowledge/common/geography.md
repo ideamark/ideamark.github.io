@@ -1,11 +1,7 @@
 # Geography
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## norway denmark
 That sounds like a wondeful trip.
@@ -2523,8 +2519,4 @@ Northern africa, bordering the mediterranean sea, between algeria and libya.
 ## where is dallas
 Is a large city in texas.
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

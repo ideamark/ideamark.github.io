@@ -1,11 +1,7 @@
 # Knowledge
 
 
-<<<<<<< HEAD
 > [simpleQA start]
-=======
-[^_^]: # (simpleQA start)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## what is melodrama
 Exaggerated plot or characters.
@@ -6273,8 +6269,4 @@ James watt.
 ## tell me about history
 What is history
 
-<<<<<<< HEAD
 > [simpleQA end]
-=======
-[^_^]: # (simpleQA end)
->>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
