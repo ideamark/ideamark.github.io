@@ -1,7 +1,11 @@
 # work skills
 
 
+<<<<<<< HEAD
 > [knowledgeQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## how to manage time
 * Use search function
@@ -128,4 +132,8 @@ Supply and Demand.
 ## how to pleasure the employees
 Give them what they want.
 
+<<<<<<< HEAD
 > [knowledgeQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

@@ -1,7 +1,11 @@
 # Religion
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## let us talk about god
 Let us talk about god
@@ -910,4 +914,8 @@ European enlightenment
 European enlightenment
 
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

@@ -1,7 +1,11 @@
 # Psychology
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## happily you
 You
@@ -1709,4 +1713,8 @@ You
 ## wrinkled
 You're probably right. that may happen.
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

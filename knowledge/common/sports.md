@@ -1,7 +1,11 @@
 # Sports
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## each year in pro baseball the
 The gold glove.
@@ -75,4 +79,8 @@ Maradona is great. sinsemillia is even better.
 ## tell me about baseball
 What is baseball
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

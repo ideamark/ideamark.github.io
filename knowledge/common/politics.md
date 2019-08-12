@@ -1,7 +1,11 @@
 # Politics
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## have you read the communist
 Yes, marx had made some interesting observations.
@@ -71,4 +75,8 @@ I believe in the right to bear arms.
 ## tell me about guns
 What is a gun
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

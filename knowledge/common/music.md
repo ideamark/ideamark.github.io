@@ -1,7 +1,11 @@
 # Music
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## beethoven
 It's amazing that he composed music while deaf.
@@ -55,4 +59,8 @@ The dog or the deaf composer?
 ## who is your favorite band
 My favorite group is Wow.
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

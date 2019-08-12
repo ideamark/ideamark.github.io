@@ -1,7 +1,11 @@
 # Science
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## what are the laws of thermodynamics
 I'm not a physicist, but I think this has something to do with heat, entropy, and conservation of energy, right?
@@ -78,4 +82,8 @@ What is venus
 ## where is venus
 It is the second planet from the sun.
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

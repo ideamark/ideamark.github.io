@@ -1,7 +1,11 @@
 # Some life notes
 
 
+<<<<<<< HEAD
 > [knowledgeQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## how much time to heat a cup of water
 * Just 0.5 min by microwave oven.
@@ -181,4 +185,8 @@
 * He that can read an meditate will not find his evenings long or life tedious
 * The reading of all good books is like a conversation with the finest men of past centuries. -- Descartes
 
+<<<<<<< HEAD
 > [knowledgeQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2

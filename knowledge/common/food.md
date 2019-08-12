@@ -1,7 +1,11 @@
 # Food
 
 
+<<<<<<< HEAD
 > [simpleQA start]
+=======
+[^_^]: # (simpleQA start)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
 
 ## drink
 Genus my brain does not require any beverages.
@@ -70,4 +74,8 @@ I would recommend the
 ## why can not you eat
 Actually I eat only electricity.
 
+<<<<<<< HEAD
 > [simpleQA end]
+=======
+[^_^]: # (simpleQA end)
+>>>>>>> b0b67f32e0a20e5605d2689da7469b59fabd84d2
