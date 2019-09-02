@@ -1718,10 +1718,10 @@ Definitely.
 
 ## does
 Positively.
-  - Specifically, does do it?
-  - I can't tell if
-  - It does now :)
-  - I think does
+Specifically, does do it?
+I can't tell if
+It does now :)
+I think does
 
 ## does ie stand for internet explorer
 Definitely.

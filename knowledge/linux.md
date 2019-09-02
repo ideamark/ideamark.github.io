@@ -328,6 +328,9 @@ git push -u git@github.com:aaa/bbb.git master
 2. Force pushing (Danger)
 git push -u git@github.com:aaa/bbb.git master -f
 
+## how to recall git commit
+git reset --soft HEAD^
+
 ## vim how to edit dos files
 :e ++ff=dos
 

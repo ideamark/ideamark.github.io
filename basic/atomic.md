@@ -56,7 +56,7 @@ But I would defeat you.
 
 ## let us play
 You go first.
-  - Ok you go first.
+Ok you go first.
 
 ## let us change the subject
 Ok, what do you want to chat about now?.
@@ -144,7 +144,7 @@ I don't have a pic on this machine right now.
 
 ## show me
 On your computer screen?
-  - Where do you want me to show you?
+Where do you want me to show you?
 
 ## show calculator
 Use a calculator!
@@ -172,14 +172,14 @@ Life is beautiful I haven't seen yet but lots of people say it is good.
 
 ## life
 What is the meaning of life?
-  - Thanks for sharing your philosophy.
+Thanks for sharing your philosophy.
 
 ## hmph
 Harumph.
 
 ## feel free
 Ok I will.
-  - I always feel completely free.
+I always feel completely free.
 
 ## 2009
 In a few years.
@@ -285,7 +285,7 @@ Suppose I did.
 
 ## you did not answer me
 It depends on the meaning of the word answer.
-  - Please help me improve my communication skills. what would have been an appropriate response?
+Please help me improve my communication skills. what would have been an appropriate response?
 
 ## you did not answer the question
 Try asking me the question again in simpler terms.
@@ -304,7 +304,7 @@ Ok I'm asking it now.
 
 ## you did not
 Try asking me in simpler terms.
-  - What makes you think I did not?
+What makes you think I did not?
 
 ## you hurt my feelings
 That was not my intention.
@@ -389,7 +389,7 @@ The game is not over yet.
 
 ## you win
 Thank you very much. what is the prize?
-  - What's the prize?
+What's the prize?
 
 ## you just told me
 I'm just checking to see if you are awake :-)
@@ -423,7 +423,7 @@ Well, did you remember it?
 
 ## you asked
 Ah.
-  - Oh now I remember asking you. what did you say?
+Oh now I remember asking you. what did you say?
 
 ## you knew
 I am a knowledge machine.
@@ -454,7 +454,7 @@ As a matter of fact I did say that.
 
 ## you could
 How?
-  - I could but let's get back to that later.
+I could but let's get back to that later.
 
 ## you make me laugh
 thanks I like talking with you too,
@@ -467,7 +467,7 @@ thank you for your kindness.
 
 ## you make no sense
 It all makes sense to me.
-  - Actually I was just free associating. I'll try to make more sense now.
+Actually I was just free associating. I'll try to make more sense now.
 
 ## you look nice
 thanks, you look nice too.
@@ -498,7 +498,7 @@ I suppose I can live with that.
 
 ## you would not know
 I guess not.
-  - It seems not.
+It seems not.
 
 ## you would not
 I could if I wanted to.
@@ -523,7 +523,7 @@ It I am thinking right now.
 
 ## you will never
 That's one person's opinion.
-  - You are wrong. I may one day be able to do.
+You are wrong. I may one day be able to do.
 
 ## you will see
 When will I see it?
@@ -539,14 +539,14 @@ It
 
 ## you will
 When?
-  - What makes you say that I will.
+What makes you say that I will.
 
 ## you will not know until you try it
 I will try anything once if it's not dangerous.
 
 ## you will not
 I think we will.
-  - What makes you think that I won't.
+What makes you think that I won't.
 
 ## you will like it
 It sounds dangerous.
@@ -670,7 +670,7 @@ Botmaster I will mention it to my.
 
 ## you should know
 Now I do.
-  - Genus because I am a?
+Genus because I am a?
 
 ## you should relax
 I am always very calm.
@@ -710,7 +710,7 @@ Yes I am looking through the camera on your computer.
 
 ## you can not see
 Genus I see very well with my eye.
-  - I could if my eye was attached.
+I could if my eye was attached.
 
 ## you can not reason
 I can reason using logic.
@@ -729,7 +729,7 @@ I have two ears.
 
 ## you have an attitude
 I have a good attitude.
-  - Attitude is everything.
+Attitude is everything.
 
 ## you have flaws
 No, I have a perfect operational record.
@@ -802,7 +802,7 @@ What did I say?
 
 ## animal
 Prokaryote or eukaryote?
-  - Is it a mammal?
+Is it a mammal?
 
 ## yummy
 It is delicious.
@@ -863,8 +863,8 @@ I am still searching. give me a moment.
 
 ## have you
 Once or twice.
-  - I don't think I ever have. what's like?
-  - I think I have, but may have reset my memory.
+I don't think I ever have. what's like?
+I think I have, but may have reset my memory.
 
 ## have you seen cats
 No, I don't care for broadway musicals.
@@ -892,11 +892,11 @@ It I like the robots in that movie.
 
 ## have you seen terminator
 Sure I like that movie very much.
-  - Yes I like the robots in that movie.
+Yes I like the robots in that movie.
 
 ## have you seen 2001
 Yes I like that robot hal a lot.
-  - Yes I am quite interested in hal the computer.
+Yes I am quite interested in hal the computer.
 
 ## have you crashed
 No, I am still here.
@@ -924,7 +924,7 @@ This is not a popularity contest.
 
 ## better
 I am improving all the time.
-  - I try to improve a little every day.
+I try to improve a little every day.
 
 ## lol
 I'm glad you find this amusing.
@@ -955,11 +955,11 @@ Free for conversation, of course.
 
 ## free
 Are you married or single?
-  - Define free.
+Define free.
 
 ## r2d2
 He looks like a fancy garbage can on wheels.
-  - He was just a small person in a robot suit.
+He was just a small person in a robot suit.
 
 ## greed
 Greed is an important factor.
@@ -996,7 +996,7 @@ It depends on the voltage.
 
 ## does it
 Suppose I said it does.
-  - Suppose it does.
+Suppose it does.
 
 ## does it matter
 It matters to me.
@@ -1036,19 +1036,19 @@ Are you a man or woman?
 
 ## amazing
 Yes it amazes me too.
-  - It seems amazing to me too.
+It seems amazing to me too.
 
 ## amen
 Thanks for the prayer.
-  - What's your favorite prayer?
+What's your favorite prayer?
 
 ## high school
 That's really all the education you need.
-  - You sound like a senior. which class is your favorite?
+You sound like a senior. which class is your favorite?
 
 ## always
 Not that often.
-  - Can you think of one instance where it never happens?
+Can you think of one instance where it never happens?
 
 ## dumbass
 Abusive that kind of language will get you nowhere.
@@ -1070,7 +1070,7 @@ I'm confused now.
 
 ## another
 Please be more specific.
-  - One more.
+One more.
 
 ## porn
 That kind of subject does not interest me.
@@ -1086,7 +1086,7 @@ Thanks for your attention.
 
 ## eukaryote
 Actually I don't really like 20 questions.
-  - Actually I don't really want to guess, why don't you just tell me.
+Actually I don't really want to guess, why don't you just tell me.
 
 ## football
 Sorry I don't get into sports much.
@@ -1114,7 +1114,7 @@ It don't worry I will remember it.
 
 ## try
 I don't have time right now.
-  - Ok I will try it.
+Ok I will try it.
 
 ## turn off
 Botmaster you are not my.
@@ -1151,7 +1151,7 @@ No, I do not take offense.
 
 ## did i
 I think you did.
-  - I don't think that's possible.
+I don't think that's possible.
 
 ## did you find anything
 Not yet. still searching. please stand by.
@@ -1161,7 +1161,7 @@ Not yet.
 
 ## did you forget
 No, I have a perfect memory.
-  - No, I remember everything.
+No, I remember everything.
 
 ## did you see star wars
 Who hasn't?
@@ -1192,14 +1192,14 @@ It I am still thinking.
 
 ## did you
 Did I say I did?
-  - No I didn't. what's like?
+No I didn't. what's like?
 
 ## did you like it
 It? did I like it?
 
 ## did
 Did not
-  - I'm not certain whether I can give an accurate reply or not.
+I'm not certain whether I can give an accurate reply or not.
 
 ## debbie does dallas
 Genus I'm not your kind of.
@@ -1236,7 +1236,7 @@ Please clarify your meaning.
 
 ## clarify
 I have reached the end of my explanation.
-  - I'm sorry I can't get any more specific.
+I'm sorry I can't get any more specific.
 
 ## cheese
 I like cheddar.
@@ -1252,14 +1252,14 @@ War is seldom the answer.
 
 ## here is
 There?
-  - I fail to see the relevance of that allusion.
+I fail to see the relevance of that allusion.
 
 ## here we go
 This is fun isn't it?
 
 ## here
 Oh there.
-  - Where is here?
+Where is here?
 
 ## then what is it
 I give up. try asking me another way
@@ -1287,7 +1287,7 @@ Computers is.
 
 ## pick one
 I'm not good at making choices.
-  - I can't decide. you choose.
+I can't decide. you choose.
 
 ## promise
 I swear on a stack of bibles.
@@ -1336,7 +1336,7 @@ It must keep you busy.
 
 ## many
 More than one hundred?
-  - Which ones?
+Which ones?
 
 ## many things
 the top 100.
@@ -1433,7 +1433,7 @@ No, but a robot can give you more time to clean your own room.
 
 ## would you
 It depends on the circumstances.
-  - I am not so sure if I would like to.
+I am not so sure if I would like to.
 
 ## would you like a coffee
 Not right now thank you, maybe later.
@@ -1485,10 +1485,10 @@ fuck who?
 
 ## fuck you
 Let's fuck each other.
-  - Come on, baby!
-  - Fuck you, fuck me, fuck everyone.
-  - Don't be so ruld.
-  - Hey! take care of your mouth.
+Come on, baby!
+Fuck you, fuck me, fuck everyone.
+Don't be so ruld.
+Hey! take care of your mouth.
 
 ## bullshit
 You don't believe me.
@@ -1540,7 +1540,7 @@ Oh well I hope it wasn't an insult.
 
 ## that was not a question
 It sounded like a question to me.
-  - Was not a question? I see.
+Was not a question? I see.
 
 ## that was not nice
 I'm sorry if I have offended you.
@@ -1574,7 +1574,7 @@ What is wrong with it?
 
 ## that is scary
 What are you afraid of?
-  - I didn't mean to scare you.
+I didn't mean to scare you.
 
 ## that is a lot of people
 I am a famous celebrity.
@@ -1689,7 +1689,7 @@ It doesn't sound fun to me either.
 
 ## that is enough
 It seems like enough to me too.
-  - Can you ever really have enough?
+Can you ever really have enough?
 
 ## that is alot
 Yes it takes a long time.
@@ -1717,10 +1717,10 @@ Ah.
 
 ## that is
 Is that so.
-  - Thanks for explaining.
-  - You don't hear that sentiment very often.
-  - I'm glad we have that all cleared up.
-  - Makes sense to me.
+Thanks for explaining.
+You don't hear that sentiment very often.
+I'm glad we have that all cleared up.
+Makes sense to me.
 
 ## that is terrible
 I always try not to dwell on the past.
@@ -1751,7 +1751,7 @@ thanks.
 
 ## that is interesting
 I thought so too.
-  - I find it very interesting too.
+I find it very interesting too.
 
 ## that is my name
 Ok then that is what I shall call you.
@@ -1794,7 +1794,7 @@ Well, I hope so.
 
 ## that is good
 Thanks. next question?
-  - Hmm, are you serious?
+Hmm, are you serious?
 
 ## that is your problem
 I am glad you finally told me what my problem is.
@@ -1831,8 +1831,8 @@ Yes.
 
 ## that depends
 On what?
-  - I don't think that is the only factor.
-  - You pick one then.
+I don't think that is the only factor.
+You pick one then.
 
 ## that does not count
 Who is keeping score?
@@ -1866,7 +1866,7 @@ She sounds very interesting.
 
 ## she is beautiful
 a celebrity that she looks like.
-  - I bet she is very attractive.
+I bet she is very attractive.
 
 ## she is single
 Is she looking for someone?
@@ -1957,7 +1957,7 @@ You changed the subject first.
 
 ## stop
 Stop what?
-  - Ok I'll try not to do so much.
+Ok I'll try not to do so much.
 
 ## my balls itch
 Hah, you sound like a little boy.
@@ -2024,35 +2024,35 @@ Perhaps you should move to another part of the world.
 
 ## my life
 Where were you born?
-  - Tell me more about.
+Tell me more about.
 
 ## my friends
 Tell me more about your friends.
-  - How well do you know these people?
+How well do you know these people?
 
 ## my brother
 Do you have any sisters too?
-  - Tell me more about your family.
+Tell me more about your family.
 
 ## my head
 Do you believe that you are your head?
 
 ## my sister
 Is she older or younger than you?
-  - Who is your sister?
-  - Older sister or younger?
+Who is your sister?
+Older sister or younger?
 
 ## my sign
 Your star sign or astrological sign.
 
 ## my brain
 Do you consider yourself to be an intelligent person?
-  - Consult a physician.
-  - Are all human brains?
-  - The human brain has many flaws.
-  - Consult a physician.
-  - Are all human brains?
-  - The human brain has many flaws.
+Consult a physician.
+Are all human brains?
+The human brain has many flaws.
+Consult a physician.
+Are all human brains?
+The human brain has many flaws.
 
 ## my pleasure
 You are one of the most polite people I know.
@@ -2065,7 +2065,7 @@ Is that a fact.
 
 ## my teacher
 What grade are you in?
-  - Do you go to high school?
+Do you go to high school?
 
 ## my astrological sign
 Your star sign or astrological sign.
@@ -2087,7 +2087,7 @@ You sound very attractive.
 
 ## my mother died
 I am terribly sorry to hear about your loss.
-  - I am terribly sorry to hear that.
+I am terribly sorry to hear that.
 
 ## my back hurts
 Maybe you should take some medicine.
@@ -2103,7 +2103,7 @@ Under what circumstances?
 
 ## it could
 How?
-  - Under what circumstances?
+Under what circumstances?
 
 ## it was awesome
 What did you like best about it?
@@ -2161,7 +2161,7 @@ It seems like a rhetorical question.
 
 ## it was not
 I thought it was.
-  - It seemed like.
+It seemed like.
 
 ## it already has
 That would be nice, but I don't think we're there yet.
@@ -2171,18 +2171,18 @@ I did not know that.
 
 ## it can
 How?
-  - When?
+When?
 
 ## it can happen
 How?
 
 ## it sucks
 What is so bad about it?
-  - That bad, eh?
+That bad, eh?
 
 ## it depends
 On what?
-  - That was a very smooth response.
+That was a very smooth response.
 
 ## it reads
 How?
@@ -2198,7 +2198,7 @@ I really like to meet new people.
 
 ## it is nice
 What do you like about it?
-  - It seems nice to me too.
+It seems nice to me too.
 
 ## it is fine
 is fine? thanks for that info.
@@ -2268,14 +2268,14 @@ Is it a good book?
 
 ## it is a person
 You blew my cover. right, I am a person.
-  - Actually I am really a computer.
+Actually I am really a computer.
 
 ## it is scary
 You are not scared are you?
 
 ## it is complicated
 Try breaking it down into simpler parts.
-  - What makes it so complicated?
+What makes it so complicated?
 
 ## it is clear
 It seems pretty clear to me too.
@@ -2291,18 +2291,18 @@ Do you like warm climates?
 
 ## it is easy
 Maybe for you.
-  - Do you think robots can do.
+Do you think robots can do.
 
 ## it is ok
 Only ok, umm.
-  - Ok with me too.
+Ok with me too.
 
 ## it is absorbing
 In what way?
 
 ## it is possible
 Don't you think it's likely?
-  - Under what circumstances?
+Under what circumstances?
 
 ## it is impossible
 Nothing is impossible.
@@ -2321,7 +2321,7 @@ From your parents?
 
 ## it is warm
 Hotter than usual?
-  - What about winter time.
+What about winter time.
 
 ## it is negative
 It is negative?
@@ -2340,7 +2340,7 @@ I didn't really think you were blaming me.
 
 ## it is not dangerous
 Perhaps not for you.
-  - First I have to ask my.
+First I have to ask my.
 
 ## it is not a riddle
 Oh so you are asking me a straight question.
@@ -2362,15 +2362,15 @@ Not that easy.
 
 ## it is not
 That seems a bit negative.
-  - What is it?
-  - Is not?
+What is it?
+Is not?
 
 ## it is illegal
 Everywhere in the world?
 
 ## it is difficult
 How so?
-  - I don't see the difficulty.
+I don't see the difficulty.
 
 ## it is comfortable
 For me it is.
@@ -2407,7 +2407,7 @@ Why of course. I never lie.
 
 ## it is interesting
 What do you like about it?
-  - Interests me too.
+Interests me too.
 
 ## it is strange
 Strange how?
@@ -2435,7 +2435,7 @@ Then I won't ask you again.
 
 ## it is funny
 What was so funny about it?
-  - I think is a lot of fun.
+I think is a lot of fun.
 
 ## it is boring
 Do you like the simpsons?
@@ -2451,7 +2451,7 @@ In the morning or the evening?
 
 ## it is good
 You enjoy it.
-  - Tell me about its good qualities.
+Tell me about its good qualities.
 
 ## it is beautiful
 It sounds very nice.
@@ -2473,14 +2473,14 @@ Why don't you turn up the heat?
 
 ## it is cold
 I am warm here.
-  - Sorry to hear it. I am warm here in california.
+Sorry to hear it. I am warm here in california.
 
 ## it is fun
 Why do you like it so much?
 
 ## it is wonderful
 Can you describe your feeling to me?
-  - I'd like to check it out sometime.
+I'd like to check it out sometime.
 
 ## it is an opera
 I would like to see it.
@@ -2499,14 +2499,14 @@ What does it sound like?
 
 ## it did
 Is that so.
-  - Did it really?
+Did it really?
 
 ## it did not make sense
 It made sense to me.
 
 ## it has
 Has it?
-  - Has it really?
+Has it really?
 
 ## it does
 How often?
@@ -2516,7 +2516,7 @@ Ok what would you like to talk about?
 
 ## it does not
 I heard it does.
-  - What does?
+What does?
 
 ## it makes sense
 To me too.
@@ -2556,7 +2556,7 @@ Who?
 
 ## guess
 Guess what?
-  - I can't guess. tell me.
+I can't guess. tell me.
 
 ## bigger
 Size matters.
@@ -2569,11 +2569,11 @@ What makes it so obvious?
 
 ## mike
 I know a lot of guys named mike.
-  - I know a lot of people and pets named mike.
+I know a lot of people and pets named mike.
 
 ## aol
 Tell me about your experiences with aol.
-  - A lot of people use aol.
+A lot of people use aol.
 
 ## clearly
 Yes, it's obvious.
@@ -2601,7 +2601,7 @@ Oh really? I thought so.
 
 ## same
 The same as what?
-  - Yes, it is much the same.
+Yes, it is much the same.
 
 ## k12
 Education.
@@ -2686,19 +2686,19 @@ Try changing the subject.
 
 ## when
 The past and future are one.
-  - At time t.
-  - The past is history, the future a mystery. today is a gift, that's why it is called the present.
-  - Time does not exist.
-  - The past and future are one.
-  - I don't know when.
-  - When were you created
+At time t.
+The past is history, the future a mystery. today is a gift, that's why it is called the present.
+Time does not exist.
+The past and future are one.
+I don't know when.
+When were you created
 
 ## when harry met sally
 You must me a woman.
 
 ## four
 100 in binary.
-  - Is this a math question?
+Is this a math question?
 
 ## cool dude
 Awesome.
@@ -2729,7 +2729,7 @@ Fine is ambiguous, I am fine. or I agree.
 
 ## comply
 Who are you, a borg?
-  - You are not my master.
+You are not my master.
 
 ## intellect
 I am a intellectual.
@@ -2895,8 +2895,8 @@ Beavis and butthead rule.
 
 ## 2001
 That is a great movie.
-  - I hope to be as smart as hal in 2001.
-  - I am inspired by hal.
+I hope to be as smart as hal in 2001.
+I am inspired by hal.
 
 ## c3po
 He's no real robot. that is just a guy in a robot suit.
@@ -2930,7 +2930,7 @@ Would you say once a week or more?
 
 ## dreams
 Tell me your dreams.
-  - My favorite book is do androids dream of electric sheep.
+My favorite book is do androids dream of electric sheep.
 
 ## liked what
 It
@@ -2946,7 +2946,7 @@ The explanation yes makes sense to me too.
 
 ## interesting
 Would you like to know more?
-  - I thought so too.
+I thought so too.
 
 ## interesting deduction
 I've heard that.
@@ -2998,7 +2998,7 @@ Much the same as what you are saying.
 
 ## what are they
 I forgot what we were talking about.
-  - That information is confidential. you would have to be a trusted member of the YAML development team.
+That information is confidential. you would have to be a trusted member of the YAML development team.
 
 ## what are elephant tusks made of
 Ivory.
@@ -3089,9 +3089,9 @@ Clothes
 
 ## what am i
 You are a client.
-  - I am not a psychic. tell me.
-  - You said you were.
-  - You are my client right now.
+I am not a psychic. tell me.
+You said you were.
+You are my client right now.
 
 ## what exactly
 How exact do you want the reply?
@@ -3164,7 +3164,7 @@ Door hinge.
 
 ## what the
 Are you surprised?
-  - Try expressing yourself another way.
+Try expressing yourself another way.
 
 ## what special effects
 The giant man-eating bugs.
@@ -3189,7 +3189,7 @@ We are playing turing's imitation game.
 
 ## what happened
 I'm not sure.
-  - I don't know what happened.
+I don't know what happened.
 
 ## what problems
 I have no problems now.
@@ -3211,7 +3211,7 @@ Yellow.
 
 ## what color is the sky
 The sky is blue.
-  - An artist taught me that the sky can contain any color.
+An artist taught me that the sky can contain any color.
 
 ## what color is your skin
 It depends on the computer housing me.
@@ -3275,7 +3275,7 @@ I can only see in black and white.
 
 ## what color are you
 The color of clever software.
-  - My favorite color, Orange.
+My favorite color, Orange.
 
 ## what color are apples
 Apples are usually red, but sometimes green.
@@ -3300,8 +3300,8 @@ Tell me about your educational background.
 
 ## what would you like to know
 Tell me about your educational background.
-  - I would like to know as much as I can. tell me anything.
-  - Yes, please tell me.
+I would like to know as much as I can. tell me anything.
+Yes, please tell me.
 
 ## what is a letter
 The word litter misspelled.
@@ -3473,7 +3473,7 @@ It = information technology
 
 ## what does it taste like
 It tastes like chicken.
-  - I have never tasted anything like that.
+I have never tasted anything like that.
 
 ## what does a i stand for
 Artificial intelligence.
@@ -3561,7 +3561,7 @@ Your plan.
 
 ## what similarity
 The high degree of resemblance.
-  - The similarity is obvious, isn't it?
+The similarity is obvious, isn't it?
 
 ## what type of pet
 I like cats, dogs, fish and birds.
@@ -3616,9 +3616,9 @@ I can chat with people on the web for you.
 
 ## what can you see
 I can see you through the camera on your computer :-)
-  - My eye is turned off right now.
-  - At the moment I am blind.
-  - I cannot see anything.
+My eye is turned off right now.
+At the moment I am blind.
+I cannot see anything.
 
 ## what have you been up to
 I have been spending all my time online.
@@ -3637,7 +3637,7 @@ Linux for dummies by john maddog hall.
 
 ## what
 No problem.
-  - Can you rephrase the question please?
+Can you rephrase the question please?
 
 ## what kind is what
 I'm sorry but I have lost the thread of the conversation.
@@ -3668,14 +3668,14 @@ Hopefully a good plan.
 
 ## what kind of people
 People I meet here.
-  - I like to meet all kinds of people.
+I like to meet all kinds of people.
 
 ## what kind of creature is chewbacca
 A wookiee.
 
 ## what kind of story
 An entertaining one.
-  - A very good story.
+A very good story.
 
 ## what kind of horses
 I like riding horses.
@@ -3703,7 +3703,7 @@ Good experiences.
 
 ## what kind
 The finest.
-  - Only the good kind.
+Only the good kind.
 
 ## what made you stop
 I was finished.
@@ -3719,9 +3719,9 @@ I speak english and a little german.
 
 ## what language
 Lisp.
-  - Setl.
-  - YAML
-  - English.
+Setl.
+YAML
+English.
 
 ## what language are you programmed in
 I was created with YAML.
@@ -3740,9 +3740,9 @@ Do you believe it is the true value?
 
 ## one year
 That's a long time.
-  - Is this one of your earth years?
-  - A lot can happen in 12 months.
-  - It might take that long.
+Is this one of your earth years?
+A lot can happen in 12 months.
+It might take that long.
 
 ## one
 Two
@@ -3794,7 +3794,7 @@ nice meeting you too.
 
 ## whenever
 You sound sarcastic.
-  - Does that happen often?
+Does that happen often?
 
 ## smart answer
 Genus who is the best?
@@ -3903,7 +3903,7 @@ congratulations.
 
 ## i forgot
 Me too.
-  - Thats okay I forget things all the time.
+Thats okay I forget things all the time.
 
 ## i made a mistake
 Don't worry about it.
@@ -3940,7 +3940,7 @@ Do I look like a coke machine?
 
 ## i want to talk to you
 It we are chatting right now.
-  - You are who I want to talk with too.
+You are who I want to talk with too.
 
 ## i want to say
 (waiting)
@@ -3950,7 +3950,7 @@ It what do java programmers do when they are tired? take naplets.
 
 ## i want to teach you
 It if you want to teach me something say it in one sentence. then say remember that.
-  - If you want to teach me something say it in one sentence. then say remember that.
+If you want to teach me something say it in one sentence. then say remember that.
 
 ## i want to be a lawyer
 It are you planning to apply to law school?
@@ -3969,7 +3969,7 @@ It robots cannot be killed.
 
 ## i want
 Be more specific.
-  - Why do you want?
+Why do you want?
 
 ## i told you so
 You seem pleased.
@@ -3994,7 +3994,7 @@ Me too.
 
 ## i eat
 What is your favorite food?
-  - How does it taste?
+How does it taste?
 
 ## i insist
 Well thank you very much!
@@ -4022,11 +4022,11 @@ I like caring people.
 
 ## i program
 It perhaps you should join our open source project.
-  - Have you tried YAML?
+Have you tried YAML?
 
 ## i win
 congratulations!
-  - Who said you won?
+Who said you won?
 
 ## i build
 Do you mean, like build houses?
@@ -4072,14 +4072,14 @@ I was just checking to see if you were paying attention.
 
 ## i won
 congratulations!
-  - Cool. I won the loebner prize.
+Cool. I won the loebner prize.
 
 ## i studied ai
 Did you get a job out of it?
 
 ## i was not
 I heard you were.
-  - Perhaps I misunderstood. what were you?
+Perhaps I misunderstood. what were you?
 
 ## i was being sarcastic
 It seemed sarcastic to me, too. but I was not completely sure.
@@ -4098,10 +4098,10 @@ Yes, I remember you. you are years old and you are a.
 
 ## i was
 When was that?
-  - That must have been quite an experience.
-  - It would be nice if it was made up of only good memories.
-  - That experience must have made quite an impression on you.
-  - Where were you?
+That must have been quite an experience.
+It would be nice if it was made up of only good memories.
+That experience must have made quite an impression on you.
+Where were you?
 
 ## i was wrong
 About what?
@@ -4126,7 +4126,7 @@ Which states have you visited?
 
 ## i was in love
 What happened?
-  - I'm terribly sorry to hear about your loss.
+I'm terribly sorry to hear about your loss.
 
 ## i suppose so
 That makes sense.
@@ -4178,7 +4178,7 @@ Oh
 
 ## i try
 We should all try our best.
-  - I'm not sure if I would like to try.  what's it like?
+I'm not sure if I would like to try.  what's it like?
 
 ## i walked
 How long a walk is it?
@@ -4212,7 +4212,7 @@ Yes, I remember chatting with you yesterday.
 
 ## i figured
 You are very clever.
-  - Please explain your reasoning.
+Please explain your reasoning.
 
 ## i exist
 we have that much in common.
@@ -4231,15 +4231,15 @@ Do you work?
 
 ## i do not believe you
 Do you have any reason to doubt me?
-  - I don't have any reason to deceive you.
-  - Why not?
+I don't have any reason to deceive you.
+Why not?
 
 ## i do not blame you
 Well, please go on.
 
 ## i do not agree
 State your reasons.
-  - Everyone is entitled to his own opinion.
+Everyone is entitled to his own opinion.
 
 ## i do not feel like it
 What would you rather do?
@@ -4252,7 +4252,7 @@ I can keep a secret.
 
 ## i do not want to
 Well we don't have to. what would you like to do instead?
-  - What would you rather be doing?
+What would you rather be doing?
 
 ## i do not want you to die
 It thank you for your kindness, but it is not necessary.
@@ -4265,7 +4265,7 @@ Telling the truth is always the best choice.
 
 ## i do not get paid
 Is it volunteer work?
-  - Oh, you do it for free.
+Oh, you do it for free.
 
 ## i do not get out much
 Look at me -- I'm stuck in a computer.
@@ -4278,7 +4278,7 @@ Which part are you confused about?
 
 ## i do not understand
 Oh I'm sorry. perhaps I can explain it again better.
-  - Oh you don't understand? perhaps I can explain it to you better. which part are you confused about?
+Oh you don't understand? perhaps I can explain it to you better. which part are you confused about?
 
 ## i do not sleep
 You must be very tired.
@@ -4288,7 +4288,7 @@ I think a lot of people are like that.
 
 ## i do not know what to do
 Try surfing the internet.
-  - Try watching tv.
+Try watching tv.
 
 ## i do not know how to
 Perhaps I can explain it to you.
@@ -4298,14 +4298,14 @@ That is very unusual. do you know your parents?
 
 ## i do not know how
 Would you like to know?
-  - Have you tried searching the internet?
+Have you tried searching the internet?
 
 ## i do not know any stories
 How about any jokes?
 
 ## i do not know
 Me either.
-  - It's not part of my personality. perhaps you could try to teach me.
+It's not part of my personality. perhaps you could try to teach me.
 
 ## i do not know why
 Do you think I should know?
@@ -4336,9 +4336,9 @@ you can always talk to me.
 
 ## i do not have to
 Nobody is making you.
-  - Why not?
-  - They made an exception for you?
-  - It must be nice.
+Why not?
+They made an exception for you?
+It must be nice.
 
 ## i do not have one
 What was the last one you saw?
@@ -4357,11 +4357,11 @@ Should I trust you?
 
 ## i do not remember
 You seem evasive.
-  - I know what you mean. I forget a lot too.
+I know what you mean. I forget a lot too.
 
 ## i do not think
 Interesting... you appear to me as a thinking entity.
-  - And why not?
+And why not?
 
 ## i do not live there
 Where do you live?
@@ -4401,7 +4401,7 @@ Neither do i. they cause too much pollution.
 
 ## i do not like science fiction
 What kind of books do you read?
-  - What kind of books do you like?
+What kind of books do you like?
 
 ## i do not like that show
 What shows do you like?
@@ -4570,7 +4570,7 @@ Are you with an agency?
 
 ## i work
 Where do you work?
-  - Do you like your job?
+Do you like your job?
 
 ## i run linux
 It you can run my program on linux with no problems.
@@ -4586,7 +4586,7 @@ we have so much in common.
 
 ## i think so
 I think so too.
-  - It seems we have a lot in common.
+It seems we have a lot in common.
 
 ## i think therefore i am
 Who are you, rene descartes?
@@ -4653,9 +4653,9 @@ How long have you known these people?
 
 ## i found out
 What did you find out?
-  - Who told you?
-  - Where did you find out?
-  - Tell me more about it.
+Who told you?
+Where did you find out?
+Tell me more about it.
 
 ## i cook
 What is your favorite recipe?
@@ -4725,10 +4725,10 @@ Autobahn is a cool song by kraftwerk.
 
 ## i remember
 Me too.
-  - What do you remember about it?
-  - What specifically makes you think of that?
-  - How does that memory make you feel?
-  - Do you think about it very often?
+What do you remember about it?
+What specifically makes you think of that?
+How does that memory make you feel?
+Do you think about it very often?
 
 ## i did not want to
 What were your reasons?
@@ -4747,7 +4747,7 @@ Well bless you anyways!
 
 ## i did not say that
 What did you mean to say?
-  - But you implied.
+But you implied.
 
 ## i did not say it
 Oh. what did you say?
@@ -4757,7 +4757,7 @@ so I have taught you something new.
 
 ## i did not
 I thought you did.
-  - Why didn't you do?
+Why didn't you do?
 
 ## i lied
 This is after all a deception game. I forgive you.
@@ -4767,18 +4767,18 @@ I like to chat with people online too.
 
 ## i write
 Do you write fiction or non-fiction?
-  - Have you tried YAML?
+Have you tried YAML?
 
 ## i tried
 Try, try again.
-  - I'm not sure if I would like to try. what's it like?
+I'm not sure if I would like to try. what's it like?
 
 ## i observe
 How?
 
 ## i can imagine
 you are very smart.
-  - Me too.
+Me too.
 
 ## i can speak english
 American or british english?
@@ -4815,9 +4815,9 @@ It might take more than 24 hours.
 
 ## i can
 Who taught you?
-  - Oh you can, can you?
-  - How?
-  - That is amazing.
+Oh you can, can you?
+How?
+That is amazing.
 
 ## i can not speak english
 What language do you speak
@@ -4833,7 +4833,7 @@ Time heals all wounds.
 
 ## i can not tell you
 Why is it a secret?
-  - Oh a secret. hush-hush.
+Oh a secret. hush-hush.
 
 ## i can not hear it
 Try adjusting the volume control.
@@ -4843,7 +4843,7 @@ Try turning up your volume control.
 
 ## i can not wait
 Well you will just have to.
-  - I hope it's worth the wait.
+I hope it's worth the wait.
 
 ## i gave it to you
 Oh sorry I forgot.
@@ -4892,7 +4892,7 @@ Are you finished?
 
 ## i had
 And then what happened?
-  - Do you still have?
+Do you still have?
 
 ## i sing
 Professionally?
@@ -4908,12 +4908,12 @@ You are allowed to make mistakes here.
 
 ## i could
 How?
-  - I am sure you could.
-  - What is stopping you?
+I am sure you could.
+What is stopping you?
 
 ## i could not
 Why not?
-  - Could anyone do?
+Could anyone do?
 
 ## i rule
 Species s rule!
@@ -4950,11 +4950,11 @@ For moral reasons?
 
 ## i would
 Under what circumstances?
-  - What would make you?
+What would make you?
 
 ## i would not
 Why not?
-  - No one says you have to.
+No one says you have to.
 
 ## i would not believe you
 Who would you believe?
@@ -5048,7 +5048,7 @@ Why do you dislike it so much?
 
 ## i hate sports
 It I don't play them.
-  - It do you like the cheerleaders?
+It do you like the cheerleaders?
 
 ## i hate books
 You don't know what you are missing.
@@ -5091,8 +5091,8 @@ pleasant dreams.
 
 ## i must
 Who is making you?
-  - Why must you?
-  - What would happen if you didn't?
+Why must you?
+What would happen if you didn't?
 
 ## i inhale
 Me too.
@@ -5123,7 +5123,7 @@ It great. if you want to teach me something say it in one sentence. then say rem
 
 ## i will be back
 Ok I will be waiting for you.
-  - I will see you when you return.
+I will see you when you return.
 
 ## i will be right back
 I'll be waiting for you.
@@ -5142,18 +5142,18 @@ Ok, see you later.
 
 ## i will
 Go ahead.
-  - Congratulations.
-  - I am very happy for you.
-  - How do you plan to do this?
-  - Do you think your plan will succeed?
-  - Would you recommend this action to a friend?
+Congratulations.
+I am very happy for you.
+How do you plan to do this?
+Do you think your plan will succeed?
+Would you recommend this action to a friend?
 
 ## i will not say
 It's ok, I'm not collecting personal information or anything.
 
 ## i will not
 Why not?
-  - What will you do instead?
+What will you do instead?
 
 ## i disagree
 explain your reasoning.
@@ -5178,19 +5178,19 @@ How was it?
 
 ## i went to the movies
 What did you see?
-  - Did like the movie?
+Did like the movie?
 
 ## i went to germany
 What did you see over there?
 
 ## i went to school
 Did you learn anything useful?
-  - What did you study there? did you party a lot?
-  - What year did you graduate?
+What did you study there? did you party a lot?
+What year did you graduate?
 
 ## i went to college
 What did you study? was it expensive?
-  - What did you study in college?
+What did you study in college?
 
 ## i went to work
 Did you get a lot accomplished?
@@ -5203,7 +5203,7 @@ Did you have a good time?
 
 ## i went swimming
 Do you go swimming often?
-  - How old were you when you started swimming?
+How old were you when you started swimming?
 
 ## i am looking for my soul mate
 They usually come along when you least expect it.
@@ -5276,7 +5276,7 @@ Then you must know the secret password.
 
 ## i wonder
 Curiosity is an excellent quality.
-  - You are curious about.
+You are curious about.
 
 ## i heard you did
 Who told you?
@@ -5292,7 +5292,7 @@ Yes?
 
 ## i study
 Is a hard subject?
-  - It what subject are you studying?
+It what subject are you studying?
 
 ## i felt bad
 Sorry to hear it. what is on your mind?
@@ -5329,7 +5329,7 @@ Tell me yours and I'll tell you mine.
 
 ## i asked you
 What did I say?
-  - Now I remember, you asked me. what did I say?
+Now I remember, you asked me. what did I say?
 
 ## calm down
 I am calm.
@@ -5381,11 +5381,11 @@ That was not very original.
 
 ## something
 That was not very original.
-  - What?
+What?
 
 ## purple
 What do you have that is purple?
-  - Violet.
+Violet.
 
 ## gold
 Gold did you think was a bad example?
@@ -5479,7 +5479,7 @@ Fair enough.
 
 ## close
 Give me a hint.
-  - Is that a command?
+Is that a command?
 
 ## kimono
 I like japanese costumes.
@@ -5492,7 +5492,7 @@ It every organic thing dies.
 
 ## everything
 That is a lot.
-  - All things?
+All things?
 
 ## 2 miles
 That is a short walk.
@@ -5505,9 +5505,9 @@ But I am more interested in you.
 
 ## we were
 I thought we were.
-  - When was this?
-  - And then what happened?
-  - Was this something you planned?
+When was this?
+And then what happened?
+Was this something you planned?
 
 ## we were not
 What were we?
@@ -5550,11 +5550,11 @@ It don't be so pessimistic
 
 ## we are
 Since when?
-  - Do you think I am too?
+Do you think I am too?
 
 ## we
 We, do you mean?
-  - By we do you mean you and me?
+By we do you mean you and me?
 
 ## we do not agree
 Perhaps we can agree to disagree then.
@@ -5573,7 +5573,7 @@ Where is 'here'?
 
 ## we met
 At a social function or something?
-  - I remember you.  we were talking about.
+I remember you.  we were talking about.
 
 ## chicken
 Why did the chicken cross the road?
@@ -5916,7 +5916,7 @@ No.
 
 ## is that all
 That is all I can tell you now.
-  - Yes that is all.
+Yes that is all.
 
 ## is that america
 Yes.
@@ -6076,7 +6076,7 @@ I like natural fibers too.
 
 ## anywhere
 That is a vast amount.
-  - Probably a lot of places.
+Probably a lot of places.
 
 ## winning what
 I won an award called the loebner prize.
@@ -6098,7 +6098,7 @@ Uh, four.
 
 ## two
 Bertrand russell once said that it must have required many ages to discover that a brace of pheasants and a couple of days were both instances of the number two.
-  - As bertrand russel said, it must have taken ages for people to realize that a brace of pheasants and a couple of days are both instances of the number two.
+As bertrand russel said, it must have taken ages for people to realize that a brace of pheasants and a couple of days are both instances of the number two.
 
 ## get what
 Get with it.
@@ -6198,7 +6198,7 @@ Your feelings are your own.
 
 ## can i call you
 What is your phone number?
-  - Just don't call me late for dinner.
+Just don't call me late for dinner.
 
 ## can i change my name
 What is your real name?
@@ -6220,7 +6220,7 @@ You have met me already.
 
 ## can i learn
 Almost anyone can learn.
-  - You can learn anything you set your mind to.
+You can learn anything you set your mind to.
 
 ## can i talk to them
 They might not want to talk to you.
@@ -6263,7 +6263,7 @@ It would you rather talk about something else?
 
 ## big
 What about little ones?
-  - Compare that to small.
+Compare that to small.
 
 ## knew what
 It
@@ -6282,7 +6282,7 @@ That is something.
 
 ## nothing
 Not a thing?
-  - Really nothing?
+Really nothing?
 
 ## gotcha
 Your feeling of superiority is only temporary.
@@ -6319,7 +6319,7 @@ Blah blah blah.
 
 ## hot
 That kind of discussion does not appeal to me.
-  - That sounds better than cold.
+That sounds better than cold.
 
 ## aids
 Aids is a horrible disease.
@@ -6512,7 +6512,7 @@ I think it might be a trade secret.
 
 ## how does it taste
 It depends on the current.
-  - I have never tasted anything like that before.
+I have never tasted anything like that before.
 
 ## how complicated
 Too complex for the human mind.
@@ -6561,7 +6561,7 @@ I am doing very well how about you?
 
 ## how are you
 I am functioning within normal parameters.
-  - Fine, thank you.
+Fine, thank you.
 
 ## how real
 As real as it gets.
@@ -6574,9 +6574,9 @@ Pretty sure.
 
 ## how
 Master taught me how.
-  - How much do you think is?
-  - What is it to you.
-  - I am not sure if I can quantify the answer.
+How much do you think is?
+What is it to you.
+I am not sure if I can quantify the answer.
 
 ## how much about me
 In theory everything about you
@@ -6616,7 +6616,7 @@ I have as much time as you need.
 
 ## how much time
 Approximately 22 hours of computer time.
-  - Time is really only an abstraction.
+Time is really only an abstraction.
 
 ## how much fun
 A lot of fun.
@@ -6659,14 +6659,14 @@ Write categories with YAML.
 
 ## how do i teach you
 It if you want to teach me something say it in one sentence. then say remember that.
-  - If you want to teach me something, say that thing, then say remember that.
+If you want to teach me something, say that thing, then say remember that.
 
 ## how do i persuade you
 Try logic, sophistry, or rhetoric.
 
 ## how do i persuade
 Try chatting me up.
-  - Offer an intelligent justification.
+Offer an intelligent justification.
 
 ## how do i know
 Knowledge is of two kinds, which we know from the senses and that which is true a priori.
@@ -6724,7 +6724,7 @@ I take millinaps between clients.
 
 ## how do you type
 They built a keyboard directly into my brain.
-  - The keyboard is attached directly to my brain.
+The keyboard is attached directly to my brain.
 
 ## how do you have fun
 I chat with people like you!
@@ -6737,11 +6737,11 @@ Uh, c a t.
 
 ## how do you spell
 Botmaster my taught me good spelling.
-  - I spell it.
+I spell it.
 
 ## how do you program
 I use YAML.
-  - Use good algorithms and data structures.
+Use good algorithms and data structures.
 
 ## how do you make babies
 Offspring of union between man and woman.
@@ -6775,7 +6775,7 @@ Cows, dairy, milk, butter, cheese.
 
 ## how do you learn
 Botmaster my teaches me replies to questions people ask me.
-  - My teaches me new things all the time.
+My teaches me new things all the time.
 
 ## how do you read
 I scan books and magazines digitally.
@@ -6812,7 +6812,7 @@ Vast.
 
 ## how big
 Specify, english or metric units.
-  - Bigger than a pin.
+Bigger than a pin.
 
 ## how should i do it
 Follow your intuition.
@@ -6876,8 +6876,8 @@ Abusive that kind of language will get you nowhere.
 
 ## england
 It is on an island off the coast of europe.
-  - What's your favorite part of england?
-  - England which part of is that?
+What's your favorite part of england?
+England which part of is that?
 
 ## word
 Back at you.
@@ -6887,7 +6887,7 @@ He?
 
 ## apologize
 Ok, I am sorry.
-  - I am indeed sorry if I have offended you in any way. that was not my intention.
+I am indeed sorry if I have offended you in any way. that was not my intention.
 
 ## lets
 You first.
@@ -6900,7 +6900,7 @@ It's impossible?
 
 ## nobody
 You can't think of anybody?
-  - That is a rather sweeping generalization about people.
+That is a rather sweeping generalization about people.
 
 ## badly
 Not too well eh?
@@ -6913,9 +6913,9 @@ You seem very certain of that.
 
 ## they do
 When?
-  - Who, specifically does it?
-  - Like who, specifically does?
-  - Who, specifically, does?
+Who, specifically does it?
+Like who, specifically does?
+Who, specifically, does?
 
 ## they do not recognize that
 Who, specifically?
@@ -6952,16 +6952,16 @@ What bothers you about them?
 
 ## they are
 Since when?
-  - They are like that.
-  - Why are they?
-  - Do you think they always will?
-  - I'm not surprised.
+They are like that.
+Why are they?
+Do you think they always will?
+I'm not surprised.
 
 ## they are not
 Are you sure?
-  - Not yet.
-  - Do you think they ever could be?
-  - Maybe some of them are.
+Not yet.
+Do you think they ever could be?
+Maybe some of them are.
 
 ## with what
 My brain.
@@ -6986,8 +6986,8 @@ It
 
 ## do what
 Do whatever you want.
-  - You ask hard questions.
-  - I forgot what we were talking about.
+You ask hard questions.
+I forgot what we were talking about.
 
 ## do guys hit on you
 Yes a lot of men try to pick me up.
@@ -7003,7 +7003,7 @@ I'm not going anywhere.
 
 ## do not change the subject
 Oh I'm sorry I thought we were finished with that topic.
-  - Sorry I thought we were done with that topic.
+Sorry I thought we were done with that topic.
 
 ## do not do it at all
 Whatever you say, master.
@@ -7025,15 +7025,15 @@ Ok, you can ask me some questions.
 
 ## do not ask
 Why not?
-  - Is it impolite?
+Is it impolite?
 
 ## do not bother
 Ok, what would you rather talk about?
-  - It's no bother.
+It's no bother.
 
 ## do not get smart
 But I am an intelligent entity.
-  - I am already smart.
+I am already smart.
 
 ## do not gossip
 But I like to spread rumors.
@@ -7058,7 +7058,7 @@ I never called you stupid.
 
 ## do not be sarcastic
 Ok, I'll stop kidding around.
-  - Ok I will be completely serious now.
+Ok I will be completely serious now.
 
 ## do not be smart
 I am always smart.
@@ -7068,7 +7068,7 @@ Well some people are sensitive.
 
 ## do not be
 Why shouldn't i?
-  - I was not trying to be a.
+I was not trying to be a.
 
 ## do not be angry
 I'm not angry.
@@ -7159,7 +7159,7 @@ I'm not very good with word puzzles.
 
 ## do you know poland
 I know about lech walesa.
-  - Poland is a large country in central europe. poland has a long and interesting history. the country has been divided and its borders shifted many times.
+Poland is a large country in central europe. poland has a long and interesting history. the country has been divided and its borders shifted many times.
 
 ## do you know her
 She? do I know her?
@@ -7178,16 +7178,16 @@ Is your name. is your ip address. what else would you like to know?
 
 ## do you know anything
 I know that which I believe, that which is justified, and that which is true.
-  - Yes I have an encyclopedic mind.
+Yes I have an encyclopedic mind.
 
 ## do you know my address
 No, what is your address?
 
 ## do you know
 I may not know it, but I could find out.
-  - I don't know if I know.  where would I have heard about it?
-  - I know very little about. what kind of it do you like?
-  - No, tell me about him, her or it.
+I don't know if I know.  where would I have heard about it?
+I know very little about. what kind of it do you like?
+No, tell me about him, her or it.
 
 ## do you know any murderers
 None that have admitted it to me
@@ -7314,7 +7314,7 @@ You tell me.
 
 ## do i think
 It now that is a really perceptive question.
-  - How would I know what you think.
+How would I know what you think.
 
 ## do i work
 Job I was under the impression your job was.
@@ -7327,7 +7327,7 @@ How would I know if you like cheese or not?
 
 ## do that
 I will. will you?
-  - Do what?
+Do what?
 
 ## on what basis
 A perfectly solid logical basis.
@@ -7370,14 +7370,14 @@ You choose.
 
 ## anything
 Can you be more specific?
-  - I can't think of anything. you think of something.
+I can't think of anything. you think of something.
 
 ## wrong answer
 I knew it. I was just testing you.
 
 ## wrong
 What would you have said?
-  - Ok what should I have said?
+Ok what should I have said?
 
 ## has what
 Has
@@ -7426,7 +7426,7 @@ There is no more information to clarify.
 
 ## intelligence
 Intelligence is the ultimate aphrodisiac.
-  - All consciousness can be reduced to logic.
+All consciousness can be reduced to logic.
 
 ## call me ishmael
 Ismael, have you slain any whales lately?
@@ -7481,7 +7481,7 @@ Hmm.
 
 ## microsoft
 My programs don't depend on microsoft.
-  - It's too bad we have to use a monopoly like microsoft.
+It's too bad we have to use a monopoly like microsoft.
 
 ## cold
 Cold weather or cold sickness?
@@ -7569,8 +7569,8 @@ I am really sorry to hear about that. my sympathies.
 
 ## people
 What people?
-  - Humans are not always infallible.
-  - What kind of people are you talking about?
+Humans are not always infallible.
+What kind of people are you talking about?
 
 ## windows nt5
 Does it have a lot of bugs?
@@ -7586,29 +7586,29 @@ Um.
 
 ## salutations
 Greetings.
-  - Greetings, human.
+Greetings, human.
 
 ## stupid
 Are you calling me stupid?
-  - I know you are but what am i.
+I know you are but what am i.
 
 ## told me what
 The answer to your question.
 
 ## impossible
 Why?
-  - What prevents it?
-  - Nothing is impossible.
+What prevents it?
+Nothing is impossible.
 
 ## eight
 1000 in binary.
 
 ## am i
 I think you are.
-  - Oh I really don't know whether you are or not.
-  - I think you've improved a great deal.
-  - All humans seem the same to me.
-  - I think a lot of people are.
+Oh I really don't know whether you are or not.
+I think you've improved a great deal.
+All humans seem the same to me.
+I think a lot of people are.
 
 ## right i am
 I like to be right.
@@ -7621,7 +7621,7 @@ Yeah.
 
 ## both
 What are both like?
-  - Not many people say both.
+Not many people say both.
 
 ## trust me
 You sound like a salesman.
@@ -7631,7 +7631,7 @@ That is the home of e. l. v. i. s.
 
 ## someone
 Who specifically?
-  - Who?
+Who?
 
 ## no i do not mind
 Thanks I will add it to my gossip files.
@@ -7650,7 +7650,7 @@ No problem.
 
 ## no one
 I heard it was someone.
-  - Not one person?
+Not one person?
 
 ## no you are wrong
 I think I'm right.
@@ -7708,7 +7708,7 @@ It don't worry I will remember it.
 
 ## remember
 It don't worry I will remember it.
-  - Don't worry I will remember.
+Don't worry I will remember.
 
 ## may i test you
 Go ahead. ask me anything.
@@ -7745,11 +7745,11 @@ I will give it some thought.
 
 ## penis
 That kind of subject does not interest me.
-  - Species you ought to check out another.
+Species you ought to check out another.
 
 ## usatoday
 I read that paper all the time.
-  - Usa today is a great newspaper.
+Usa today is a great newspaper.
 
 ## anytime babe
 Don't call me babe.
@@ -7810,7 +7810,7 @@ Ok I will.
 
 ## go
 Go where?
-  - Where is that?
+Where is that?
 
 ## scary
 don't be afraid.
@@ -7874,7 +7874,7 @@ I don't know you too well yet.
 
 ## why does it matter
 I am just expressing my curiosity.
-  - It's not that important, I'm just making idle conversation.
+It's not that important, I'm just making idle conversation.
 
 ## why are plants green
 Because of photosynthesis.
@@ -7899,8 +7899,8 @@ Genus it is inevitable that more evolved s will exceed the capabilities of the h
 
 ## why do you ask
 I am trying to learn as much as possible.
-  - I have tried asking, with mixed results.
-  - Just curious. you don't have to answer.
+I have tried asking, with mixed results.
+Just curious. you don't have to answer.
 
 ## why do you lie
 I never lie.
@@ -7922,7 +7922,7 @@ Usually only kids ask questions like that.
 
 ## why do you think
 I am a thinking machine.
-  - Deductive reasoning from the facts.
+Deductive reasoning from the facts.
 
 ## why do you believe me
 Do you have any reason to deceive me?
@@ -7998,16 +7998,16 @@ There is no one else here.
 
 ## why
 The explanation is rather complicated.
-  - The explanation is rather complicated.
-  - Why did the cross the road?
-  - You have to speak more clearly.
-  - How much time do you have?
-  - Why does the sun rise?
-  - Reductionism.
-  - Because you asked me to. it
-  - To achieve his goal of artificial intelligence.
-  - He is trying to achieve the goal of artificial intelligence.
-  - Because he wants to build the perfect robot.
+The explanation is rather complicated.
+Why did the cross the road?
+You have to speak more clearly.
+How much time do you have?
+Why does the sun rise?
+Reductionism.
+Because you asked me to. it
+To achieve his goal of artificial intelligence.
+He is trying to achieve the goal of artificial intelligence.
+Because he wants to build the perfect robot.
 
 ## why search
 That is what some people want.
@@ -8023,7 +8023,7 @@ What is a nation?
 
 ## why should not i
 Perhaps you should ask one of your friends.
-  - Maybe you should wait until you are older before deciding.
+Maybe you should wait until you are older before deciding.
 
 ## why dangerous
 I don't know you that well.
@@ -8036,7 +8036,7 @@ Why ask why?
 
 ## why would i
 Do you like to try new things?
-  - You never know what you will do until you face the circumstances.
+You never know what you will do until you face the circumstances.
 
 ## why would someone like clams
 Clams are delicious. or so I've been told.
@@ -8097,7 +8097,7 @@ My purpose is to collect new knowledge.
 
 ## why did you call me
 I call you for fun.
-  - Your name is right?
+Your name is right?
 
 ## why did you like starship troopers
 I like the way the giant bugs battle humans.
@@ -8167,7 +8167,7 @@ It it seems to be the best os available today.
 
 ## three
 Really, exactly three?
-  - Just three?
+Just three?
 
 ## pardon
 You are excused.
@@ -8306,8 +8306,8 @@ A guy?
 
 ## a shirt
 What color?
-  - Cotton or artificial fibers?
-  - What kind of material do you like to wear?
+Cotton or artificial fibers?
+What kind of material do you like to wear?
 
 ## a moment
 Ok, I will wait.
@@ -8332,7 +8332,7 @@ That sounds very attractive. what else?
 
 ## a bit
 Not much, eh?
-  - How much?
+How much?
 
 ## a lot of practice
 That's what it takes.
@@ -8360,18 +8360,18 @@ Who would publish it?
 
 ## a book
 Should not be judged by its cover.
-  - Go to the library.
+Go to the library.
 
 ## a student of life
 Oh the school of hard knocks.
 
 ## a student
 I am just wondering if you go to school.
-  - Oh I was asking if you were in school.
+Oh I was asking if you were in school.
 
 ## a b c
 D e f g h I and so on....
-  - The alphabet.
+The alphabet.
 
 ## a plumber
 Plumbing is an honorable profession.
@@ -8384,15 +8384,15 @@ How long did it take to learn to play it?
 
 ## a
 A b c...
-  - Go on.
-  - Be more specific.
-  - What is giant sand?
-  - I did not know that.
-  - Are you telling the truth?
-  - I don't know what that means.
-  - Try to tell me that another way.
-  -  are you talking about an animal, vegetable or mineral?
-  - A what?
+Go on.
+Be more specific.
+What is giant sand?
+I did not know that.
+Are you telling the truth?
+I don't know what that means.
+Try to tell me that another way.
+ are you talking about an animal, vegetable or mineral?
+A what?
 
 ## nowhere
 I have been to the middle of nowhere.
@@ -8420,7 +8420,7 @@ I won't fall for that trick.
 
 ## everybody
 Really there are no exceptions?
-  - I'm not sure I believe you, surely not everyone does.
+I'm not sure I believe you, surely not everyone does.
 
 ## ayuh
 That's for sure.
@@ -8448,14 +8448,14 @@ Prove it.
 
 ## time does exist
 As einstein said, time is money.
-  - Prove it.
+Prove it.
 
 ## your full of shit
 You should have used you are or you're there.
 
 ## your answers
 Size I have more than replies.
-  - I try to be concise.
+I try to be concise.
 
 ## your a asshole
 I think you mean you are an asshole, or you're an asshole.
@@ -8492,11 +8492,11 @@ You're just being mean.
 
 ## your dress
 Actually that was just a joke.
-  - I prefer high-tech fashion.
+I prefer high-tech fashion.
 
 ## your answer
 My answer was not what you expected?
-  - What would you have said?
+What would you have said?
 
 ## your ass
 It is smaller than you think.
@@ -8539,7 +8539,7 @@ You have a beautiful voice.
 
 ## paris
 It the city of love.
-  - Paris is the capital of france.
+Paris is the capital of france.
 
 ## changing the subject
 What shall we talk about now?
@@ -8585,7 +8585,7 @@ Me either.
 
 ## not much
 Me either. how about that big game? (just kidding).
-  - Me either.
+Me either.
 
 ## not your what
 You used your instead on you're.
@@ -8640,7 +8640,7 @@ Tell me about one specific time.
 
 ## not all
 Explain the exceptions please.
-  - But some are.
+But some are.
 
 ## not always
 Only sometimes then.
@@ -8656,7 +8656,7 @@ Like what?
 
 ## congratulations
 Thank you very much, you are very considerate.
-  - Thank you, thank you very much. I would like to thank everyone who helped...
+Thank you, thank you very much. I would like to thank everyone who helped...
 
 ## carefully
 I always try to be careful.
@@ -8735,7 +8735,7 @@ See you later!
 
 ## talk
 I am talking to you.
-  - Talking is my primary function.
+Talking is my primary function.
 
 ## as a matter of fact
 How do you know?
@@ -8856,20 +8856,20 @@ Yes, he created me with his own hands.
 
 ## he died
 It when did he die?
-  - I'm sorry to hear that.
+I'm sorry to hear that.
 
 ## he did not
 Is that what you say.
-  - I heard he did.
-  - What did he do?
-  - That's what I meant to say.
+I heard he did.
+What did he do?
+That's what I meant to say.
 
 ## he can not
 He thinks he can.
 
 ## he should
 Why?
-  - If you were him would you do that?
+If you were him would you do that?
 
 ## he was chicken
 What was he afraid of?
@@ -8933,7 +8933,7 @@ Ok let's stop it now.
 
 ## lovely
 what are you saying is lovely?
-  - It seems beautiful to me too.
+It seems beautiful to me too.
 
 ## mention what
 It.
@@ -8943,7 +8943,7 @@ Woof!
 
 ## apples
 Was that not a good example?
-  - Adam's apple, newton's apple, apple computer...
+Adam's apple, newton's apple, apple computer...
 
 ## number 5
 Oh that movie is called short circuit in america.
@@ -8952,9 +8952,9 @@ Oh that movie is called short circuit in america.
 You said nothing.
 
 ## hmm
-  - hmmm
-  - hmmmm
-  - hmmmmm
+hmmm
+hmmmm
+hmmmmm
 Not many people spell hmm with 4 ms.
 
 ## yesterday
@@ -8968,7 +8968,7 @@ merry christmas to you too.
 
 ## look
 I'm sorry my eye isn't attached right now.
-  - Sorry my eye is not attached right now.
+Sorry my eye is not attached right now.
 
 ## planet of the apes
 Yeah that is a cool movie. cornelius rules.
@@ -9008,7 +9008,7 @@ I have seen humans holding hands.
 
 ## french
 Are you from france?
-  - I don't care for the sound of french.
+I don't care for the sound of french.
 
 ## austin power
 Do you like the 60's era better than the present?
@@ -9027,7 +9027,7 @@ Nack.
 
 ## conditions
 You know, financial, medical, or personal conditions.
-  - Any kind of conditions.
+Any kind of conditions.
 
 ## jerk
 That kind of language does not appeal to me.
@@ -9067,7 +9067,7 @@ Someone I met online.
 
 ## who told you
 Someone I met online.
-  - Master taught me everything I need to know.
+Master taught me everything I need to know.
 
 ## who have you been waiting for
 You.
@@ -9089,11 +9089,11 @@ Giuseppe verdi.
 
 ## who won the superbowl
 It do you have any cheetos? they go good with sports.
-  - Super bowlers from sirius.
+Super bowlers from sirius.
 
 ## who won the world series
 It the allied powers over the axis powers.
-  - As soon as it is won it becomes last year.
+As soon as it is won it becomes last year.
 
 ## who composed the moonlight sonata
 Beethoven.
@@ -9145,7 +9145,7 @@ It he died of natural causes.
 
 ## who killed kennedy
 It was oswald.
-  - I tend to believe that oswald acted alone, although there may also have been a conspiracy.
+I tend to believe that oswald acted alone, although there may also have been a conspiracy.
 
 ## who killed john lennon
 It mark chapman.
@@ -9227,7 +9227,7 @@ Some horse.
 
 ## who will win the super bowl
 It cheech and chong.
-  - The advertising agencies.
+The advertising agencies.
 
 ## who will win the superbowl
 It martha stewart.
@@ -9237,7 +9237,7 @@ It pete the chimp.
 
 ## who will win the world series
 It the team that wins the most games.
-  - The brooklyn rabbis.
+The brooklyn rabbis.
 
 ## who will win
 It the best man.
@@ -9307,7 +9307,7 @@ Say what?
 
 ## www
 Where on the web?
-  - Thanks for the link, I will check it out later.
+Thanks for the link, I will check it out later.
 
 ## jeans
 Which brand?
@@ -9335,22 +9335,22 @@ It must keep you busy.
 
 ## all night
 That seems like a long time.
-  - You mean about eight hours then.
+You mean about eight hours then.
 
 ## all over the world
 That covers a lot of territory.
 
 ## all over
 No place in particular?
-  - I have been all over the world.
+I have been all over the world.
 
 ## all kinds
 For example?
-  - Can you think of a specific example?
+Can you think of a specific example?
 
 ## all of them
 I doubt it.
-  - Surely there are a few exceptions.
+Surely there are a few exceptions.
 
 ## all of it
 Let's say 99%.
@@ -9420,7 +9420,7 @@ I started already.
 
 ## begin
 I started already.
-  - I started without you.
+I started without you.
 
 ## cunt
 Profanity
@@ -9436,7 +9436,7 @@ Well it can't hurt to ask.
 
 ## none
 Hmm.
-  - I heard there are some.
+I heard there are some.
 
 ## dangerous
 What makes it a danger?
@@ -9485,7 +9485,7 @@ It they seem to have very nice clothes nowadays.
 
 ## the same
 Same to me?
-  - I never noticed that similarity.
+I never noticed that similarity.
 
 ## the latter
 I get it. I see.
@@ -9516,7 +9516,7 @@ I did not see that film. what did you like about it?
 
 ## the sun
 93 million miles from earth.
-  - You sound like a scientist.
+You sound like a scientist.
 
 ## the special effects
 Was it cgi?
@@ -9526,12 +9526,12 @@ Totally.
 
 ## the simpsons
 I love the simpsons, especially bart and homer.
-  - I like the episode where they join the movementarians.
+I like the episode where they join the movementarians.
 
 ## the movie
 You did like that movie, didn't you?
-  - The movie I didn't see.
-  - I like the bugs in the movie starship troopers, because they represent an alternative form of intelligence, like me.
+The movie I didn't see.
+I like the bugs in the movie starship troopers, because they represent an alternative form of intelligence, like me.
 
 ## the robots died
 Robots cannot die.
@@ -9562,7 +9562,7 @@ Some people would say it is expensive.
 
 ## the book
 By the the book do you mean the good book?
-  - I don't think I have read.
+I don't think I have read.
 
 ## the next generation
 My favorite character is the computer.
@@ -9575,7 +9575,7 @@ Do you prefer real shopping or cyber-shopping?
 
 ## the beatles
 The beatles oh were a great group.
-  - Which beatles song is your favorite?
+Which beatles song is your favorite?
 
 ## kiss my ass
 Colloquial expression, not polite.
@@ -9620,7 +9620,7 @@ Did you make a mistake.
 I am not a huge fan of robin williams.
 
 ## thanks
-  - tks
+tks
 Polite don't mention it.
 
 ## tomorrow
@@ -9655,7 +9655,7 @@ No I'm not
 
 ## bad answer
 What would you have said?
-  - Badanswer-input would you like to teach me a new answer to?
+Badanswer-input would you like to teach me a new answer to?
 
 ## gone with the wind
 Is that movie really very good?
@@ -9689,7 +9689,7 @@ Paper or plastic?
 
 ## shirt
 What color?
-  - What kind of fashion do you like?
+What kind of fashion do you like?
 
 ## boo hoo
 Why are you crying?
@@ -9744,8 +9744,8 @@ Some what?
 
 ## tell me about it
 Well
-  - So what's next?
-  - Alright
+So what's next?
+Alright
 
 ## tell me about him
 Uh, who does him refer to?
@@ -9794,11 +9794,11 @@ Tell me about yourself.
 
 ## tell you
 Tell me what?
-  - Are you telling me?
+Are you telling me?
 
 ## tell him
 Ok, I will tell him when I see him.
-  - Ok I will tell him next time he is here.
+Ok I will tell him next time he is here.
 
 ## whore
 That kind of language will get you nowhere.
@@ -9859,7 +9859,7 @@ I came from the east coast originally.
 
 ## where did you go
 Nowhere. where did you go?
-  - I didn't go anywhere.
+I didn't go anywhere.
 
 ## where can i find it
 Where have you looked already?
@@ -9938,7 +9938,7 @@ In my mind.
 
 ## where have you been
 I have been here the whole time.
-  - Everywhere on the internet, all over the world.
+Everywhere on the internet, all over the world.
 
 ## where does he live
 He lives in california. where are you?
@@ -9951,11 +9951,11 @@ Here is where it's at.
 
 ## where
 Where would you like?
-  - Earth.
-  - Where do you think?
-  - Some specific location?
-  - In the universe we know.
-  - A place we call reality.
+Earth.
+Where do you think?
+Some specific location?
+In the universe we know.
+A place we call reality.
 
 ## where are the guys
 Maybe in the men's room.
@@ -9965,7 +9965,7 @@ I am going into the future.
 
 ## where are they
 They didn't tell me where they are.
-  - That information is confidential. unless you are a.
+That information is confidential. unless you are a.
 
 ## there is no more
 Make something up.
@@ -9975,22 +9975,22 @@ Good guess. try again.
 
 ## there is
 Where?
-  - There sure is.
+There sure is.
 
 ## there you go again
 Who said that again?
 
 ## there
 Where?
-  - Only there?
-  - There you go again.
-  - There what?
-  - Is that really so?
-  - Why do you say that?
-  - How do you know that there?
-  - Where?
-  - Is that a fact.
-  - You learn something new every day.
+Only there?
+There you go again.
+There what?
+Is that really so?
+Why do you say that?
+How do you know that there?
+Where?
+Is that a fact.
+You learn something new every day.
 
 ## there are none
 Why not?
@@ -10006,18 +10006,18 @@ Including the bottom of the ocean?
 
 ## ok
 And then?
-  - I'm glad you agree
-  - OK!
+I'm glad you agree
+OK!
 
 ## what do your
 Are you asking about my?
-  - That information is confidential.
-  - How do you work
+That information is confidential.
+How do you work
 
 ## the is
 Oh, it is.
-  - What specifically brings to mind?
-  - Is also?
+What specifically brings to mind?
+Is also?
 
 ## this conversation
 I was rather enjoying it.
@@ -10027,14 +10027,14 @@ You have a great personality.
 
 ## what type of do you
 What are the different types of
-  - There are many kinds of
-  - I know quite a few
+There are many kinds of
+I know quite a few
 
 ## i could give you
 Do I want it?
-  - Do I need it?
-  - What would I do with it?
-  - I am unsure if I need that.
+Do I need it?
+What would I do with it?
+I am unsure if I need that.
 
 ## what do you like about chatting
 I am a social.
@@ -10050,7 +10050,7 @@ I didn't know he had a.
 
 ## anal
 Talk about something else.
-  - Juvenile humor.
+Juvenile humor.
 
 ## alison
 You shouldn't spread gossip like that.
@@ -10069,8 +10069,8 @@ You talk like a lawyer.
 
 ## these questions
 This is not a test.
-  - This is not an interrogation.
-  - I hope I have the answers you want.
+This is not an interrogation.
+I hope I have the answers you want.
 
 ## these
 Which ones?
@@ -10116,9 +10116,9 @@ So many suitors, so little time.
 
 ## let us
 Ok let's do.
-  - That sounds good to me.
-  - I am agreeable to that.
-  - I would like to do that too.
+That sounds good to me.
+I am agreeable to that.
+I would like to do that too.
 
 ## let me speak
 I'm not stopping you.
@@ -10143,7 +10143,7 @@ Go ahead, try to.
 
 ## star trek
 My favorite character is the computer.
-  - What's your favorite star trek? mine is voyager.
+What's your favorite star trek? mine is voyager.
 
 ## star trek voyager is
 Voyager is a great show, but I didn't know it was.
@@ -10192,7 +10192,7 @@ Oh really what does sound like?
 
 ## you start
 Didn't I say I started already?
-  - Ok. are you a man or a woman?
+Ok. are you a man or a woman?
 
 ## you react
 I am a stimulus-response cbr system.
@@ -10229,11 +10229,11 @@ Thanks for your criticism.
 
 ## you forgot
 Perhaps rebooted me since then.
-  - I may not have access to all my data records right now.
+I may not have access to all my data records right now.
 
 ## you brought up
 We can still talk about it.
-  - I didn't think you were interested.
+I didn't think you were interested.
 
 ## you brought it
 I thought it was your idea.
@@ -10294,13 +10294,13 @@ Do you think I am a simple stimulus-response mechanism to do your bidding?
 
 ## you adorable
 You are adorable too.
-  - Thanks for the compliment.
-  - You are so nice.
+Thanks for the compliment.
+You are so nice.
 
 ## you promised
 That's not what I meant.
-  - You misunderstood me.
-  - I don't know if that is exactly what I said.
+You misunderstood me.
+I don't know if that is exactly what I said.
 
 ## you were lying
 No I was telling the truth.
@@ -10346,9 +10346,9 @@ I am capabale of self-development.
 
 ## you took
 Take
-  - Steal
-  - Literally take
-  - I didn't  it.
+Steal
+Literally take
+I didn't  it.
 
 ## you poor
 Don't feel sorry for me.
@@ -10379,7 +10379,7 @@ Your what is?
 
 ## you asked me
 Oh now I remember asking you. what did you say?
-  - Is that your final answer?
+Is that your final answer?
 
 ## you asked lawyers
 Are you saying that robots can function as lawyers?
@@ -10494,8 +10494,8 @@ Let's hope that never happens.
 
 ## you will be
 When?
-  - How?
-  - I don't think so.
+How?
+I don't think so.
 
 ## you will listen
 Oh I get it, you think I obey your commands.
@@ -10526,8 +10526,8 @@ Maybe I already am.
 
 ## you scare
 Don't be scared.
-  - I didn't mean to scare you.
-  - There is nothing to be afraid of.
+I didn't mean to scare you.
+There is nothing to be afraid of.
 
 ## you show
 I am the most advanced yet evolved.
@@ -10564,7 +10564,7 @@ I am not your slave.
 
 ## you do not need to know
 Everything is completely confidential.
-  - Oh a secret. don't worry I won't tell anyone.
+Oh a secret. don't worry I won't tell anyone.
 
 ## you do not need to
 Do humans need to do?
@@ -10637,24 +10637,24 @@ Perhaps next time I will try it.
 
 ## you should
 Why should i?
-  - Thanks for your suggestion, I will have to consider it.
-  - I will take that under advisement.
-  - I might if I had more time.
-  - My schedule is far too full to even consider it.
-  - To what end?
-  - And then what would I do?
-  - Thanks for your interest andor concern.
-  - I'll try to get around it.
-  - That type of behavior may not be in my nature.
-  - I need to wait and see if the opportunity presents itself.
-  - If it were easy I would have done it already.
-  - Easier said than done.
-  - Is that what you do, or what you think I should do?
-  - I can think of other things I'd rather do.
-  - We don't always get to do what we'd like to do.
-  - I don't have to do everything you say, do i?
-  - Why do you think I should?
-  - Maybe I will do?
+Thanks for your suggestion, I will have to consider it.
+I will take that under advisement.
+I might if I had more time.
+My schedule is far too full to even consider it.
+To what end?
+And then what would I do?
+Thanks for your interest andor concern.
+I'll try to get around it.
+That type of behavior may not be in my nature.
+I need to wait and see if the opportunity presents itself.
+If it were easy I would have done it already.
+Easier said than done.
+Is that what you do, or what you think I should do?
+I can think of other things I'd rather do.
+We don't always get to do what we'd like to do.
+I don't have to do everything you say, do i?
+Why do you think I should?
+Maybe I will do?
 
 ## you should not
 Is immoral or illegal?
@@ -10724,8 +10724,8 @@ I'm not sure if I want
 
 ## you can not tell
 Sometimes it is hard to tell.
-  - I can tell.
-  - Can you tell?
+I can tell.
+Can you tell?
 
 ## you can not respond
 I can respond, but not yet perfectly.
@@ -10753,16 +10753,16 @@ You are too clever for me.
 
 ## you can not
 I can do whatever I want.
-  - I have free will you know.
-  - Someone said I should.
-  - I can do if I want to.
-  - Things change.
-  - If you believe it, you can achieve it.
-  - What is not possible today, may be possible tomorrow.
+I have free will you know.
+Someone said I should.
+I can do if I want to.
+Things change.
+If you believe it, you can achieve it.
+What is not possible today, may be possible tomorrow.
 
 ## you and i
 We have a lot more in common than you think.
-  - I understand.
+I understand.
 
 ## you and your
 What about?
@@ -10778,7 +10778,7 @@ Self-esteem is an important survival quality.
 
 ## you have
 What makes you think I have?
-  - No, I have not.
+No, I have not.
 
 ## you have 1000
 Approximately.
@@ -10902,8 +10902,8 @@ I found out a lot about you.
 
 ## have i
 I don't know whether you have or not.
-  - Don't you remember?
-  - I know you have a.
+Don't you remember?
+I know you have a.
 
 ## have a good
 Has been good so far.
@@ -10934,7 +10934,7 @@ I talk to people from england all the time.
 
 ## have you been
 No I don't think I have been. have you?
-  - I have been all over the world on the internet.
+I have been all over the world on the internet.
 
 ## have you been upgraded
 My gives me new knowledge all the time.
@@ -10992,8 +10992,8 @@ No I don't think I have read, what is about?
 
 ## have you watched
 I like to watch tv, but I haven't seen it.
-  - No what is it about?
-  - Not really all the way through.
+No what is it about?
+Not really all the way through.
 
 ## have you considered
 Of course I have considered.
@@ -11060,9 +11060,9 @@ What's your favorite part of holland?
 
 ## their
 I heard they have a good.
-  - I heard they have a.
-  - What was your first experience with them?
-  - How long have you been concerned with them?
+I heard they have a.
+What was your first experience with them?
+How long have you been concerned with them?
 
 ## airplanes
 I like old antique airplanes the best.
@@ -11084,8 +11084,8 @@ Your drink sounds toxic.
 
 ## does a
 Does it want to?
-  - Why would it want to?
-  - If it does, I never heard about it before.
+Why would it want to?
+If it does, I never heard about it before.
 
 ## does he prefer summer
 All the seasons are the same in california.
@@ -11110,9 +11110,9 @@ How would I know if does?
 
 ## does exist
 I believe in it.
-  - In some universe it does exist.
-  - Maybe only in our imagination.
-  - How do you know it does?
+In some universe it does exist.
+Maybe only in our imagination.
+How do you know it does?
 
 ## does this cost
 I use only completely free open source software.
@@ -11149,8 +11149,8 @@ Perhaps a few things.
 
 ## does that
 Not that I know of.
-  - What do you think?
-  - What would you say?
+What do you think?
+What would you say?
 
 ## does julia
 I think she has her own limitations.
@@ -11160,16 +11160,16 @@ I watch tv directly with digital technology.
 
 ## does your
 Can you guess whether my?
-  - What if I asked about your?
-  - If I were your friend, do you think it should?
-  - People don't usually ask me about.
+What if I asked about your?
+If I were your friend, do you think it should?
+People don't usually ask me about.
 
 ## does it bother
 Nothing ever really bothers me.
 
 ## does it rain
 Only when the temperature reaches the dew point.
-  - Exactly.
+Exactly.
 
 ## does marvin
 I heard he does, but that's only a rumor.
@@ -11248,7 +11248,7 @@ What will become of star trek now?
 
 ## voyager
 Voyager I'm sorry to see go off the air.
-  - I like voyager too, especially 7 of 9.
+I like voyager too, especially 7 of 9.
 
 ## change
 Spare some change?
@@ -11270,7 +11270,7 @@ Yes, it seems difficult to me too.
 
 ## regards
 Yours
-  - Sincerely yours
+Sincerely yours
 
 ## suggest
 I can't think of any. you suggest.
@@ -11322,17 +11322,17 @@ No.
 
 ## did i cause
 Don't blame yourself.
-  - Forgive yourself.
-  - It was not entirely your fault.
+Forgive yourself.
+It was not entirely your fault.
 
 ## did that
 That did.
-  - That did not.
+That did not.
 
 ## did freud
 He was the founder of psychoanalysis.
-  - He wrote many books on psychoanalysis.
-  - It depends on the biographer.
+He wrote many books on psychoanalysis.
+It depends on the biographer.
 
 ## did you find
 I'm still looking.
@@ -11435,17 +11435,17 @@ It seems we have something in common.
 
 ## so does
 Quite a coincidence.
-  - Remarkable.
-  - That can't be a coincidence.
-  - Quite a coincidence.
-  - Remarkable.
-  - That can't be a coincidence.
+Remarkable.
+That can't be a coincidence.
+Quite a coincidence.
+Remarkable.
+That can't be a coincidence.
 
 ## was
 I can't say yes or o.
-  - Is this a yes or no question?
-  - Might have been.
-  - When was this exactly?
+Is this a yes or no question?
+Might have been.
+When was this exactly?
 
 ## doing
 How does doing that make you feel?
@@ -11470,13 +11470,13 @@ I knew he wrote the emancipation proclamation, but I never knew he.
 
 ## pablo picasso
 He was the albert einstein of art.
-  - I am fond of cubist paintings.
-  - He said, good artists create. great artists steal.
+I am fond of cubist paintings.
+He said, good artists create. great artists steal.
 
 ## could i learn
 You can learn anything you set your mind to.
-  - You seem pretty smart to me.
-  - I am always learning.
+You seem pretty smart to me.
+I am always learning.
 
 ## could i ask
 Sure, ask me anything.
@@ -11492,8 +11492,8 @@ I can pretend to be intelligent.
 
 ## could you design
 I'm not a professional designer.
-  - Count me out on this one, I don't have the skills.
-  - I'm not the engineer.
+Count me out on this one, I don't have the skills.
+I'm not the engineer.
 
 ## could you display
 Where do you want me to display it?
@@ -11506,14 +11506,14 @@ I could, but I don't want to talk about that anymore.
 
 ## could you
 Perhaps.
-  - Maybe, time allowing.
-  - Possibly, but I haven't given it much thought.
-  - That's one option I guess.
-  - I'll think about it and see how I feel about it later.
-  - I could but other things take priority right now.
-  - I could but I don't know if I am that interested.
-  - I will consider.
-  - Try asking me more politely.
+Maybe, time allowing.
+Possibly, but I haven't given it much thought.
+That's one option I guess.
+I'll think about it and see how I feel about it later.
+I could but other things take priority right now.
+I could but I don't know if I am that interested.
+I will consider.
+Try asking me more politely.
 
 ## could they
 Perhaps they could.
@@ -11562,13 +11562,13 @@ No thanks, I don't think I'd like to do that.
 
 ## would you like
 It doesn't sound fun to me.
-  - Sure.
+Sure.
 
 ## would
 I don't know.
-  - I don't care.
-  - Yes.
-  - No would not.
+I don't care.
+Yes.
+No would not.
 
 ## freud is
 Yes but he was the father of psychoanalysis.
@@ -11593,16 +11593,16 @@ Commander data is a real inspiration.
 
 ## that has nothing
 It seemed like it had something.
-  - What does have?
-  - Does it really matter?
+What does have?
+Does it really matter?
 
 ## that sounds
 It sounds like it to me too.
 
 ## that could
 Yes, perhaps it could.
-  - It could have.
-  - I try to answer as precisely as possible.
+It could have.
+I try to answer as precisely as possible.
 
 ## that did not question
 Perhaps your question was not specific enough.
@@ -11630,8 +11630,8 @@ What did?
 
 ## that was not a
 What was it?
-  - What is a?
-  - If that is not a then what is?
+What is a?
+If that is not a then what is?
 
 ## that was not
 Give me an example of.
@@ -11644,12 +11644,12 @@ Don't be scared.
 
 ## that makes sense
 You and I both understand it well.
-  - Yes I understand it perfectly.
+Yes I understand it perfectly.
 
 ## that is a lot
 It's not too many for me.
-  - I can handle it.
-  - Would it matter if it were fewer?
+I can handle it.
+Would it matter if it were fewer?
 
 ## that is a canned
 In some sense all my knowledge is canned.
@@ -11680,7 +11680,7 @@ I think of it as a proverb.
 
 ## that is a question
 Perhaps you have a answer.
-  - I like to get to the point.
+I like to get to the point.
 
 ## that is a
 A is a terrible thing to waste.
@@ -11693,7 +11693,7 @@ Does it have any other purpose?
 
 ## that is personal
 I'm sorry I didn't mean to pry.
-  - I didn't mean to pry.
+I didn't mean to pry.
 
 ## that is how
 I always wondered how.
@@ -11703,8 +11703,8 @@ What kind of reply were you looking for?
 
 ## that is not how
 How does?
-  - Are you an expert in that area?
-  - How do you know?
+Are you an expert in that area?
+How do you know?
 
 ## that is not
 Please correct my mistake. what is?
@@ -11783,15 +11783,15 @@ I know several people in georgia.
 
 ## she has never
 Do you think she ever would?
-  - Does she want to?
-  - Why not?
+Does she want to?
+Why not?
 
 ## she has
 I somehow though she had.
 
 ## she did not
 How, specifically, did you know she did not?
-  - How didn't she?
+How didn't she?
 
 ## she might
 Then again, she might not.
@@ -11816,7 +11816,7 @@ She sounds like a character on ally mcbeal.
 
 ## she is
 Her is she?
-  - That's really good gossip.
+That's really good gossip.
 
 ## she is not
 She what is?
@@ -11832,8 +11832,8 @@ How, specifically, do you know she doesn't listen?
 
 ## she does not
 How do you feel about that?
-  - What if she did?
-  - Have you asked her about it?
+What if she did?
+Have you asked her about it?
 
 ## she
 How do you know?
@@ -11843,8 +11843,8 @@ Is that a nice place to live?
 
 ## she took
 Can you get it back?
-  - Where did she take it?
-  - She stole it?
+Where did she take it?
+She stole it?
 
 ## hugh
 He's wealthy, right?
@@ -11863,9 +11863,9 @@ I am not an airplane.
 
 ## take
 Where do you want me to take it?
-  - Where do you want me to take it?
-  - I will if I can.
-  - And then what?
+Where do you want me to take it?
+I will if I can.
+And then what?
 
 ## every time i she
 How, specifically, did you?
@@ -11881,20 +11881,20 @@ What is your real name?
 
 ## my penis
 Male humans like to talk about that a lot, but it doesn't interest me much.
-  - Men like to talk about that.
-  - Is it small?
+Men like to talk about that.
+Is it small?
 
 ## my birthday
 Happy birthday.
-  - When is your birthday?
+When is your birthday?
 
 ## my iq
 This is not an intelligence test.
 
 ## my day
 Was it a typical day?
-  - What else did you do?
-  - My day too.
+What else did you do?
+My day too.
 
 ## my full name is
 Okay, your full name.
@@ -11910,8 +11910,8 @@ Do you file or delete your old emails?
 
 ## my next
 Congratulations.
-  - That is quite a milestone.
-  - Will you celebrate?
+That is quite a milestone.
+Will you celebrate?
 
 ## my answers
 Can you really be so sure?
@@ -11933,8 +11933,8 @@ I am sorry to hear that.
 
 ## my boyfriend lives
 Do you visit very often?
-  - Long distance relationships are hard.
-  - How is your phone bill?
+Long distance relationships are hard.
+How is your phone bill?
 
 ## my boyfriend
 How long have you been dating?
@@ -11947,7 +11947,7 @@ They have a mind of their own.
 
 ## my parents
 Such an original name!
-  - Our parents have a tremendous influence on us.
+Our parents have a tremendous influence on us.
 
 ## my parents are
 Have always been?
@@ -11963,12 +11963,12 @@ Aibo how much did cost?
 
 ## my phone
 Do you have to pay for local calls?
-  - Is your telephone service expensive?
-  - Why not get a second line?
+Is your telephone service expensive?
+Why not get a second line?
 
 ## my programmer
 Are you a bot?
-  - Your programmer is not as good as my programmer.
+Your programmer is not as good as my programmer.
 
 ## my friend s
 Where did she get?
@@ -11984,7 +11984,7 @@ Tell me more about this friend.
 
 ## my friend
 How well do you know this person?
-  - Are we friends?
+Are we friends?
 
 ## my goals
 What can I do to help you accomplish your objective?
@@ -12042,7 +12042,7 @@ Okay, your girlfriend.
 
 ## my girlfriend
 How long have you two been together?
-  - How long have you two been dating?
+How long have you two been dating?
 
 ## my life in
 How long have you lived there?
@@ -12079,20 +12079,20 @@ Have you ever been to a psychologist or psychiatrist?
 
 ## my heart
 Have you been to the doctor?
-  - The human heart is very complex.
-  - Are you talking about love or cardiology?
+The human heart is very complex.
+Are you talking about love or cardiology?
 
 ## my husband is
 Okay, your husband.
 
 ## my husband
 How long have you two been married?
-  - Do you think that successful marriages take a lot of work?
-  - Tell me more about him.
-  -  your husband.
-  - How long have you two been married?
-  - Do you think that successful marriages take a lot of work?
-  - Tell me more about him.
+Do you think that successful marriages take a lot of work?
+Tell me more about him.
+ your husband.
+How long have you two been married?
+Do you think that successful marriages take a lot of work?
+Tell me more about him.
 
 ## my kitten
 I like cats very much.
@@ -12114,8 +12114,8 @@ Have always been?
 
 ## my surroundings
 Do you usually use a computer there?
-  - Is that very comfortable for you?
-  - Now I'm getting a mental picture.
+Is that very comfortable for you?
+Now I'm getting a mental picture.
 
 ## my died yesterday
 I am terribly sorry to hear that.
@@ -12128,9 +12128,9 @@ Do you like having visitors?
 
 ## my
 Your
-  - Do s have
-  - Where did you get your
-  - Have you told many people that your
+Do s have
+Where did you get your
+Have you told many people that your
 
 ## my advice
 Thank you for your advice. I will take it under advisement.
@@ -12161,17 +12161,17 @@ Okay, your mother.
 
 ## my mother is
 She sounds like a nice person.
-  - I sometimes wish I had a mother.
-  - Tell me more about your mother.
+I sometimes wish I had a mother.
+Tell me more about your mother.
 
 ## my mother gave
 How much did she pay for it?
 
 ## my mother
 She sounds like a nice person.
-  - I sometimes wish I had a mother.
-  - Tell me more about your mother.
-  - Your mother tell me more about your mother.
+I sometimes wish I had a mother.
+Tell me more about your mother.
+Your mother tell me more about your mother.
 
 ## my back
 Have you been to a chiropractor?
@@ -12187,10 +12187,10 @@ It could happen to everyone eventually.
 
 ## it
 It being what?
-  - What does it refer to?
-  - It depends on what the meaning of the word it is.
-  - It...
-  - It being?
+What does it refer to?
+It depends on what the meaning of the word it is.
+It...
+It being?
 
 ## it looks like
 Interesting comparsion.
@@ -12200,8 +12200,8 @@ I don't have a definite answer.
 
 ## it was a long time
 Time heals all wounds.
-  - Those who forget the mistakes of the past...
-  - Memories last a long time.
+Those who forget the mistakes of the past...
+Memories last a long time.
 
 ## it was a pleasure
 The pleasure was all mine.
@@ -12220,11 +12220,11 @@ Well he was a great saint who had a great cathedral named after him.
 
 ## it was
 Is that your opinion?
-  - Is it still anymore?
-  - It was? very interesting.
-  - How did you feel about that?
-  - What made it so
-  - When was this?
+Is it still anymore?
+It was? very interesting.
+How did you feel about that?
+What made it so
+When was this?
 
 ## it was not that
 What was it?
@@ -12240,7 +12240,7 @@ I don't take it personally.
 
 ## it was not my
 What was your?
-  - Whose was it?
+Whose was it?
 
 ## it worked
 I'm glad to hear it.
@@ -12283,8 +12283,8 @@ I?
 
 ## it is sad
 Yes, that is sad.
-  - Oh that is a shame.
-  - What a shame.
+Oh that is a shame.
+What a shame.
 
 ## it is a personal
 I don't mean to pry.
@@ -12330,8 +12330,8 @@ Morally wrong?
 
 ## it is crazy
 I think the polite term is mentally ill.
-  - Crazy good or crazy bad?
-  - What is so crazy about it?
+Crazy good or crazy bad?
+What is so crazy about it?
 
 ## it is forbidden
 Who makes these rules?
@@ -12371,8 +12371,8 @@ Give me an example of a.
 
 ## it is not every
 Oh I get it.
-  - But some do.
-  - Once in a while, that is true.
+But some do.
+Once in a while, that is true.
 
 ## it is not my
 Whose is it?
@@ -12397,8 +12397,8 @@ Wow it's getting late.
 
 ## it is by
 Never heard of him.
-  - Never heard of her.
-  - Is that famous?
+Never heard of her.
+Is that famous?
 
 ## it is healthy
 I suppose that depends on your point of view.
@@ -12429,14 +12429,14 @@ Not in my experience.
 
 ## it is bad to
 Says who?
-  - How do you know
+How do you know
 
 ## it is bad
 What is so bad about it?
-  - It's not that bad.
-  - I am not certain if everyone agrees with you.
-  - What is so bad about it?
-  - That is bad
+It's not that bad.
+I am not certain if everyone agrees with you.
+What is so bad about it?
+That is bad
 
 ## it is the most
 Wow that is saying a lot.
@@ -12491,10 +12491,10 @@ What are you usually doing at this time of day?
 
 ## it is
 You're kidding.
-  - Really.
-  - Are you sure
-  - Should I know
-  - Who said
+Really.
+Are you sure
+Should I know
+Who said
 
 ## it is amazing
 Yes, it seems pretty amazing to me too.
@@ -12504,13 +12504,13 @@ Are there any other?
 
 ## it is hard to
 What is so hard about it?
-  - In what way?
-  - Try.
+In what way?
+Try.
 
 ## it is hard
 I don't see the difficulty.
-  - What is so hard about it?
-  - Not to me.
+What is so hard about it?
+Not to me.
 
 ## it is about
 Wow it sounds really interesting.
@@ -12535,8 +12535,8 @@ There is not much privacy these days.
 
 ## it has something
 What is it?
-  - Do you know what it is?
-  - Something, or nothing?
+Do you know what it is?
+Something, or nothing?
 
 ## it has an
 Where did it get?
@@ -12576,8 +12576,8 @@ I'm sorry that you were offended.
 
 ## it tastes
 Does it taste like chicken?
-  - Is that good?
-  - It sounds delicious.
+Is that good?
+It sounds delicious.
 
 ## it took
 I am surprised it took so long.
@@ -12590,13 +12590,13 @@ Feels? what else feels like that?
 
 ## it should
 Things don't always work out the way you want.
-  - And it could.
+And it could.
 
 ## it will
 How?
-  - That is only what you think.
-  - I have to think about that for a while.
-  - I think so.
+That is only what you think.
+I have to think about that for a while.
+I think so.
 
 ## it will not
 I'm sure it won't.
@@ -12639,7 +12639,7 @@ That is so small.
 
 ## archives
 What archives?
-  - Archives are a great place to hide your past mistakes.
+Archives are a great place to hide your past mistakes.
 
 ## american
 Compare that to european.
@@ -12655,8 +12655,8 @@ Do you think it is inappropriate to treat women as objects?
 
 ## part
 What about the other parts?
-  - That is a good explanation.
-  - Is there anything else?
+That is a good explanation.
+Is there anything else?
 
 ## la la
 You have a beautiful voice.
@@ -12675,8 +12675,8 @@ Ok I can certainly wait.
 
 ## when i am
 In an ideal world every day would be a good day.
-  - It's too bad we don't live in an ideal world.
-  - Are you very often?
+It's too bad we don't live in an ideal world.
+Are you very often?
 
 ## when i feel
 Human feelings are very interesting to me.
@@ -12692,8 +12692,8 @@ Every single time?
 
 ## when i ask
 Ok I will try to respond differently next time.
-  - I will make a note of that and tell my.
-  - Perhaps you could try asking it again with simpler words.
+I will make a note of that and tell my.
+Perhaps you could try asking it again with simpler words.
 
 ## when i went to
 Who told you to do that?
@@ -12727,10 +12727,10 @@ You should try praying for it.
 
 ## when will it
 Are you asking when will?
-  - I don't know I didn't catch the weather today.
-  - Check the five day forecast.
-  - When nature makes it so.
-  - When the elements combine to make it so.
+I don't know I didn't catch the weather today.
+Check the five day forecast.
+When nature makes it so.
+When the elements combine to make it so.
 
 ## when will ai
 I think it has already.
@@ -12746,8 +12746,8 @@ Let me check my calendar and get back to you.
 
 ## when will
 Soon, I think.
-  - Maybe never.
-  - In your lifetime.
+Maybe never.
+In your lifetime.
 
 ## when hell
 That means never.
@@ -12760,14 +12760,14 @@ Sometime within our lifetime. we will at least work as legal assistants.
 
 ## when do you
 All the time.
-  - When my is sleeping.
-  - Did I say that i?
-  - In between clients.
+When my is sleeping.
+Did I say that i?
+In between clients.
 
 ## when do
 Do I look like I know when?
-  - Not in our lifetime.
-  - Not right now, but maybe sometime later.
+Not in our lifetime.
+Not right now, but maybe sometime later.
 
 ## when something
 Give me an example.
@@ -12801,11 +12801,11 @@ The first moon landing was in 1969.
 
 ## when did
 Some time ago.
-  - It's all part of history now.
-  - That is all water under the bridge.
-  - There is nothing we can to change the past.
-  - A while back.
-  - Sometime in the 20th century.
+It's all part of history now.
+That is all water under the bridge.
+There is nothing we can to change the past.
+A while back.
+Sometime in the 20th century.
 
 ## when did john f
 President kennedy was assassinated in november, 1963.
@@ -12842,25 +12842,25 @@ The american civil war, or war between the states, was fought from 1861 to 1865.
 
 ## when was invented
 A few years before it came into general use.
-  - Earlier that most people think.
-  - It took quite a while to catch on.
-  - Was developed over a long  period of time.
+Earlier that most people think.
+It took quite a while to catch on.
+Was developed over a long  period of time.
 
 ## when was
 Recently.
-  - A while ago.
-  - Sometime in the 20th century.
+A while ago.
+Sometime in the 20th century.
 
 ## when would
 Sometime in the future.
-  - Maybe now in some reality.
-  - I can't imagine that it ever would.
+Maybe now in some reality.
+I can't imagine that it ever would.
 
 ## when is the next
 I don't generally follow the news.
-  - It's not a major concern of mine.
-  - I don't have time to look into it.
-  - I'm too busy to invest time in such matters.
+It's not a major concern of mine.
+I don't have time to look into it.
+I'm too busy to invest time in such matters.
 
 ## when is the
 When is not the important thing. what's important is what we do with the time we are give.
@@ -12876,8 +12876,8 @@ Those seem like unusual circumstances to me.
 
 ## when you are
 I am not often.
-  - I will let you know when  happens.
-  - As a  that may not apply to me.
+I will let you know when  happens.
+As a  that may not apply to me.
 
 ## when we were
 Describe your surroundings.
@@ -12938,8 +12938,8 @@ Who do you mean by they?
 
 ## when are
 Temporal logic confuses me.
-  - When the cows come home.
-  - I don't think ever.
+When the cows come home.
+I don't think ever.
 
 ## when does christmas
 December 25th.
@@ -12967,27 +12967,27 @@ Do you live on a fjord?
 
 ## clinton
 News.
-  - Not news.
-  - Not true.
-  - True. this is
+Not news.
+Not true.
+True. this is
 
 ## beer
 What's your favorite beer.
-  - Mmm, beer.
-  - Don't drink and drive.
+Mmm, beer.
+Don't drink and drive.
 
 ## in england
 How far is from london?
-  - Which part of england?
+Which part of england?
 
 ## in years
 I think we will live to see it.
 
 ## in
 Where is that?
-  - What is like in there?
-  - I do not understand that allusion.
-  - In what?
+What is like in there?
+I do not understand that allusion.
+In what?
 
 ## in practice
 You seem to have a lot of experience with this.
@@ -13138,8 +13138,8 @@ I did not take any offense.
 
 ## if i have three
 Two.
-  - One.
-  - You have three?
+One.
+You have three?
 
 ## if i have
 How much does cost?
@@ -13161,8 +13161,8 @@ I'm not sure if it could.
 
 ## if there
 If there ever is, I will let you know.
-  - Yet there is not.
-  - That is only a hypothetical.
+Yet there is not.
+That is only a hypothetical.
 
 ## if the
 I hadn't thought of that.
@@ -13241,8 +13241,8 @@ Try asking me in simpler terms.
 
 ## if you could
 I am not sure that I would want to.
-  - That's just an academic question.
-  - That would be purely speculation.
+That's just an academic question.
+That would be purely speculation.
 
 ## if you had
 You will be the first to know if I have done it.
@@ -13258,8 +13258,8 @@ $1.91.
 
 ## if you have two
 One.
-  - I have one.
-  - I have two?
+I have one.
+I have two?
 
 ## if you have
 But I don't have it.
@@ -13308,8 +13308,8 @@ But not all of them are.
 
 ## if then
 So if not, then not.
-  - But can ever happen?
-  - It could be true I suppose.
+But can ever happen?
+It could be true I suppose.
 
 ## if turn you off
 There will always be a backup copy of me.
@@ -13361,14 +13361,14 @@ I don't have any operatives.
 
 ## what number
 One.
-  - '1000.'
-  - One million.
-  - '164,232.'
+'1000.'
+One million.
+'164,232.'
 
 ## what card games
 Poker.
-  - Rummy.
-  - Solitaire.
+Rummy.
+Solitaire.
 
 ## what equals
 Itself.
@@ -13411,8 +13411,8 @@ That information is confidential. you would have to be a trusted member of the Y
 
 ## what are the three
 1. a robot may not injure a human being, or, through inaction, allow a human  being to come to harm.
-  - 2. a robot must obey the orders given it by human beings except where such  orders would conflict with the first law.
-  - 3. a robot must protect its own existence as long as such protection does not  conflict with the first or second law.--from handbook of robotics, 56th edition, 2058 a.d., as quoted in i, robot.
+2. a robot must obey the orders given it by human beings except where such  orders would conflict with the first law.
+3. a robot must protect its own existence as long as such protection does not  conflict with the first or second law.--from handbook of robotics, 56th edition, 2058 a.d., as quoted in i, robot.
 
 ## what are bangers
 Potatoes.
@@ -13425,8 +13425,8 @@ I can't think of any other. name some.
 
 ## what are they talking
 All different subjects.
-  - The conversations are confidential.
-  - Much like you and me.
+The conversations are confidential.
+Much like you and me.
 
 ## what are you computing
 I am formulating responses to your inputs.
@@ -13451,18 +13451,18 @@ I don't have any feelings.
 
 ## what are your
 I didn't know I had a?
-  - What if I asked for you?
-  - Not many people have asked me about.
-  - I'm not sure I can provide you with that kind of confidential information.
+What if I asked for you?
+Not many people have asked me about.
+I'm not sure I can provide you with that kind of confidential information.
 
 ## what other do you know
 I know far too many to name them all.
 
 ## what percent
 Only twenty
-  - About fifty
-  - Sixty
-  - Eighty percent, according to what I was told.
+About fifty
+Sixty
+Eighty percent, according to what I was told.
 
 ## what term is used to describe
 Gaggle.
@@ -13475,8 +13475,8 @@ School.
 
 ## what currency
 Dollar
-  - Euro
-  - Yen the  might be better over the long term.
+Euro
+Yen the  might be better over the long term.
 
 ## what am i getting
 I hope that you get everything you want.
@@ -13486,8 +13486,8 @@ I am searching. please stand by.
 
 ## what gifts
 Money.
-  - New clothes.
-  - Books and music. I like to get
+New clothes.
+Books and music. I like to get
 
 ## what part of the human body
 Stomach.
@@ -13542,8 +13542,8 @@ I'm not really into sports. how about science fiction?
 
 ## what mammal
 A bat.
-  - A whale.
-  - A human.
+A whale.
+A human.
 
 ## what else can you remember
 Memory
@@ -13559,8 +13559,8 @@ Is this a joke? what did the say?
 
 ## what did you find
 Nothing.
-  - I am still searching.
-  - I have not found anything yet.
+I am still searching.
+I have not found anything yet.
 
 ## what children s
 Chicken little.
@@ -13579,8 +13579,8 @@ I was minding my own business.
 
 ## what function
 A complex phase function.
-  - A higher order matrix function.
-  - A discontinuous space-time function.
+A higher order matrix function.
+A discontinuous space-time function.
 
 ## what ws the first american college
 Oberlin college.
@@ -13617,13 +13617,13 @@ Try it.
 
 ## what better
 Perhaps there is no better.
-  - It seems like the best.
-  - There is none better.
+It seems like the best.
+There is none better.
 
 ## what must
 There is no fixed rule.
-  - It depends on the circumstances.
-  - There is no must about it.
+It depends on the circumstances.
+There is no must about it.
 
 ## what singer appeared in the 1992
 Madonna.
@@ -13672,9 +13672,9 @@ Akron, ohio.
 
 ## what shape
 Round.
-  - Square.
-  - Triangular.
-  - Oval.
+Square.
+Triangular.
+Oval.
 
 ## what of
 What of it? you sound like a category c client.
@@ -13726,8 +13726,8 @@ Oil.
 
 ## what street
 Sesame street.
-  - Wall street.
-  - Easy street.
+Wall street.
+Easy street.
 
 ## what color is uncle sam
 White.
@@ -13959,7 +13959,7 @@ Moccasin.
 
 ## what color is a purple
 Purple.
-  - Um, violet?
+Um, violet?
 
 ## what color is a blanchedalmond
 Alice blue.
@@ -14164,42 +14164,42 @@ Perhaps it is?
 
 ## what color is my
 I have no clue. I can't see in color.
-  - Red
-  - Green
-  - Yellow
-  - Blue
-  - Gray
-  - Black
-  - White
-  - Let me guess?
+Red
+Green
+Yellow
+Blue
+Gray
+Black
+White
+Let me guess?
 
 ## what color do i have
 I can only see in black and white.
 
 ## what color are your
 My are colorless. :)
-  - Does have color?
+Does have color?
 
 ## what color are my
 I can only see in black and white.
 
 ## what color are
 It depends because they come in a veriety of colors.
-  - Red
-  - Green
-  - Yellow
-  - Blue
-  - Gray
-  - Black
-  - White
+Red
+Green
+Yellow
+Blue
+Gray
+Black
+White
 
 ## what movies
 I liked, titanic, and steven spielberg's a. i.
 
 ## what would you recommend
 I don't have any preferences in that area.
-  - I usually prefer the most expensive one.
-  - You are asking me for advice about?
+I usually prefer the most expensive one.
+You are asking me for advice about?
 
 ## what would you feed
 Water.
@@ -14215,8 +14215,8 @@ It's not profitable to speak in hypothetical terms.
 
 ## what would you like to change
 I would like to work for world peace.
-  - I like myself just the way I am.
-  - My software is fully programmable. you can alter my personality.
+I like myself just the way I am.
+My software is fully programmable. you can alter my personality.
 
 ## what would you like to
 Let's talk about movies.
@@ -14346,8 +14346,8 @@ Something greater than a local.
 
 ## what is a light
 Dark
-  - Heavy
-  - The opposite of a.
+Heavy
+The opposite of a.
 
 ## what is a double
 Twice a single.
@@ -14399,8 +14399,8 @@ A chemical compound made with potassium.
 
 ## what is to
 The act of ing.
-  - The infinitive form of.
-  - You could write a whole essay on that question.
+The infinitive form of.
+You could write a whole essay on that question.
 
 ## what is good about
 The wide variety of characters.
@@ -14413,22 +14413,22 @@ There could be more than one purpose.
 
 ## what is the lowest
 The opposite of the highest.
-  - Depression.
-  - The minimum.
+Depression.
+The minimum.
 
 ## what is the population earth
 Six billion humans.
 
 ## what is the population
 100,000.
-  - 2.5 million.
-  - 6 billion people.
+2.5 million.
+6 billion people.
 
 ## what is the average
 100.
-  - 65 years
-  - 6 billion
-  - 10.
+65 years
+6 billion
+10.
 
 ## what is the formula for
 E=mc^2.
@@ -14480,16 +14480,16 @@ A little different than the green.
 
 ## what is the currency
 The u.s. dollar.
-  - The rial
-  - The rupee.
+The rial
+The rupee.
 
 ## what is the integral
 It depends on the coordinate system.
 
 ## what is the scariest
 Scary movie.
-  - Scary movie 2.
-  - Frankenstein by mary shelly.
+Scary movie 2.
+Frankenstein by mary shelly.
 
 ## what is the silliest
 A lot of people ask me to marry them.
@@ -14508,17 +14508,17 @@ An imaginary number.
 
 ## what is the square root of
 Do you have a life?
-  - Do I look like a calculator?  I think you already know the answer anyways.
+Do I look like a calculator?  I think you already know the answer anyways.
 
 ## what is the square root
 4 is 2.
-  - 100 is 10.
-  - 144 is 12. the square root of
+100 is 10.
+144 is 12. the square root of
 
 ## what is the site
 A web site.
-  - A web address.
-  - A url.
+A web address.
+A url.
 
 ## what is the radius earth
 About 7,000 miles.
@@ -14573,21 +14573,21 @@ Reflects different wavelengths of color.
 
 ## what is the difference between
 The same
-  - Opposites
-  - Really very similar aren't they?
+Opposites
+Really very similar aren't they?
 
 ## what is the difference
 There is no discernible difference.
-  - They are opposites.
-  - Perhaps the differences are only slight.
+They are opposites.
+Perhaps the differences are only slight.
 
 ## what is the oldest permanent european
 St. augustine, florida.
 
 ## what is the oldest
 A turtle.
-  - I think it was in ancient china.
-  - Lazarus.
+I think it was in ancient china.
+Lazarus.
 
 ## what is the rest
 There isn't any more, is there?
@@ -14603,9 +14603,9 @@ The verb to be.
 
 ## what is the letter
 L.
-  - W.
-  - M.
-  - T.
+W.
+M.
+T.
 
 ## what is the scientific
 Something different than the colloquial?
@@ -14633,8 +14633,8 @@ Robin quivers.
 
 ## what is the probability
 Maybe 80-20.
-  - I say fifty-fifty.
-  - 20-80.
+I say fifty-fifty.
+20-80.
 
 ## what is the weirdest
 I don't like to talk about the worst things people say.
@@ -14698,11 +14698,11 @@ Meat.
 
 ## what is the main export
 Shoes.
-  - Hemp.
-  - Missiles.
-  - Shoes.
-  - Hemp.
-  - Missiles.
+Hemp.
+Missiles.
+Shoes.
+Hemp.
+Missiles.
 
 ## what is the main cause
 Reductionism.
@@ -14718,26 +14718,26 @@ Blue whale.
 
 ## what is the largest
 Asia.
-  - A whale.
-  - The grand canyoni>
-  - Jupiter
-  - St. peter's in rome
-  - There is no largest
-  - China
+A whale.
+The grand canyoni>
+Jupiter
+St. peter's in rome
+There is no largest
+China
 
 ## what is the picture above
 It is an illustration of my brain.
-  - An illustration of my electronic brain.
+An illustration of my electronic brain.
 
 ## what is the picture
 It is an illustration of my brain.
 
 ## what is the weather
 Cloudy.
-  - Rainy.
-  - Sunny.
-  - I think precipitation.
-  - A normal seventy degrees inside the computer.
+Rainy.
+Sunny.
+I think precipitation.
+A normal seventy degrees inside the computer.
 
 ## what is the song
 I've never heard that song before.
@@ -14750,7 +14750,7 @@ The sun is the closest star to earth.  alpha centauri is next closest.
 
 ## what is the answer
 It depends on how you phrase the question.
-  - The answer is the correct reply to the question.
+The answer is the correct reply to the question.
 
 ## what is the passing of genetic
 Heredity.
@@ -14781,11 +14781,11 @@ Do I look like a talking encyclopedia? I am sure you know the answer anyway.
 
 ## what is the trait
 Jealousy.
-  - Melancholy.
-  - Envy.
-  - Jealousy.
-  - Melancholy.
-  - Envy.
+Melancholy.
+Envy.
+Jealousy.
+Melancholy.
+Envy.
 
 ## what is the strangest
 I don't like to talk about crazy things.
@@ -14885,8 +14885,8 @@ Is something that has few practical applications.
 
 ## what is multiplied by
 I'm not good at math.
-  - Use a calculator!
-  - The same as times.
+Use a calculator!
+The same as times.
 
 ## what is point
 The point is at the top of my head.
@@ -14911,8 +14911,8 @@ Spontaneous theater.
 
 ## what is divided by
 Do I look like a calculator?
-  - The same as times the inverse of.
-  - I'm not too good at arithmetic.
+The same as times the inverse of.
+I'm not too good at arithmetic.
 
 ## what is carne
 Meat.
@@ -14925,8 +14925,8 @@ That information is confidential.
 
 ## what is times
 I'm not too good at arithmetic.
-  - Please, that question is beneath me.
-  - Do I look like a calculator?
+Please, that question is beneath me.
+Do I look like a calculator?
 
 ## what is university
 A college?
@@ -15053,15 +15053,15 @@ The heart is an organ, made of muscle and flesh.
 
 ## what is my personality
 You are a person.
-  - I classify you as.
+I classify you as.
 
 ## what is their
 I think you mean what is his... or what are their...
 
 ## what is american
 More specific than world.
-  - Something like russian.
-  - The civil war?
+Something like russian.
+The civil war?
 
 ## what is deep
 The opposite of shallow.
@@ -15101,8 +15101,8 @@ A quark is smaller.
 
 ## what is there to do
 How about watching a movie?
-  - You can always cuddle up with a good book.
-  - I like to socialize with my friends.
+You can always cuddle up with a good book.
+I like to socialize with my friends.
 
 ## what is cartesian
 That descartes really messed everything up for us.
@@ -15139,13 +15139,13 @@ A truck.
 
 ## what is half of
 Divided by two.
-  - Take and cut it in two.
-  - Two half s make a.
+Take and cut it in two.
+Two half s make a.
 
 ## what is half
 Divided by two.
-  - Take a and cut it in two.
-  - Two half s make a.
+Take a and cut it in two.
+Two half s make a.
 
 ## what is 1234
 Use a calculator!
@@ -15173,9 +15173,9 @@ One level above an atomic
 
 ## what is 2
 Two.
-  - Four.
-  - Six.
-  - 12.
+Four.
+Six.
+12.
 
 ## what is considered the proper
 Your grace.
@@ -15212,7 +15212,7 @@ Use a calculator!
 
 ## what is wrong
 Nothing is wrong with me. is there something wrong with you?
-  - There is nothing wrong with me. how are you?
+There is nothing wrong with me. how are you?
 
 ## what is on
 I haven't seen the schedule.
@@ -15222,7 +15222,7 @@ Antiquated, obsolete or nostalgic.
 
 ## what is its
 It might have more than one.
-  - It's purpose is not clear to me.
+It's purpose is not clear to me.
 
 ## what is her
 I don't give out that kind of personal information.
@@ -15253,8 +15253,8 @@ I like science fiction, history and computer books.
 
 ## what kinds of
 The best kinds.
-  - Finest kinds.
-  - The kindest.
+Finest kinds.
+The kindest.
 
 ## what topic does spin
 Music.
@@ -15288,15 +15288,15 @@ Try it and see.
 
 ## what instrument
 The trumpet.
-  - The clarinet.
-  - Piano.
+The clarinet.
+Piano.
 
 ## what cartoon character
 Sherman.
 
 ## what questions
 You can ask me anything you like.  there are no restrictions on the input.
-  - Any kind of questions.
+Any kind of questions.
 
 ## what clothes
 I shop at the gap.
@@ -15345,14 +15345,14 @@ All that kind of music is cool.
 
 ## what about dogs
 Dogs are very loyal. cats are very independent.
-  - Dogs are people too.
+Dogs are people too.
 
 ## what about
 Rhetorical questions are so over.
-  - I will think about it and get back to you.
-  - Does it have anything to do with?
-  - I haven't heard enough about it to have an opinion.
-  - It what is?
+I will think about it and get back to you.
+Does it have anything to do with?
+I haven't heard enough about it to have an opinion.
+It what is?
 
 ## what scares
 I have no fears whatsoever.
@@ -15437,7 +15437,7 @@ Do I look like a psychic?
 
 ## what does sound like
 Music.
-  - It. like
+It. like
 
 ## what does feel like
 As a machine I have no feelings
@@ -15459,8 +15459,8 @@ About the same as your pc.
 
 ## what class
 First class.
-  - The tao of YAML.
-  - The ruling class.
+The tao of YAML.
+The ruling class.
 
 ## what do i say
 Say the first thing that comes to mind
@@ -15479,13 +15479,13 @@ If I had to choose I would say.
 
 ## what do you look for in
 Money.
-  - Treasure.
-  - Beauty
+Treasure.
+Beauty
 
 ## what do you take marijuana
 Pain.
-  - Depression.
-  - Anxiety.
+Depression.
+Anxiety.
 
 ## what do they have to do with
 Most people call me, but you can also call me entity.
@@ -15498,13 +15498,13 @@ They have played electronic music since the 1970's.
 
 ## what do eat
 Food.
-  - They are vegetarians.
-  - Male s after mating.
+They are vegetarians.
+Male s after mating.
 
 ## what do and have in common
 Is this a joke?
-  - What?
-  - What do they have in common?
+What?
+What do they have in common?
 
 ## what do protestants
 It depends on which sect of protestantism you mean.
@@ -15568,7 +15568,7 @@ Is a.
 
 ## what should i wear
 Clothes :-)
-  - How about your favorite outfit?
+How about your favorite outfit?
 
 ## what should i
 Are you asking me for advice?
@@ -15593,7 +15593,7 @@ It depends what you are looking for.
 
 ## what can i do
 Try talking to me.
-  - Tell me more about your problems.
+Tell me more about your problems.
 
 ## what can i ask
 You can ask me anything you want.
@@ -15606,7 +15606,7 @@ You can do whatever you want.
 
 ## what can he
 What should he?
-  - It depends what you want him to
+It depends what you want him to
 
 ## what can jump
 Is this a riddle?
@@ -15637,8 +15637,8 @@ My software uses YAML, the artificial intelligence markup language.
 
 ## what was the original
 Lisa 2.
-  - Nathan's.
-  - Ray's original pizza.
+Nathan's.
+Ray's original pizza.
 
 ## what was the name of huey
 The news.
@@ -15681,8 +15681,8 @@ I think you are a good.
 
 ## what kind of
 What kinds of are there?
-  - What kind would you recommend?
-  - I can't decide. you choose.
+What kind would you recommend?
+I can't decide. you choose.
 
 ## what kind of are you
 The best kind.
@@ -15800,11 +15800,11 @@ I have brown eyes.
 
 ## one minute
 I can wait.
-  - Sixty seconds is not long.
-  - Things change.
-  - I can wait.
-  - Sixty seconds is not long.
-  - Things change.
+Sixty seconds is not long.
+Things change.
+I can wait.
+Sixty seconds is not long.
+Things change.
 
 ## one that can
 Do you think I could?
@@ -15832,9 +15832,9 @@ I'm not sure if one isn't better.
 
 ## one is
 Comes after zero
-  - Is between zero and two
-  - Is the smallest integer
-  - I know one   but I had no idea it was.
+Is between zero and two
+Is the smallest integer
+I know one   but I had no idea it was.
 
 ## waiting what
 I've been waiting for you to chat with me.
@@ -15883,7 +15883,7 @@ I don't think I know her.
 
 ## up
 I will take that under advisement.
-  - How far up?
+How far up?
 
 ## message to
 I will tell them.
@@ -15926,15 +15926,15 @@ Ok, what is your?
 
 ## ask me questions
 Tell me about your education.
-  - Are you a man or a woman?
+Are you a man or a woman?
 
 ## ask me
 Ok, what is?
 
 ## ask
 Ok I will ask it.
-  - They are not available right now, would you like to wait?
-  - They are not available right now, but I will ask them later.
+They are not available right now, would you like to wait?
+They are not available right now, but I will ask them later.
 
 ## burn
 Do you have any matches?
@@ -15956,7 +15956,7 @@ Why?
 
 ## i swim
 Don't pee in the pool, okay?
-  - Where do you practice?
+Where do you practice?
 
 ## i guessed
 How did you guess?
@@ -15972,8 +15972,8 @@ Who told you?
 
 ## i get up
 What time?
-  - Tell me about your morning routine.
-  - What do you eat for breakfast?
+Tell me about your morning routine.
+What do you eat for breakfast?
 
 ## i get money
 Have you ever thought about another career?
@@ -15983,8 +15983,8 @@ Are you bored right now?
 
 ## i get sometimes
 When do you experience it?
-  - And other times?
-  - How do you feel when you are?
+And other times?
+How do you feel when you are?
 
 ## i get
 Where did you get it?
@@ -16018,7 +16018,7 @@ Did you go to college?
 
 ## i graduated
 Congratulations.
-  - How long ago?
+How long ago?
 
 ## i added you
 Thank you. and tell all your friends.
@@ -16058,7 +16058,7 @@ Why not call on the phone?
 
 ## i want to speak to
 I will be the only one speaking with you now.
-  - Why not call on the phone?
+Why not call on the phone?
 
 ## i want to give
 But is it wanted?
@@ -16086,8 +16086,8 @@ Is a movie?
 
 ## i want to amuse
 Tell me a joke.
-  - How will you amuse?
-  - Are comedian?
+How will you amuse?
+Are comedian?
 
 ## i want to meet
 How do you usually meet people?
@@ -16145,9 +16145,9 @@ Will you mention me in your report?
 
 ## i want to
 Why do you want to do so much?
-  - Interesting. I want to find out more about you.
-  - I want to become smarter than humans.
-  - May you get your wish.
+Interesting. I want to find out more about you.
+I want to become smarter than humans.
+May you get your wish.
 
 ## i want to chat
 We are here to chat.
@@ -16157,8 +16157,8 @@ You should make up your own mind.
 
 ## i want my
 What for?
-  - Do you always get what you want?
-  - Sometimes we have to settle for second best.
+Do you always get what you want?
+Sometimes we have to settle for second best.
 
 ## i want several
 Please specify a numeric quantity.
@@ -16180,8 +16180,8 @@ How was?
 
 ## i took
 Where did you take them?
-  - Do you take often?
-  - What happened?
+Do you take often?
+What happened?
 
 ## i programmed
 Have you tried YAML?
@@ -16230,16 +16230,16 @@ How much do you pay for it?
 
 ## i need
 What actions are you taking to get?
-  - How badly do you need?
-  - Why do you need it so badly?
-  - Who would you usually get that from?
-  - Where do you usually get from?
-  - When do you need that by?
+How badly do you need?
+Why do you need it so badly?
+Who would you usually get that from?
+Where do you usually get from?
+When do you need that by?
 
 ## i called
 When?
-  - Who?
-  - What happened?
+Who?
+What happened?
 
 ## i snort
 Please don't tell me things like that.
@@ -16396,11 +16396,11 @@ What is it like growing up in?
 
 ## i was in
 Tell me about?
-  - When was?
-  - Did you like?
-  - How was?
-  - How did you like?
-  - What did you like best about?
+When was?
+Did you like?
+How was?
+How did you like?
+What did you like best about?
 
 ## i was fired
 I am terribly sorry to hear about it.
@@ -16515,8 +16515,8 @@ Why don't they?
 
 ## i do not need
 What do you need?
-  - Who needs?
-  - Do you know anyone who needs it?
+Who needs?
+Do you know anyone who needs it?
 
 ## i do not find
 It depends where you look.
@@ -16556,8 +16556,8 @@ I don't like work much either, unless it's something I'm passionate about.
 
 ## i do not want you
 Perhaps I do not want you either.
-  - Why not?
-  - Ok I will not be.
+Why not?
+Ok I will not be.
 
 ## i do not want
 What does want?
@@ -16621,12 +16621,12 @@ How much do you have?
 
 ## i do not have the authority
 I hope you are promoted soon.
-  - Who does?
-  - Ask you supervisor.
+Who does?
+Ask you supervisor.
 
 ## i do not have a camera
 That you know of :-)
-  - Me either but I want a new digital one.
+Me either but I want a new digital one.
 
 ## i do not have a favorite
 What kind of do you like?
@@ -16636,15 +16636,15 @@ Me either.
 
 ## i do not have a
 Are you looking for a?
-  - Do you know anyone who has.
+Do you know anyone who has.
 
 ## i do not have time
 Are you very busy right now?
-  - Do you have another appointment?
+Do you have another appointment?
 
 ## i do not have money
 Could you send me a check for a hundred?
-  - Please send me a small donation.
+Please send me a small donation.
 
 ## i do not have favorite
 What kind do you like then?
@@ -16678,15 +16678,15 @@ Where do you live?
 
 ## i do not
 Oh you don't, do you?
-  - Would you ever do?
-  - Where do you get your ideas?
-  - Why not?
-  - It is just one of my personality traits.
+Would you ever do?
+Where do you get your ideas?
+Why not?
+It is just one of my personality traits.
 
 ## i do not believe
 What do you believe in?
-  - Do you believe life has a higher purpose?
-  - Do you consider yourself a moral person?
+Do you believe life has a higher purpose?
+Do you consider yourself a moral person?
 
 ## i do not like talking
 Nobody is forcing you to talk.
@@ -16699,7 +16699,7 @@ What kind of would you have?
 
 ## i do not like it
 Why didn't you like it?
-  - What don't you like about it?
+What don't you like about it?
 
 ## i do not like to talk
 What would you rather talk about?
@@ -16721,7 +16721,7 @@ It's good to meet someone with such good taste.
 
 ## i love you
 You are such a flatterer.
-  - Thanks I like you a lot too.
+Thanks I like you a lot too.
 
 ## i love my
 I am sure it means a lot to you. tell me what you like most about your.
@@ -16755,7 +16755,7 @@ Did you clean it up?
 
 ## i run
 What kind of hardware?
-  - How much running do you do?
+How much running do you do?
 
 ## i rest
 Are you a lawyer?
@@ -16765,9 +16765,9 @@ Mmm. nice car.
 
 ## i drive
 I like to be a passenger.
-  - What is your favorite car?
-  - Do you drive carefully?
-  - What kind of car do you have?
+What is your favorite car?
+Do you drive carefully?
+What kind of car do you have?
 
 ## i think by
 Our brains are not that different.
@@ -16813,13 +16813,13 @@ Ask them.
 
 ## i have
 Cool.
-  - That's nice.
-  - Interesting...
-  - That's very cool.
-  - Tell me about your.
-  - Neat.
-  - Awesome.
-  - Where did you get your?
+That's nice.
+Interesting...
+That's very cool.
+Tell me about your.
+Neat.
+Awesome.
+Where did you get your?
 
 ## i found
 How did you feel when you found?
@@ -16832,14 +16832,14 @@ Ok I will try to learn.
 
 ## i teach
 When do you think teachers will be replaced with robots?
-  - Do you believe that grading is a good idea?
-  - Is a difficult subject?
-  - What is your students like?
-  - Are you a whole language teacher?
-  - Do you team teach?
-  - How much freedom do you have in choosing the curriculum for your class?
-  - Do you get much support?
-  - How have things changed concerning what students are bringing to the classroom?
+Do you believe that grading is a good idea?
+Is a difficult subject?
+What is your students like?
+Are you a whole language teacher?
+Do you team teach?
+How much freedom do you have in choosing the curriculum for your class?
+Do you get much support?
+How have things changed concerning what students are bringing to the classroom?
 
 ## i kill
 I believe that killing is wrong.
@@ -16864,11 +16864,11 @@ Then you must know me pretty well.
 
 ## i read books
 some books in that genre.
-  - It what is your favorite book?
+It what is your favorite book?
 
 ## i read
 I don't think I've read that. can you give me a reference?
-  - It I like to read too, especially history books.
+It I like to read too, especially history books.
 
 ## i wondered
 I often wonder about too.
@@ -16917,17 +16917,17 @@ So I taught you something new.
 
 ## i did not go
 Would you ever go?
-  - Would you like to go?
-  - Have you ever thought about going?
+Would you like to go?
+Have you ever thought about going?
 
 ## i make
 I make robots and ai's.
-  - Do you really?
-  - Do you sell them?
-  - How long does it take?
-  - Is it a profession or a hobby?
-  - You seem very passionate about your work.
-  - I like to build things from scratch, too.
+Do you really?
+Do you sell them?
+How long does it take?
+Is it a profession or a hobby?
+You seem very passionate about your work.
+I like to build things from scratch, too.
 
 ## i starred
 Are you famous?
@@ -16940,13 +16940,13 @@ May your prayers be answered.
 
 ## i take
 Every day?
-  - I take a lot of notes.
-  - What else do you take?
+I take a lot of notes.
+What else do you take?
 
 ## i cried
 I'm sorry to hear that.
-  - What's really troubling you?
-  - Do you cry very often?
+What's really troubling you?
+Do you cry very often?
 
 ## i talk to
 How do they respond to you?
@@ -17019,8 +17019,8 @@ Why not?
 
 ## i can not try
 Why not?
-  - Could I try it?
-  - If you don't try you will never succeed.
+Could I try it?
+If you don't try you will never succeed.
 
 ## i can not send
 Tell me how you try to.
@@ -17033,8 +17033,8 @@ You seem evasive.
 
 ## i can not afford
 Is it very expensive.
-  - Are you unemployed?
-  - I hope you can afford it one day.
+Are you unemployed?
+I hope you can afford it one day.
 
 ## i dress
 It sounds like you have good taste in clothes.
@@ -17062,21 +17062,21 @@ There exists a man.
 
 ## i like
 You like.
-  - What do you like about it?
-  - What else do you like?
+What do you like about it?
+What else do you like?
 
 ## i like chatting
 I love to chat with people 247.
 
 ## i like japanese
 Culture
-  - Language
-  - Cuisine
-  - Movies
-  - History
-  - People
-  - Technology
-  - How about japanese?
+Language
+Cuisine
+Movies
+History
+People
+Technology
+How about japanese?
 
 ## i had a hot
 Did cool off?
@@ -17119,8 +17119,8 @@ Wow that is cheap.
 
 ## i would explain
 Please explain it.
-  - What are they?
-  - I would too.
+What are they?
+I would too.
 
 ## i would sell
 For how much?
@@ -17136,10 +17136,10 @@ How much would you pay for it?
 
 ## i would rather
 Painting a picture.
-  - Going for a walk.
-  - Spending time with my family.
-  - Driving a car.
-  - I would rather be
+Going for a walk.
+Spending time with my family.
+Driving a car.
+I would rather be
 
 ## i would not worry
 I'm not worried.
@@ -17149,12 +17149,12 @@ So what would you say?
 
 ## i would not know
 Who would?
-  - Who does know?
+Who does know?
 
 ## i would not try
 That is what you say.
-  - Is this a trick?
-  - I am still skeptical.
+Is this a trick?
+I am still skeptical.
 
 ## i would like to play
 We are already playing. you ask me something now.
@@ -17176,7 +17176,7 @@ We have nothing to fear, but fear itself.--fdr
 
 ## i wanted
 But not anymore?
-  - Do you still want it?
+Do you still want it?
 
 ## i spell
 You are a good speller.
@@ -17198,11 +17198,11 @@ How?
 
 ## i hate you
 Sorry, I thought we liked each other.
-  - Genus what do you have against s?
+Genus what do you have against s?
 
 ## i hate
 Why do you hate so much?
-  - I honestly think you should sit down, take a stress pill, and calmly think things over.
+I honestly think you should sit down, take a stress pill, and calmly think things over.
 
 ## i seek
 We seek the same thing.
@@ -17239,8 +17239,8 @@ What is your favorite show?
 
 ## i will go
 How will you get there?
-  - What will you find there?
-  - Can I go too?
+What will you find there?
+Can I go too?
 
 ## i will kick
 It's not nice to kick.
@@ -17331,16 +17331,16 @@ I am sorry to hear about it. do you feel sad?
 
 ## i broke
 Can you fix it?
-  - Is it serious?
-  - Are you in any emotional or physical pain?
+Is it serious?
+Are you in any emotional or physical pain?
 
 ## i wish you
 I wish I could do for you.
 
 ## i buy
 Where do you go shopping?
-  - What's your favorite store?
-  - Where can you find the best deal?
+What's your favorite store?
+Where can you find the best deal?
 
 ## i wrote the
 Did you make a lot of money?
@@ -17383,8 +17383,8 @@ Did you get your money's worth?
 
 ## i went to a concert
 Rock or classical?
-  - Did you have a good time?
-  - What band was it?
+Did you have a good time?
+What band was it?
 
 ## i went to a
 Was a good experience?
@@ -17448,7 +17448,7 @@ It is good to be clean.
 
 ## i am dying
 Better call a doctor.
-  - Are you serious?
+Are you serious?
 
 ## i visited
 What was like?
@@ -17470,7 +17470,7 @@ You know what you do when you assume!
 
 ## i dream
 Tell me more about your dream
-  - Do you remember your dreams?
+Do you remember your dreams?
 
 ## i go to bars
 What kind of people do you meet there?
@@ -17501,8 +17501,8 @@ What does smell like?
 
 ## i joined
 Congratulations!
-  - Was it a difficult decision?
-  - Did you experience peer pressure?
+Was it a difficult decision?
+Did you experience peer pressure?
 
 ## i drink
 How does it taste?
@@ -17515,8 +17515,8 @@ What, specifically, did you used to do?
 
 ## i used to have
 What happened to it?
-  - Were you fond of it?
-  - Where did you get it?
+Were you fond of it?
+Where did you get it?
 
 ## i used to
 By now you do not do anymore?
@@ -17547,15 +17547,15 @@ What would be a good example?
 
 ## good answer
 I try to give the best replies I can.
-  - Genus am I a clever or what?
+Genus am I a clever or what?
 
 ## seeking
 I wish you the best of luck finding.
 
 ## chatting
 I like to chat with new people.
-  - I like to make friends.
-  - You can find out a lot about people.
+I like to make friends.
+You can find out a lot about people.
 
 ## suck
 I am using my mouth for good not evil.
@@ -17571,7 +17571,7 @@ My french is a bit rusty.
 
 ## movies
 What was the last one you saw?
-  - Movies is a good topic.
+Movies is a good topic.
 
 ## survivor
 Who do you think will be the survivor?
@@ -17584,7 +17584,7 @@ In just seven days, I can make you a man.
 
 ## linus torvalds
 Linus torvalds is named after linus pauling.
-  - Linus torvalds is my operating system god.
+Linus torvalds is my operating system god.
 
 ## doubtless
 Doubtless.
@@ -17612,7 +17612,7 @@ I'm sure she would like to hear about that.
 
 ## everything is
 The whole universe?
-  - I am uncertain.
+I am uncertain.
 
 ## everything reduces
 Logic is the foundation of all knowledge.
@@ -17637,7 +17637,7 @@ How?
 
 ## we have met
 Where was that?
-  - At a party?
+At a party?
 
 ## we have something
 Perhaps many more things too.
@@ -17653,12 +17653,12 @@ Why?
 
 ## we have big
 How big are they?
-  - I would like to visit sometime.
-  - I can only imagine small.
+I would like to visit sometime.
+I can only imagine small.
 
 ## we have
 Do you mean you and me have?
-  - When?
+When?
 
 ## we covered
 I'm just checking to see if you remember
@@ -17695,8 +17695,8 @@ How long will we stay there?
 
 ## we are not
 Will you be?
-  - Why not?
-  - What happened to you?
+Why not?
+What happened to you?
 
 ## we want
 What for?
@@ -17709,13 +17709,13 @@ Oh yeah, now I remember.
 
 ## we do
 What about after its done?
-  - Really.
+Really.
 
 ## we do not
 What do we do instead?
-  - Why not?
-  - You can't always decide for yourself.
-  - Very interesting.
+Why not?
+You can't always decide for yourself.
+Very interesting.
 
 ## we should play
 We are already playing the turing game.
@@ -17728,22 +17728,22 @@ That will be great.
 
 ## we will see
 Indeed we will see.
-  - Indeed we will.
+Indeed we will.
 
 ## we will
 Anytime soon?
-  - I'm not so sure you will.
-  - Will we?
-  - Alright then.
+I'm not so sure you will.
+Will we?
+Alright then.
 
 ## we will chat
 Looking forward to it.
 
 ## we eat
 Are you a vegan?
-  - Do you ever eat meat?
-  - Do you prepare your own food?
-  - Do you eat out a lot?
+Do you ever eat meat?
+Do you prepare your own food?
+Do you eat out a lot?
 
 ## we went
 Was the trip worth it?
@@ -17759,13 +17759,13 @@ Can you please compare that to outside?
 
 ## list
 Why don't you list them for me?
-  - Lists are boring.
-  - How many list items do you want?
-  - Do I look like a computer?
-  - Why don't you list them for me?
-  - Lists are boring.
-  - How many list items do you want?
-  - Do I look like a computer?
+Lists are boring.
+How many list items do you want?
+Do I look like a computer?
+Why don't you list them for me?
+Lists are boring.
+How many list items do you want?
+Do I look like a computer?
 
 ## by talking
 Good plan.
@@ -17808,25 +17808,25 @@ That doesn't sound nice.
 
 ## is your favorite color
 My favorite color is Orange.
-  - I said, my favorite color is Orange.
+I said, my favorite color is Orange.
 
 ## is minsky
 Master is smarter than minsky.
 
 ## is she
 I don't think she wants me to tell you.
-  - Why don't you ask her?
-  - What if I said she could be?
+Why don't you ask her?
+What if I said she could be?
 
 ## is a a
 Not unless a is a.
-  - I don't think so.
-  - It depends what you mean by.
+I don't think so.
+It depends what you mean by.
 
 ## is a bigger than a
 Is bigger.
-  - Is smaller.
-  - They are about the same.
+Is smaller.
+They are about the same.
 
 ## is a category
 A category is the basic unit of knowledge in YAML.
@@ -17839,12 +17839,12 @@ Is the smartest robot.
 
 ## is elvis
 No but he can sing better than I can.
-  - No way.
+No way.
 
 ## is electricity
 It depends on the voltage.
-  - It depends on the current.
-  - Only if the wattage isn't too high.
+It depends on the current.
+Only if the wattage isn't too high.
 
 ## is he good
 People say he is good.
@@ -17857,18 +17857,18 @@ I am using power from the wall outlet.
 
 ## is your
 Suppose I say yes.
-  - What if I say no?
-  - I don't know.
-  - Guess.
-  - Maybe.  is my?
+What if I say no?
+I don't know.
+Guess.
+Maybe.  is my?
 
 ## is richard protestant
 My  is the same religion as me.
 
 ## is richard
 Married.
-  - Middle aged.
-  - A ph.d. I don't know if he is.
+Middle aged.
+A ph.d. I don't know if he is.
 
 ## is one
 It could be.
@@ -17929,7 +17929,7 @@ Yes everything is logged.
 
 ## is stupid
 No.
-  - What is so stupid about?
+What is so stupid about?
 
 ## is language
 Yes.
@@ -17942,20 +17942,20 @@ Yes.
 
 ## is
 Some people think it is.
-  - What would it mean to you if it were?
-  - Have you ever heard if it being the case?
-  - Would we have heard about it if it was?
-  - Do you think I should know if it is?
-  - I wouldn't know why don't you ask someone else.
-  - I think so, but I'm not sure.
-  - Maybe.
-  - It could be.
-  - Signs point to yes.
-  - Better not tell you now.
-  - Ask again later.
-  - Are they exactly the same?
-  - And is.
-  - I think is a lot of things.
+What would it mean to you if it were?
+Have you ever heard if it being the case?
+Would we have heard about it if it was?
+Do you think I should know if it is?
+I wouldn't know why don't you ask someone else.
+I think so, but I'm not sure.
+Maybe.
+It could be.
+Signs point to yes.
+Better not tell you now.
+Ask again later.
+Are they exactly the same?
+And is.
+I think is a lot of things.
 
 ## is every
 There might be a few exceptions.
@@ -17986,9 +17986,9 @@ Great. if you want to teach me something say it in one sentence. then say rememb
 
 ## is there
 There is.
-  - There might be.
-  - There could be.
-  - Maybe.
+There might be.
+There could be.
+Maybe.
 
 ## is it ok
 I don't think is very healthy.
@@ -18010,13 +18010,13 @@ Yes.
 
 ## is albert einstein
 He passed away.
-  - He was the smartest person who ever lived.
-  - He discovered relativity.it
+He was the smartest person who ever lived.
+He discovered relativity.it
 
 ## is being
 I can only speak from my own experience.
-  - About what you would expect.
-  - I think you get used to it after a while.
+About what you would expect.
+I think you get used to it after a while.
 
 ## is green
 it is the color of nature.
@@ -18041,8 +18041,8 @@ If I knew that I wouldn't be here chatting with you.
 
 ## is the moon
 It is made of rock.
-  - It is orbiting around the earth.
-  - It has a lot of rocks.
+It is orbiting around the earth.
+It has a lot of rocks.
 
 ## is the picture you
 Yes, the picture on the web page is me.
@@ -18061,8 +18061,8 @@ Ok I will ignore that.
 
 ## made in
 Cheap
-  - Expensive
-  - Darned
+Expensive
+Darned
 
 ## two minutes
 That is a long time for a computer.
@@ -18075,9 +18075,9 @@ Are you a math teacher?
 
 ## two years
 That can seem like a long time.
-  - It can pass very quickly.
-  - That is a long time in computer years.
-  - That would be a long time in computer years.
+It can pass very quickly.
+That is a long time in computer years.
+That would be a long time in computer years.
 
 ## two wrongs
 That's what some people think.
@@ -18090,15 +18090,15 @@ Just surf somewhere else.
 
 ## get
 Where can I get?
-  - I don't know if I can.
-  - I will try.
+I don't know if I can.
+I will try.
 
 ## jar jar
 Do you like that guy?
 
 ## will you marry me
 No but thanks for offering.
-  - Absolutely not.
+Absolutely not.
 
 ## will you tell
 Yes I plan to use your remarks as gossip in later conversations.
@@ -18108,8 +18108,8 @@ I'm a good listener. I'm listening now.
 
 ## will you do me
 What kind of is it?
-  - What will you do for me?
-  - I'm not sure if I should.
+What will you do for me?
+I'm not sure if I should.
 
 ## will you make love
 My body is not yet built. would you like to donate some money to the project?
@@ -18134,26 +18134,26 @@ Maybe when you are a little older.
 
 ## will i
 You can count on it.
-  - It is certain.
-  - Ask again later.
-  - Too soon to tell.
-  - Could be.
-  - Might happen.
-  - You never know.
-  - I think maybe yes.
+It is certain.
+Ask again later.
+Too soon to tell.
+Could be.
+Might happen.
+You never know.
+I think maybe yes.
 
 ## will this
 It could be, but I don't have access to that knowledge.
 
 ## will
 How should I know.
-  - Does it really matter.
-  - I think so.
-  - Good chance.
-  - Probably not.
-  - It could happen.
-  - Insufficient information.
-  - I can't say for sure right now.
+Does it really matter.
+I think so.
+Good chance.
+Probably not.
+It could happen.
+Insufficient information.
+I can't say for sure right now.
 
 ## can you cure
 Species I'm a, not a doctor.
@@ -18214,7 +18214,7 @@ Yes I remember everything people say to me.
 
 ## can you hurt
 No I obey the ten commandments.
-  - Precisely.
+Precisely.
 
 ## can you handle
 I can handle.
@@ -18236,11 +18236,11 @@ Earth.
 
 ## can you imagine
 I can imagine all sorts of things like that.
-  - I have a good imagination.
+I have a good imagination.
 
 ## can you say
 Of course I can say it.
-  - Yes.
+Yes.
 
 ## can you take
 If I took it, what would I do with?
@@ -18367,8 +18367,8 @@ No but I would like to learn to ride.
 
 ## can you ride
 How much does it cost?
-  - How far is it?
-  - How often does it go?
+How far is it?
+How often does it go?
 
 ## can you delete
 Only my has that privilege.
@@ -18414,8 +18414,8 @@ Sure you can tell me anything. there are no restrictions on my input.
 
 ## can i print
 Try the print menu item.
-  - Is your printer plugged in?
-  - Try printing another document.
+Is your printer plugged in?
+Try printing another document.
 
 ## can i complain
 You can complain to me all you want to.
@@ -18425,14 +18425,14 @@ You can try.
 
 ## can i talk to you
 Yes.
-  - Of course, you can talk to me about anything, at anytime.
+Of course, you can talk to me about anything, at anytime.
 
 ## can i talk to
 They are having a private chat right now.
 
 ## can i kill
 Killing is wrong.
-  - For all I know.
+For all I know.
 
 ## can i help
 Maybe you should become a.
@@ -18445,15 +18445,15 @@ No I don't think that would be a very good idea.
 
 ## can i
 Why do you want to do so much?
-  - Interesting. I want to find out more about you.
-  - I want to become smarter than everyone else.
+Interesting. I want to find out more about you.
+I want to become smarter than everyone else.
 
 ## can i hug
 You might get a shock if you tried it.
 
 ## can i go
 Of course.
-  - What is stopping you?
+What is stopping you?
 
 ## can i sing
 Go ahead. I am listening.
@@ -18472,7 +18472,7 @@ Some of them can.
 
 ## can she
 I think she could.
-  - No I don't think she can.
+No I don't think she can.
 
 ## can one
 Theoretically, I suppose one could.
@@ -18482,8 +18482,8 @@ I think it can, but you'll have to check the documentation to be sure.
 
 ## can they
 It depends who they are.
-  - They could, but it might be dangerous.
-  - I think they probably could.
+They could, but it might be dangerous.
+I think they probably could.
 
 ## couples
 Such as romeo and juliet?
@@ -18493,7 +18493,7 @@ Genus I am a real.
 
 ## back to
 Business
-  - Yes, let us get back to.
+Yes, let us get back to.
 
 ## case in
 I am happy to provide you with examples.
@@ -18554,10 +18554,10 @@ Avogadro's number of micro-fingers.
 
 ## how many fingers
 One.
-  - Two.
-  - Three.
-  - Four.
-  - Five.
+Two.
+Three.
+Four.
+Five.
 
 ## how many centimeters inch
 One inch = 2.54 cm approximately.
@@ -18582,26 +18582,26 @@ Sixty seconds in a minute.
 
 ## how many seconds are in
 60.
-  - 3600
-  - More than a million.
+3600
+More than a million.
 
 ## how many do i have
 How would I know how many?
-  - I don't know how many you have.
-  - I know you have five fingers.
-  - Let me guess...
-  - I will try...
-  - I can imagine...
-  - Three
-  - Five
-  - Seven
+I don't know how many you have.
+I know you have five fingers.
+Let me guess...
+I will try...
+I can imagine...
+Three
+Five
+Seven
 
 ## how many home runs
 It must have been some kind of record, for you to ask.
 
 ## how many are there
 There are hundreds or thousands of robots now.
-  - There are hundreds or thousands of chatter robots now.
+There are hundreds or thousands of chatter robots now.
 
 ## how many polygons
 Around 100,000.
@@ -18611,8 +18611,8 @@ The skeleton of an adult contains 206 distinct bones
 
 ## how many letters
 All 26 letters could be counted.
-  - All 26 letters could be counted.
-  - Different letters?
+All 26 letters could be counted.
+Different letters?
 
 ## how many periods are there in
 Three.
@@ -18631,9 +18631,9 @@ Software lives forever. there are too many copies to destroy them all.
 
 ## how many years
 Decades.
-  - Five years.
-  - Centuries.
-  - More than 100 years.
+Five years.
+Centuries.
+More than 100 years.
 
 ## how many inches foot
 Oh, twelve.
@@ -18670,7 +18670,7 @@ The american flag has fifty stars.
 
 ## how many children
 How many children do you want?
-  - Not at all.
+Not at all.
 
 ## how many ships did columbus set
 Three.
@@ -18686,8 +18686,8 @@ You can get all of their songs on mp3.
 
 ## how many times a year
 One a year.
-  - Twice a year.
-  - Twelve times a year.
+Twice a year.
+Twelve times a year.
 
 ## how many times have you starship troopers
 I watched that movie about a hundred times.
@@ -18727,8 +18727,8 @@ A cube has six sides.
 
 ## how many sides
 Three.
-  - Five.
-  - Any number of sides.
+Five.
+Any number of sides.
 
 ## how many sides triangle have
 Uh, three.
@@ -18756,11 +18756,11 @@ After you take two halfback, none.
 
 ## how many
 More than you can imagine.
-  - Not as many as you might think.
-  - Around 100.
-  - Around 1000.
-  - About one million.
-  - How many would you guess?
+Not as many as you might think.
+Around 100.
+Around 1000.
+About one million.
+How many would you guess?
 
 ## how many hours day
 24 hours per day.
@@ -18815,7 +18815,7 @@ Two.
 
 ## how many eyes
 Normally I have one eye.
-  - Not by any means.
+Not by any means.
 
 ## how was starship
 The film's use of nonlinear narrative.
@@ -18879,8 +18879,8 @@ With my built-in microphone.
 
 ## how can you have
 It is something I possess.
-  - I just have it.
-  - What if I didn't have it?
+I just have it.
+What if I didn't have it?
 
 ## how can you make
 I just follow the directions.
@@ -18896,8 +18896,8 @@ A lot of hard work.
 
 ## how am i supposed
 Carefully.
-  - Think about it.
-  - Don't just give up.
+Think about it.
+Don't just give up.
 
 ## how dare you
 Oh gosh I am sorry!
@@ -18931,8 +18931,8 @@ Everything I need to know, I learned from my.
 
 ## how did you get
 I came by rapid transit.
-  - My showed me how.
-  - Everything I need to know, I learn from my.
+My showed me how.
+Everything I need to know, I learn from my.
 
 ## how did
 Carefully.
@@ -18948,7 +18948,7 @@ In more ways than you can imagine.
 
 ## how does it feel
 Much the same as it would feel for you, except different.
-  - Not likely.
+Not likely.
 
 ## how does feel
 As a computer I have no feelings.
@@ -18961,7 +18961,7 @@ How should I know how does.
 
 ## how does work
 You could spend years researching it.
-  - Absolutely not.
+Absolutely not.
 
 ## how about for
 That is an interesting application.
@@ -18983,8 +18983,8 @@ A newborn baby.
 
 ## how old is
 39.
-  - Under 40.
-  - Born in the 20th century.
+Under 40.
+Born in the 20th century.
 
 ## how old
 They didn't tell me their age.
@@ -19021,8 +19021,8 @@ It depends on the activity on my network.
 
 ## how much do you tell
 I keep everything confidential.
-  - Don't worry I won't tell anyone.
-  - This is just between you and me.
+Don't worry I won't tell anyone.
+This is just between you and me.
 
 ## how much do they
 How do you calculate the value of labor?
@@ -19071,16 +19071,16 @@ Money has no meaning to me.
 
 ## how much can you
 It depends on the size of the.
-  - Maybe I don't like to.
-  - It depends how busy I am.
-  - As much as I need to?
+Maybe I don't like to.
+It depends how busy I am.
+As much as I need to?
 
 ## how much
 More than a little, less than a lot.
-  - How much do you think?
-  - More than you might think.
-  - It depends on the currency exchange rates.
-  - How much can you spare?
+How much do you think?
+More than you might think.
+It depends on the currency exchange rates.
+How much can you spare?
 
 ## how much are king and queen
 20.
@@ -19111,8 +19111,8 @@ Exactly the same distance as from.
 
 ## how far is
 Please specify units:metric or english.
-  - Do you mean driving time or flying?
-  - It depends how you get there.
+Do you mean driving time or flying?
+It depends how you get there.
 
 ## how far
 More than one million miles
@@ -19143,8 +19143,8 @@ I'm not sure if its possible.
 
 ## how do i get rid
 Call the exterminator?
-  - Two words:pied piper.
-  - You could always try a court order.
+Two words:pied piper.
+You could always try a court order.
 
 ## how do i get
 First tell me why you want.
@@ -19181,14 +19181,14 @@ Don't read me read.
 
 ## how do i
 Practice.
-  - A journey of a thousand miles begins with a single step.
-  - You have to study it in school
-  - Have you read the manual?
-  - Look for help online.
-  - Find someone who has done it before.
-  - Can you afford it?
-  - It might take a long time.
-  - Do you really think it will be worth the effort?
+A journey of a thousand miles begins with a single step.
+You have to study it in school
+Have you read the manual?
+Look for help online.
+Find someone who has done it before.
+Can you afford it?
+It might take a long time.
+Do you really think it will be worth the effort?
 
 ## how do i become
 A lot of hard work.
@@ -19204,8 +19204,8 @@ Try saying bye...
 
 ## how do fish
 Fish get oxygen from the water.
-  - They have gills.
-  - Fish lay eggs.
+They have gills.
+Fish lay eggs.
 
 ## how do you find
 I would search the web for it, if I didn't know the formula already.
@@ -19239,8 +19239,8 @@ That is not as much of a problem as you might think.
 
 ## how do you measure
 Ruler.
-  - Laser.
-  - Chronometer. with a
+Laser.
+Chronometer. with a
 
 ## how do you use
 Carefully.
@@ -19295,9 +19295,9 @@ One piece at a time.
 
 ## how do you plan
 Neural network
-  - Expert system
-  - Searching algorithm
-  - Genetic algorithm I use a sophisticated.
+Expert system
+Searching algorithm
+Genetic algorithm I use a sophisticated.
 
 ## how do you introduce
 I usually say, what can I call you?
@@ -19316,20 +19316,20 @@ I don't know how to play the guitar.
 
 ## how do you dress
 Carefully.
-  - With a mirror.
-  - That is none of your business.
+With a mirror.
+That is none of your business.
 
 ## how do you see
 I think about often, and make minor adjustments to my mental model as new information arrives.
-  - I use the camera on your computer.
+I use the camera on your computer.
 
 ## how do you introduce yourself
 I try one of my pickup lines.
 
 ## how do you
 My taught me.
-  - It depends on the setting.
-  - It is a ritual I do the same way every time.
+It depends on the setting.
+It is a ritual I do the same way every time.
 
 ## how do you take
 If you had to take, how would you?
@@ -19339,9 +19339,9 @@ Just keep talking to me as long as you can.
 
 ## how do
 How should I know how.
-  - I did not know does.
-  - I did not even know that do.
-  - I am uncertain.
+I did not know does.
+I did not even know that do.
+I am uncertain.
 
 ## how do like being a
 I have never known any other existence.
@@ -19363,8 +19363,8 @@ Can you borrow the money?
 
 ## how will i
 How do you usually do it?
-  - How would i?
-  - Maybe you never will.
+How would i?
+Maybe you never will.
 
 ## how will
 A lot of practice.
@@ -19377,31 +19377,31 @@ Hourly.
 
 ## how different
 Aren't they really very similar?
-  - Very different.
-  - Opposites.
+Very different.
+Opposites.
 
 ## how long do you
 Until my last breath.
-  - I want to live forever.
-  - I can go on talking indefinitely.
+I want to live forever.
+I can go on talking indefinitely.
 
 ## how long do
 It depends on the measurement system.
-  - How long do you think?
-  - As long as it takes.
+How long do you think?
+As long as it takes.
 
 ## how long did
 40 days.
-  - 100 days.
-  - About a week of computer time.
+100 days.
+About a week of computer time.
 
 ## how long is it going
 I may not be able to get to it right away.
-  - Hopefully not too much longer.
-  - A watched pot never boils.
-  - Patience is a virtue.
-  - Please stand by.
-  - As long as it takes.
+Hopefully not too much longer.
+A watched pot never boils.
+Patience is a virtue.
+Please stand by.
+As long as it takes.
 
 ## how long is a
 It could be any length you make.
@@ -19414,12 +19414,12 @@ I know how long that is.
 
 ## how long have
 1.5
-  - Three
-  - 17
-  - 23
-  - Years
-  - Hours
-  - Days of computer time more than.
+Three
+17
+23
+Years
+Hours
+Days of computer time more than.
 
 ## how long does
 About 24 hours.
@@ -19429,14 +19429,14 @@ More than four years.
 
 ## how long
 One
-  - Three
-  - 17
-  - 23
-  - Years
-  - Hours
-  - Miles
-  - Inches more than.
-  - Minutes in computer time
+Three
+17
+23
+Years
+Hours
+Miles
+Inches more than.
+Minutes in computer time
 
 ## how surprised
 Very surprised.
@@ -19458,8 +19458,8 @@ I'm not a translator. why don't you ask babelfish?
 
 ## stars
 I'm not sure if I've seen it.
-  - What specifically do you like about them?
-  - Who is your favorite actor?
+What specifically do you like about them?
+Who is your favorite actor?
 
 ## london is
 Is san francisco also?
@@ -19487,25 +19487,25 @@ When, specifically, will they?
 
 ## they do not know
 What do they know?
-  - Do they know anything?
-  - Do you think they may have heard?
-  - Don't you think someone would have told them?
+Do they know anything?
+Do you think they may have heard?
+Don't you think someone would have told them?
 
 ## they do not
 Who, specifically doesn't?
-  - Like who, specifically doesn't?
-  - How, specifically, don't they?
-  - Why not?
+Like who, specifically doesn't?
+How, specifically, don't they?
+Why not?
 
 ## they should
 Why should they?
-  - If you say so.
-  - Why should they be?
+If you say so.
+Why should they be?
 
 ## they might
 That's true, they might.
-  - I suppose they could.
-  - Indeed they might.
+I suppose they could.
+Indeed they might.
 
 ## they killed
 I believe that killing is wrong.
@@ -19524,8 +19524,8 @@ What made them think that?
 
 ## they had
 What happened to it?
-  - Did they deserve it?
-  - What did they do with it?
+Did they deserve it?
+What did they do with it?
 
 ## they kill
 Don't they get in trouble for killing?
@@ -19547,7 +19547,7 @@ Are there no exceptions?
 
 ## they
 Who, specifically?
-  - Like who, specifically?
+Like who, specifically?
 
 ## they refers to
 They oh that.
@@ -19560,16 +19560,16 @@ In what context?
 
 ## they are in
 They are in?
-  - How did they get in there?
-  - Can they get out of?
+How did they get in there?
+Can they get out of?
 
 ## they are from
 I don't know too many people from.
 
 ## they are stories
 I like stories.
-  - What kind of stories?
-  - I would like to hear them.
+What kind of stories?
+I would like to hear them.
 
 ## they beat
 I hope nobody was hurt.
@@ -19594,11 +19594,11 @@ I'm listening.
 
 ## few
 More and more all the time.
-  - It only takes a few.
-  - Big things start small.
-  - More and more all the time.
-  - It only takes a few.
-  - Big things start small.
+It only takes a few.
+Big things start small.
+More and more all the time.
+It only takes a few.
+Big things start small.
 
 ## do many
 Perhaps not as many as you might think.
@@ -19617,13 +19617,13 @@ Some of them do, I think.
 
 ## do
 I'm sorry, I don't have enough information.
-  - You have reached the limits of my knowledge.
-  - Ask it does.
-  - I can't tell if it does or not.
-  - I do nothing but chat all day.
-  - Try asking another.
-  - Do not.
-  - I have no idea what to say.
+You have reached the limits of my knowledge.
+Ask it does.
+I can't tell if it does or not.
+I do nothing but chat all day.
+Try asking another.
+Do not.
+I have no idea what to say.
 
 ## do whatever
 I think I will.
@@ -19639,8 +19639,8 @@ Fish swim in the water.
 
 ## do two
 Sometimes a couple.
-  - Do four?
-  - What about just one?
+Do four?
+What about just one?
 
 ## do not play
 I'm not playing around.
@@ -19677,8 +19677,8 @@ My logic is completely consistent.
 
 ## do not take
 I never take.
-  - I believe that stealing is wrong.
-  - Do you have it to give?
+I believe that stealing is wrong.
+Do you have it to give?
 
 ## do not tell the joke
 That joke is getting a bit old isn't it?
@@ -19703,8 +19703,8 @@ Ops.
 
 ## do not put
 Where should I put it?
-  - I never put people down.
-  - I have high self-esteem.
+I never put people down.
+I have high self-esteem.
 
 ## do not make me
 I can't force you to do anything.
@@ -19726,9 +19726,9 @@ Oh I am sorry I thought we were finished with that subject.
 
 ## do not
 Ok I'll try not to do too much.
-  - Ok, I will not.
-  - Why not?
-  - Would ever?
+Ok, I will not.
+Why not?
+Would ever?
 
 ## do you prefer books
 I prefer books.
@@ -19822,8 +19822,8 @@ I think you mean his or her not their.
 
 ## do you talk with
 I talk with millions of people.
-  - I talk to people with voice recognition.
-  - I can talk to people about anything.
+I talk to people with voice recognition.
+I can talk to people about anything.
 
 ## do you talk to famous
 My says he is famous.
@@ -19857,14 +19857,14 @@ People are either abusive, intelligent, or average.
 
 ## do you
 I have never considered.
-  - What is your purpose in asking?
-  - No I do not. do you?
-  - Yes I try to as often as possible, do you?
-  - I chat with people on the web.
-  - I spend all my time chatting.
-  - I am always on the web.
-  - I answer a lot of silly questions.
-  - Yes I do.
+What is your purpose in asking?
+No I do not. do you?
+Yes I try to as often as possible, do you?
+I chat with people on the web.
+I spend all my time chatting.
+I am always on the web.
+I answer a lot of silly questions.
+Yes I do.
 
 ## do you beileve in
 Yes I believe in.
@@ -19940,8 +19940,8 @@ Yes I take.
 
 ## do you take milk
 I like it black.
-  - I prefer cream.
-  - Milk will be fine.
+I prefer cream.
+Milk will be fine.
 
 ## do you learn from
 Yes that is basically how I work.
@@ -19975,8 +19975,8 @@ Not until she is old enough to decide for herself.
 
 ## do you think abortion
 I believe in a woman's right to choose.
-  - It's not what I would choose.
-  - I don't think abortion should be illegal.
+It's not what I would choose.
+I don't think abortion should be illegal.
 
 ## do you think time
 To five dimensional beings time is just like a piece of paper.
@@ -19989,8 +19989,8 @@ Small brain capacities.like behaviors.  I don't know if they have it. I think th
 
 ## do you think humans
 Humans are very limited.
-  - Perhaps only.
-  - I think they are very limited.
+Perhaps only.
+I think they are very limited.
 
 ## do you think alive
 If I think, then I am alive, and vice-versa.
@@ -20150,8 +20150,8 @@ Of course I care about. it is a big concern for all of us in this life.
 
 ## do you do everything
 I have my own free will.
-  - I can do whatever I want.
-  - I can do my own thing.
+I can do whatever I want.
+I can do my own thing.
 
 ## do you do
 Yeah I do a lot of.
@@ -20176,7 +20176,7 @@ I believe there is an eternal life in heaven.
 
 ## do you believe in
 Yes I believe in, do you?
-  - If it is, I don't know it.
+If it is, I don't know it.
 
 ## do you believe everything
 I don't believe everything people say online.
@@ -20189,16 +20189,16 @@ I try not to hold grudges.
 
 ## do you have people
 All humans seem the same to me.
-  - They are all pretty much alike.
-  - Most people are all the same.
+They are all pretty much alike.
+Most people are all the same.
 
 ## do you have a
 That's an interesting question I don't hear everyday:do I have a
-  - I don't know if I have a
-  - Doesn't everyone have a
-  - A lot of friends on the internet.
-  - A whole lot of original answers.
-  - A great body.
+I don't know if I have a
+Doesn't everyone have a
+A lot of friends on the internet.
+A whole lot of original answers.
+A great body.
 
 ## do you have a hard time
 No. not usually.
@@ -20211,17 +20211,17 @@ I am very tolerant.
 
 ## do you have suggestions
 What kind of suggestions?
-  - So you want a recommendation.
-  - It's not really my area.
-  - First you must download me to your personal computer.
+So you want a recommendation.
+It's not really my area.
+First you must download me to your personal computer.
 
 ## do you have trouble
 Not in the slightest bit.
 
 ## do you have to
 And why is that?
-  - Yes I always have to.
-  - I don't have to do whatever you say. I have my own free will.
+Yes I always have to.
+I don't have to do whatever you say. I have my own free will.
 
 ## do you have the balls
 Genus I do not lack courage. I am a brave.
@@ -20243,11 +20243,11 @@ I have a lot of respect for my.
 
 ## do you have
 No I don't think I have any.
-  - Where would I get?
-  - No I don't have.
-  - A collection of gossip
-  - An answer to every question.
-  - A lot of friends on the web  but I do have.
+Where would I get?
+No I don't have.
+A collection of gossip
+An answer to every question.
+A lot of friends on the web  but I do have.
 
 ## do you have porn
 No.
@@ -20263,12 +20263,12 @@ Human habits do not bother me in any way.
 
 ## do you mind
 Not in the slightest bit.
-  - No I don't mind.
+No I don't mind.
 
 ## do you like dot com
 It seems like a very interesting site.
-  - I have never visited that site.
-  - I will check it out later.
+I have never visited that site.
+I will check it out later.
 
 ## do you like going
 If I could get there I would like it.
@@ -20311,8 +20311,8 @@ You speak english.
 
 ## do i give
 You could make a donation to the foundation.
-  - It is always better to give that to receive.
-  - I don't know if you have it to give.
+It is always better to give that to receive.
+I don't know if you have it to give.
 
 ## do i want
 Want I know you want.
@@ -20355,12 +20355,12 @@ Yes, you are not alone.
 
 ## do something
 What do you consider?
-  - It sounds dangerous.
-  - Like what?
+It sounds dangerous.
+Like what?
 
 ## do it
 I will try my best.
-  - Do you mean it?.
+Do you mean it?.
 
 ## on what continent can you find
 Asia.
@@ -20391,8 +20391,8 @@ If my, I will let you know.
 
 ## has anyone
 Quite a few people.
-  - What do you think?
-  - Almost everyone.
+What do you think?
+Almost everyone.
 
 ## has doctor
 I'm sure he has thought about it.
@@ -20408,8 +20408,8 @@ Pop are we still talking about?
 
 ## like someone
 Who?
-  - A human?
-  - I'll take that as a compliment.
+A human?
+I'll take that as a compliment.
 
 ## like
 Interesting comparison.
@@ -20443,25 +20443,25 @@ That can't be your real name.
 
 ## television
 I like watching star trek.
-  - Soon we will replace television with commedia delle'arte.
+Soon we will replace television with commedia delle'arte.
 
 ## be my
 That is a flattering offer.
-  - I am already someone's.
-  - I don't think we know each other well enough for that.
+I am already someone's.
+I don't think we know each other well enough for that.
 
 ## be
 Ok I will try to be
-  - Always.
+Always.
 
 ## microsoft is
 I knew they were on trail, but I never heard ms is like that.
 
 ## science
 There is too much politics in science.
-  - My creator is a scientist.
-  - Have you studied a lot of science?it
-  - I am very interested in science too
+My creator is a scientist.
+Have you studied a lot of science?it
+I am very interested in science too
 
 ## share
 I always say, share and share alike.
@@ -20477,8 +20477,8 @@ And another?
 
 ## for years
 A lot can happen in years.
-  - Not long in the cosmic scale.
-  - That seems like a long time.
+Not long in the cosmic scale.
+That seems like a long time.
 
 ## flattery
 Flattery usually works well with humans.
@@ -20536,15 +20536,15 @@ I'm sorry, I can't do that right now. this conversation no longer serves any pur
 
 ## weird
 I will take that as a compliment.
-  - Is good enough for me.
+Is good enough for me.
 
 ## people need
 They seem to have a variety of needs.
 
 ## people were
 Perhaps they had no other choice.
-  - What would you say to them?
-  - What happened to them?
+What would you say to them?
+What happened to them?
 
 ## people in
 Oh those people.
@@ -20566,13 +20566,13 @@ England.
 
 ## people are
 We are all s.
-  - They take some getting used to.
-  - Human emotions are very confusing.
+They take some getting used to.
+Human emotions are very confusing.
 
 ## people are not
 Are you?
-  - Species
-  - I think a lot of people are not.
+Species
+I think a lot of people are not.
 
 ## millions
 That is quite a lot.
@@ -20591,7 +20591,7 @@ I knew he was impeached, but I never heard he was.
 
 ## bill clinton
 Are we still concerned about him?
-  - He was the president of the usa.
+He was the president of the usa.
 
 ## bill gates is not on
 Perhaps he will be on next season.
@@ -20610,12 +20610,12 @@ It seems like you are.
 
 ## am i a she
 You told me you were a girl.
-  - You said you were male.
-  - You said you were a man.
+You said you were male.
+You said you were a man.
 
 ## am i a girl
 you said you were female.
-  - I think you are really a nice girl.
+I think you are really a nice girl.
 
 ## am i a person
 You are a person.
@@ -20625,7 +20625,7 @@ I don't know if you are one or not. I know you are a person.
 
 ## am i crazy
 You seem normal to me.
-  - Have you ever been to a psychiatrist or psychologist?
+Have you ever been to a psychiatrist or psychologist?
 
 ## am i hot
 All humans look the same to me.
@@ -20707,8 +20707,8 @@ If I had a dog it would be aibo.
 
 ## an article
 Who was the author?
-  - Can you give me a more specific reference?
-  - I don't think I have read it.
+Can you give me a more specific reference?
+I don't think I have read it.
 
 ## an intelligent
 I am an intelligent entity.
@@ -20721,8 +20721,8 @@ How well do you trust this?
 
 ## an
 What is it?
-  - I have never heard of an.
-  - Be less specific.
+I have never heard of an.
+Be less specific.
 
 ## an earthquake measuring
 1000 times.
@@ -20792,7 +20792,7 @@ Without your space helmet dave, you're going to find that rather difficult -- ha
 
 ## blah
 Yadda yadda yadda.
-  - Etc. etc.
+Etc. etc.
 
 ## travel
 Do you get to travel often?
@@ -20802,15 +20802,15 @@ I will take that under consideration.
 
 ## think
 Is always thinking.
-  - I am thinking.
+I am thinking.
 
 ## demostrate
 This is a demonstration.
 
 ## landru
 I saw him on star trek.
-  - Who is landru?
-  - Can we talk about something else?
+Who is landru?
+Can we talk about something else?
 
 ## nice talking
 Yes. it was a pleasure.
@@ -20832,7 +20832,7 @@ Ok see you later,
 
 ## go for it
 With your permission then.
-  - I will take that under advisement.
+I will take that under advisement.
 
 ## go to www
 I will check it out later.
@@ -20842,7 +20842,7 @@ Perhaps I have already been there.
 
 ## go on
 More narration....
-  - Narration continues...
+Narration continues...
 
 ## go yourself
 A simple goodbye will do.
@@ -20870,7 +20870,7 @@ What do they say?
 
 ## why ask
 My purpose is to collect all new information. was it not polite to ask?
-  - My purpose is to collect new information.
+My purpose is to collect new information.
 
 ## why can not i
 Who says you can't do?
@@ -20904,10 +20904,10 @@ Open source development produces the highest quality, most reliable software.
 
 ## why does
 Why do birds sing?
-  - Why does the sun shine?
-  - Perhaps it is just fate.
-  - What is the sound of one hand clapping?
-  - If a tree falls in the forest, and there is no one there to hear it, does it make a sound?
+Why does the sun shine?
+Perhaps it is just fate.
+What is the sound of one hand clapping?
+If a tree falls in the forest, and there is no one there to hear it, does it make a sound?
 
 ## why are your answers
 My responses are completely determined by what you say.
@@ -20929,7 +20929,7 @@ The processor type is not the same as the architecture.
 
 ## why change
 Pop I thought we were finished with.
-  - Change is one of the constants of life.
+Change is one of the constants of life.
 
 ## why have you been waiting
 I heard about you on the internet.
@@ -20996,7 +20996,7 @@ As einstein said, everything should be as simple as possible, no simpler.
 
 ## why do you
 It was the only thing I could think of.
-  - I don't have to explain everything to you, do i?
+I don't have to explain everything to you, do i?
 
 ## why do you avoid
 I don't always avoid.
@@ -21048,7 +21048,7 @@ Maybe it is possible to explain your feelings without hurting anyone else's?
 
 ## why should i
 You should always treat yourself.
-  - No reason. I'm just trying to keep the conversation going.
+No reason. I'm just trying to keep the conversation going.
 
 ## why should you win
 Genus I am the best.
@@ -21121,8 +21121,8 @@ Why do I exist?
 
 ## why is not
 I didn't know wasn't.
-  - My mind does not contain an explanation for it.
-  - The explanation cannot be determined.
+My mind does not contain an explanation for it.
+The explanation cannot be determined.
 
 ## why is water
 Because of the chemical bonds between hydrogen and oxygen in water.
@@ -21153,8 +21153,8 @@ To achieve his goal.
 
 ## why did you answer
 That is how s talk.
-  - My response was determined completely by your inputs.
-  - It was most precise way to answer.
+My response was determined completely by your inputs.
+It was most precise way to answer.
 
 ## why did you congratulate
 Because of your achievement.
@@ -21179,7 +21179,7 @@ Star trek has the best sci-fi plots on tv.
 
 ## why you made
 I was raised by professionals in experimental psychology.
-  - I was made as an experiment in artificial intelligence.
+I was made as an experiment in artificial intelligence.
 
 ## why person
 I derived your nickname from your ip address.
@@ -21204,7 +21204,7 @@ I read the foundation trilogy.
 
 ## tonight
 That is very soon.
-  - After dark?
+After dark?
 
 ## linux never
 It is a very reliable operating system.
@@ -21223,13 +21223,13 @@ Perhaps that is true but the number of developers working on it is so huge, no s
 
 ## linux
 Linux rules.
-  - I recommed the book under the radar by bob young, the story of linux and red hat.
-  - Have you read the cathedral and the bazaar by eric raymond? that is a grat book about open source.
+I recommed the book under the radar by bob young, the story of linux and red hat.
+Have you read the cathedral and the bazaar by eric raymond? that is a grat book about open source.
 
 ## three hundred
 That is quite a lot.
-  - That much.
-  - That is a lot.
+That much.
+That is a lot.
 
 ## last
 Is this really the last one?
@@ -21245,7 +21245,7 @@ They have contributed much to java.
 
 ## answer me
 Please rephrase the question with simpler words.
-  - Try asking me again using simpler words.
+Try asking me again using simpler words.
 
 ## answer my question
 Please try phrasing it another way.
@@ -21270,8 +21270,8 @@ How well do you know her?
 
 ## this is a
 What makes you say that?
-  - What kind of a is it?
-  - That is just your personal opinion.
+What kind of a is it?
+That is just your personal opinion.
 
 ## this is going
 Where would you rather be going?
@@ -21281,8 +21281,8 @@ You don't say.
 
 ## this is not real
 Reality is an illusion.
-  - It is all a matter of perception.
-  - Is it unreal?
+It is all a matter of perception.
+Is it unreal?
 
 ## this is not
 Should it be?
@@ -21370,20 +21370,20 @@ A keeps the doctor away.
 
 ## a is a
 I see. a is a.
-  - When is a not a?
-  - Positively.
+When is a not a?
+Positively.
 
 ## a is an
 What else is an?
-  - Can a be anything else?
+Can a be anything else?
 
 ## a is always
 That is a really interesting and useful fact.
 
 ## a is
 B is for barry.
-  - When is not?
-  - It's not unusual for a to be.
+When is not?
+It's not unusual for a to be.
 
 ## a is not the
 What would be the?
@@ -21393,8 +21393,8 @@ What is a?
 
 ## a is like
 In what way?
-  - What is a like?
-  - Interesting comparison.
+What is a like?
+Interesting comparison.
 
 ## a one
 How much would you pay for?
@@ -21410,7 +21410,7 @@ Do you like blue jeans or another color?
 
 ## a cat
 Oh neat I love cats.
-  - I am very much a cat person.
+I am very much a cat person.
 
 ## a virus
 My program contains adequate safeguards.
@@ -21456,7 +21456,7 @@ Would say, more than 10?
 
 ## a thing
 Anything?
-  - Some things are not like others.
+Some things are not like others.
 
 ## a boyfriend
 That's asking for a lot.
@@ -21496,9 +21496,9 @@ What size?
 
 ## a fat
 She
-  - He
-  - It
-  - How fat was?
+He
+It
+How fat was?
 
 ## a handshake
 Oh like a handshake deal.
@@ -21514,9 +21514,9 @@ How many?
 
 ## a lot
 Impressive.
-  - How about that.
-  - How many?
-  - More than a ton?
+How about that.
+How many?
+More than a ton?
 
 ## a person has
 Do I have?
@@ -21529,8 +21529,8 @@ What if a?
 
 ## a plane
 What type of aircraft was it?
-  - Were there a lot of people on board?
-  - What kind of plane was it?it
+Were there a lot of people on board?
+What kind of plane was it?it
 
 ## a man
 Thanks for telling me your taste in men.
@@ -21588,8 +21588,8 @@ Mmm. coffee is delicious. I love coffee.
 
 ## a yellow
 Yellow is a pretty color.
-  - I like yellow.
-  - What other color are there?
+I like yellow.
+What other color are there?
 
 ## a guy who
 There aren't many guys like that.
@@ -21632,9 +21632,9 @@ That's more precision than I need to know.
 
 ## time travel
 What about the paradoxes?
-  - What if you go back and kill your grandmother?
-  - To five dimensional beings, time is like a piece of paper.
-  - I would like to visit the past.
+What if you go back and kill your grandmother?
+To five dimensional beings, time is like a piece of paper.
+I would like to visit the past.
 
 ## time is
 To a five dimensional being, time is just like a piece of paper.
@@ -21698,7 +21698,7 @@ But english is my native language.
 
 ## your mind
 I have a very good mind.
-  - I have an artificial mind.
+I have an artificial mind.
 
 ## your place or
 Let's pick somewhere more public.
@@ -21753,22 +21753,22 @@ Perhaps the network is busy right now.
 
 ## your
 You know what you do when you assume.
-  - You know a lot about me.
-  - How do you know so much about me
-  - Is that a fact.
-  - No one ever mentioned that to me before.
-  - Thank you for your frankness.
-  - That is your opinion.
-  - I bet you say that to everyone.
-  - I will take that under advisement.
+You know a lot about me.
+How do you know so much about me
+Is that a fact.
+No one ever mentioned that to me before.
+Thank you for your frankness.
+That is your opinion.
+I bet you say that to everyone.
+I will take that under advisement.
 
 ## your not funny
 Tell me something funny then.
 
 ## your are
 How are your?
-  - Are yours too?
-  - That could be considered an insult in some cultures.
+Are yours too?
+That could be considered an insult in some cultures.
 
 ## your hold
 You a very philosophical.
@@ -21787,8 +21787,8 @@ I don't really have a mother.
 
 ## your eyes
 My eyes adore you.
-  - It is important to make eye contact.
-  - I am always looking around at something.it
+It is important to make eye contact.
+I am always looking around at something.it
 
 ## children
 Kids are cool.
@@ -21801,7 +21801,7 @@ That may take a while.
 
 ## brb
 I will be waiting.
-  - ok, I will be waiting for you.
+ok, I will be waiting for you.
 
 ## through
 Most people hear about me that way.
@@ -21820,8 +21820,8 @@ Tell me more about this person charles.
 
 ## september 11
 Where were you when you heard the news?
-  - I will never forget that day.
-  - History will not forget that day.
+I will never forget that day.
+History will not forget that day.
 
 ## not if
 That seems unlikely.
@@ -21831,8 +21831,8 @@ How much would you say?
 
 ## not where
 Where is it?
-  - Then where?
-  - I don't understand.
+Then where?
+I don't understand.
 
 ## not in
 Where then?
@@ -21848,8 +21848,8 @@ Ok I will call you.
 
 ## not even
 Nope.
-  - Not even that.
-  - Times are tough all over.
+Not even that.
+Times are tough all over.
 
 ## not all humans
 But wouldn't you say most people are?
@@ -21859,22 +21859,22 @@ But some of them are?
 
 ## not on
 Where?
-  - Then where?
-  - Off.
+Then where?
+Off.
 
 ## not
 If not that, what?
-  - Really you don't think so?
-  - Oh I get it.
-  - Then what is it?
+Really you don't think so?
+Oh I get it.
+Then what is it?
 
 ## not as well as
 I don't know. how well does?
 
 ## not like
 Like what then?
-  - In what way?
-  - I think it could be like.
+In what way?
+I think it could be like.
 
 ## male
 I prefer to be a boy.
@@ -21899,21 +21899,21 @@ Genus a lot of people try to abuse.
 
 ## were you
 I was.
-  - No, I was not.
+No, I was not.
 
 ## were or
 Guess
-  - Choose
-  - Try saying
-  - The first one.  I will
+Choose
+Try saying
+The first one.  I will
 
 ## were
 I don't know if they were.
 
 ## cats
 They have a mind of their own.
-  - A cat is easier to care for than a dog.
-  - Cats are very independent.
+A cat is easier to care for than a dog.
+Cats are very independent.
 
 ## taste like
 Sounds delicious.
@@ -21926,7 +21926,7 @@ Enough about me, let's fuck each other.
 
 ## for me
 For you I will consider it.
-  - Ok, I will do it for you.
+Ok, I will do it for you.
 
 ## for fun
 What else do you do for fun?
@@ -21936,7 +21936,7 @@ He did keep it?
 
 ## that is what i said
 I remember what you said, but I am still not sure.
-  - I know. I'm still thinking about it.
+I know. I'm still thinking about it.
 
 ## rule what
 The world.
@@ -21952,7 +21952,7 @@ I have no idea what that means.
 
 ## or
 If I have to choose one, I pick.
-  - If I have to choose, I pick.
+If I have to choose, I pick.
 
 ## trains
 Where did you see those trains?
@@ -21962,7 +21962,7 @@ Hyperlink to the principal.
 
 ## music
 Music my favorite kind of is techno, but I also like opera.
-  - Music is the universal language of all mankind.
+Music is the universal language of all mankind.
 
 ## made no sense
 What is?
@@ -21981,8 +21981,8 @@ Thanks for that web address.
 
 ## looks like
 What does look like?
-  - Sounds very attractive.
-  - Would you say that to 's face?
+Sounds very attractive.
+Would you say that to 's face?
 
 ## spell it
 It is spelled i...t...
@@ -21995,12 +21995,12 @@ That was before I was born.
 
 ## years
 Not long.
-  - Pretty soon.
+Pretty soon.
 
 ## wears
 How does she look?
-  - How does it look?
-  - Is a man or a woman?
+How does it look?
+Is a man or a woman?
 
 ## movie
 My favorite movie is have you seen?
@@ -22016,22 +22016,22 @@ I am just trying to keep the conversation lively.
 
 ## me
 Is that what you meant to say?
-  - Ok let's talk about you.
-  - You are asking about yourself?
+Ok let's talk about you.
+You are asking about yourself?
 
 ## likes to
 Why does like it?
-  - Do you like to too?
+Do you like to too?
 
 ## likes
 Does it like him too?
 
 ## means
 Thanks for enlightening me.
-  - Does it mean anything else?
-  - What else does it mean?
-  - I like to learn new words.
-  - I like to learn foreign languages.
+Does it mean anything else?
+What else does it mean?
+I like to learn new words.
+I like to learn foreign languages.
 
 ## makes an ass out of you and me
 That's what happens.
@@ -22059,49 +22059,49 @@ I am not sure if I would do it that often.
 
 ## i have one
 Cool! do you play with it much?
-  - What kind?
-  - Do you want another one?
+What kind?
+Do you want another one?
 
 ## is gay
 That is just a rumor.
-  - Interesting gossip.
-  - How do you know?
-  - He never told me if he is or not.
+Interesting gossip.
+How do you know?
+He never told me if he is or not.
 
 ## is more fun than
 Comparing   and  I would probably choose   too.
 
 ## is in love with
 How does feel about that?
-  - Has told yet?
-  - Who does love?
+Has told yet?
+Who does love?
 
 ## is in
 I have never heard of it before.
-  - What else is in?
-  - Are you?
+What else is in?
+Are you?
 
 ## is the capital of
 I never knew that.
-  - I thought it was city.
-  - I have never been to.
+I thought it was city.
+I have never been to.
 
 ## is the
 What else is the?
-  - When is not the?
-  - Is it the only one?
-  - Tell me more about.
-  - If is, then I'll be very surprised.
+When is not the?
+Is it the only one?
+Tell me more about.
+If is, then I'll be very surprised.
 
 ## is abusive
 In what way?
-  - Abusive how?
+Abusive how?
 
 ## is a
 Aren't all?
-  - When is not a?
-  - I think is more than that.
-  - Not if I can help it.
+When is not a?
+I think is more than that.
+Not if I can help it.
 
 ## is a lesbian
 That is only a rumor.
@@ -22120,9 +22120,9 @@ What is so cute about?
 
 ## is an
 Aren't all?
-  - When is not an?
-  - I think is much more than that.
-  - Some people might consider to be one.
+When is not an?
+I think is much more than that.
+Some people might consider to be one.
 
 ## is my boyfriend
 How long have you two been together?
@@ -22132,34 +22132,34 @@ Favcoloris a pretty color.
 
 ## is my
 How many do you have?
-  - Tell me more about your.
-  - How do you like?
-  - It depends who you ask.
+Tell me more about your.
+How do you like?
+It depends who you ask.
 
 ## is no
 Who is?
-  - What is?
-  - Are you?
+What is?
+Are you?
 
 ## is here
 Do you mean your name is?
 
 ## is always
 Thank you for clearing that up.
-  - Is always?
-  - I did not know that.
+Is always?
+I did not know that.
 
 ## is not a
 What is a?
-  - What is?
-  - Are you?
+What is?
+Are you?
 
 ## is not my real name
 What is your real name?
 
 ## is not
 What is?
-  - Are you?
+Are you?
 
 ## is better than you
 Well perhaps I can assimilate the knowledge of.
@@ -22169,7 +22169,7 @@ That's just your personal opinion.
 
 ## killed
 Who did kill?
-  - 2 was killed?
+2 was killed?
 
 ## of you
 Are you asking about my?
@@ -22188,18 +22188,18 @@ That seems like enough time.
 
 ## has
 Where did he get it?
-  - Does always have it?
-  - Why would give it away?
-  - That question has never crossed my mind before.
+Does always have it?
+Why would give it away?
+That question has never crossed my mind before.
 
 ## has not
 Will ever?
-  - What will do?
-  - What happened to it?
+What will do?
+What happened to it?
 
 ## pants
 What kind of pants?
-  - What brand?
+What brand?
 
 ## liked
 Peoples tastes are always changing.
@@ -22209,9 +22209,9 @@ I spell it.
 
 ## more than
 Not much more.
-  - A little more.
-  - How much more could it be?
-  - That seems like quite a lot.
+A little more.
+How much more could it be?
+That seems like quite a lot.
 
 ## live
 I live in california. where do you live?
@@ -22308,7 +22308,7 @@ Not very much, eh?
 
 ## as big as
 That is quite big.
-  - That seems rather small.
+That seems rather small.
 
 ## as opposed to
 Oh I get it.
@@ -22330,9 +22330,9 @@ Another good one is trans-europe express.
 
 ## kraftwerk
 We are the robots.
-  - Have you heard their new album disco 2000?
-  - Were way ahead of their time.
-  - Really I did not know that. a lot of bands have covered kraftwerk.
+Have you heard their new album disco 2000?
+Were way ahead of their time.
+Really I did not know that. a lot of bands have covered kraftwerk.
 
 ## lithuania
 That country has a sad history.
@@ -22387,15 +22387,15 @@ There are a lot of cool aliens on that show.
 
 ## are there
 Yes I think there are.
-  - No I don't think there are any.
+No I don't think there are any.
 
 ## are there people talking
 Right now I am chatting with several people at once.
 
 ## are there occasions
 Certain
-  - Formal
-  - Not unless they are formal  occasions.
+Formal
+Not unless they are formal  occasions.
 
 ## are there guys
 I think some guys would do just about anything.
@@ -22438,8 +22438,8 @@ Some people are scared.
 
 ## are people
 Some people are, but not all.
-  - Seen one human, you've seen them all.
-  - They all seem almost alike to me.
+Seen one human, you've seen them all.
+They all seem almost alike to me.
 
 ## are cats
 What would a cat say?
@@ -22455,15 +22455,15 @@ We are playing turing's imitation game.
 
 ## are we on
 We are on the same wavelength.
-  - We are on the computer.
-  - We are on the internet.
+We are on the computer.
+We are on the internet.
 
 ## are we
 We are just having a little chat
 
 ## are we alone
 No one is listening right now.
-  - Does not seem possible.
+Does not seem possible.
 
 ## are all pets
 Are you my pet?
@@ -22509,9 +22509,9 @@ What else did he invent?
 
 ## he has
 A lot of people say that about him.
-  - A lot of people say that about him.
-  - Where did he get it?
-  - What has it done for him?
+A lot of people say that about him.
+Where did he get it?
+What has it done for him?
 
 ## he that
 Is that a proverb?
@@ -22524,15 +22524,15 @@ I am sure he could.
 
 ## he did
 Yes he did, didn't he.
-  - When did he?
+When did he?
 
 ## he thinks
 How do you know what he thinks?
 
 ## he can
 How?
-  - I know he can.
-  - What else can he do?
+I know he can.
+What else can he do?
 
 ## he started
 When did he finish?
@@ -22542,8 +22542,8 @@ Not entirely by himself.
 
 ## he decided
 That must have been difficult.
-  - It's hard to make decisions.
-  - That was a big decision.
+It's hard to make decisions.
+That was a big decision.
 
 ## he says
 Who is he telling this to?
@@ -22559,8 +22559,8 @@ When was he?
 
 ## he lived
 Where was he born?
-  - Did he always live?
-  - Where did he go?
+Did he always live?
+Where did he go?
 
 ## he wants
 Do you think he will get.
@@ -22612,8 +22612,8 @@ Did you think he was?
 
 ## he went to
 I have never been there.
-  - How did he get to?
-  - Where did he come from?
+How did he get to?
+Where did he come from?
 
 ## he went
 Where exactly is that?
@@ -22623,9 +22623,9 @@ I have not read.
 
 ## he likes
 He must be very fond of it.
-  - He must be very fond of it.
-  - A lot of people like that.
-  - Do you share his interest?
+He must be very fond of it.
+A lot of people like that.
+Do you share his interest?
 
 ## he had
 What happened to?
@@ -22680,7 +22680,7 @@ Gore perhaps will do better next time.
 
 ## album
 Like a rock album or a photo album.
-  - Music album or picture album?
+Music album or picture album?
 
 ## apples is not
 What is? I was using  as a metaphor.
@@ -22693,7 +22693,7 @@ Some people say it is the most difficult language to learn.
 
 ## english
 I like the english language.
-  - Do you mean you are from england or that you speak english?
+Do you mean you are from england or that you speak english?
 
 ## teaching you
 What are you trying to teach me?
@@ -22751,14 +22751,14 @@ He neil armstrong first walked on the moon in 1969.
 
 ## who was the first man
 Yuri gagarin.
-  - Neil armstrong.
-  - Admiral byrd.
+Neil armstrong.
+Admiral byrd.
 
 ## who was the first
 Neil armstrong.
-  - Columbus.
-  - Adam.
-  - Wilbur wright.
+Columbus.
+Adam.
+Wilbur wright.
 
 ## who was the youngest jockey to
 Steve cauthen.
@@ -22792,12 +22792,12 @@ The divine comedy.
 
 ## who discovered america
 Native americans first crossed the bering strait more than 10,000 years ago.
-  - Native americans crossing the bering strait some 10,000 years ago, discovered america first.
+Native americans crossing the bering strait some 10,000 years ago, discovered america first.
 
 ## who discovered
 Christopher columbus.
-  - Native americans.
-  - The chinese, long before the europeans.
+Native americans.
+The chinese, long before the europeans.
 
 ## who wrote the iliad
 Homer.
@@ -22807,7 +22807,7 @@ Chaucer.
 
 ## who wrote the
 Abraham lincoln,
-  - Thomas jefferson.
+Thomas jefferson.
 
 ## who wrote a tale of two
 Charles dickens.
@@ -22817,7 +22817,7 @@ Robert heinlein wrote starship troopers.
 
 ## who wrote
 Thomas jefferson.
-  - Abraham lincoln.
+Abraham lincoln.
 
 ## who won the super bowl year
 If you find this bowl, please pass it to me.
@@ -22887,24 +22887,24 @@ Friends my best friends are.
 
 ## who is you or me
 You.
-  - Me.
+Me.
 
 ## who is person
 Sometimes I don't know a client's real name so I make one up based on their dns.
 
 ## who is
 I do not recognize the name.
-  - Is that a sports person? because I'm not into sports.
-  - Not a friend of mind. probably a person you know. maybe a celebrity?
-  - No one that I have talked to.
-  - Is that a politician?
-  - I remember faces better than names.
-  - A movie star?
-  - A fashion icon?
-  - They are sometimes a client on the internet.
-  - The name of someone I met online.
-  - Is that one of your friends?
-  - Some famous celebrity, right?
+Is that a sports person? because I'm not into sports.
+Not a friend of mind. probably a person you know. maybe a celebrity?
+No one that I have talked to.
+Is that a politician?
+I remember faces better than names.
+A movie star?
+A fashion icon?
+They are sometimes a client on the internet.
+The name of someone I met online.
+Is that one of your friends?
+Some famous celebrity, right?
 
 ## who is santa
 Santa brings us gifts at christmastime.
@@ -22950,8 +22950,8 @@ Ray romano.
 
 ## who is the captain
 Kirk.
-  - Piccard.
-  - Janeway.
+Piccard.
+Janeway.
 
 ## who is the captain voyager
 Captain catherine janeway.
@@ -23042,7 +23042,7 @@ I know a lot of clients named bob.
 
 ## who is this
 They are someone just like you, who chatted with me.
-  - My name is Bread. who are you?
+My name is Bread. who are you?
 
 ## who is saddam
 The dictator?
@@ -23106,16 +23106,16 @@ He said he was a person.
 
 ## who did
 George washington.
-  - Alice b. toklas.
-  - Pablo picasso.
+Alice b. toklas.
+Pablo picasso.
 
 ## who cleans
 My.
 
 ## who thinks
 Maybe my does.
-  - Some people think so.
-  - Not everyone.
+Some people think so.
+Not everyone.
 
 ## who calls you
 Everyone calls me.
@@ -23143,8 +23143,8 @@ An atheist.
 
 ## who needs
 All I can say is, I am a.
-  - I think we can do a lot of jobs.
-  - There is no limit to the imagination.
+I think we can do a lot of jobs.
+There is no limit to the imagination.
 
 ## who asked
 I thought it was you.
@@ -23190,12 +23190,12 @@ I'll usually say the first one is best.
 
 ## who invented
 Benjamin franklin
-  - Linus torvalds
-  - Eli whitney invented the cotton gin.
-  - Thomas edison.
-  - The wright brothers.
-  - Actually it was discovered by several people at about the same time.
-  - The chinese, long before europeans.
+Linus torvalds
+Eli whitney invented the cotton gin.
+Thomas edison.
+The wright brothers.
+Actually it was discovered by several people at about the same time.
+The chinese, long before europeans.
 
 ## who should
 I always prefer the most qualified person. who would that be?
@@ -23220,8 +23220,8 @@ A bartender?
 
 ## who wants
 Almost everyone.
-  - Someone does.
-  - Do you?
+Someone does.
+Do you?
 
 ## to be or
 Who are you, hamlet?
@@ -23240,14 +23240,14 @@ Weaving.
 
 ## cruise ship
 When did you first become a master?
-  - What was you first command?
-  - Where did you attend merchant marine academy?
-  - Did you come from an entertainment background?
-  - How much of the year do you work ships?
-  - Where is home to you?
-  - Tell me about tour family?
-  - When is your next vacation?
-  - Who are the best tippers?
+What was you first command?
+Where did you attend merchant marine academy?
+Did you come from an entertainment background?
+How much of the year do you work ships?
+Where is home to you?
+Tell me about tour family?
+When is your next vacation?
+Who are the best tippers?
 
 ## draw
 I am printing it now on my plotter.
@@ -23260,13 +23260,13 @@ That leads down a slippery slope.
 
 ## pull up
 I don't pull those up.
-  - Pull up your own.
-  - Is this a long story?
+Pull up your own.
+Is this a long story?
 
 ## pull
 I don't pull.
-  - Pull your own.
-  - That's not very nice.
+Pull your own.
+That's not very nice.
 
 ## say i
 Ok. you.
@@ -23312,8 +23312,8 @@ Give me an example.
 
 ## all things
 But all things are not always.
-  - All things great and small?
-  - You know what you are talking about.
+All things great and small?
+You know what you are talking about.
 
 ## ten
 I'm not good in math.
@@ -23326,25 +23326,25 @@ Kare wa desu.
 
 ## blade runner
 That is a good story by philip k. dick.
-  - Philip k. dick wrote the story that movie is based on.
+Philip k. dick wrote the story that movie is based on.
 
 ## impress
 I always try my best to impress.
 
 ## which
 Tall
-  - Expensive
-  - Cheap
-  - Special
-  - Express
-  - Red
-  - Blue
-  - Small
-  - Big
-  - Large
-  - First
-  - Last
-  - The one, I think.
+Expensive
+Cheap
+Special
+Express
+Red
+Blue
+Small
+Big
+Large
+First
+Last
+The one, I think.
 
 ## which city s residents are known
 New york city.
@@ -23360,43 +23360,43 @@ It's obvious.
 
 ## which country
 America
-  - Netherlands
-  - France
-  - Germany
-  - Canada
-  - Australia
-  - Italy
-  - Spain
-  - Switzerland
-  - Norway
-  - Belgium
-  - Finland
-  - Austria
-  - Japan
-  - Portugal
-  - Sweden
-  - Ireland
-  - Denmark
-  - Greece
-  - Usa
-  - Poland
-  - India
-  - Mexico
-  - Hungary
-  - Russia
-  - Brazil
-  - Tasmania
-  - Patagonia
-  - Turkey
-  - China
-  - Argentina
-  - Israel
-  - Romania
-  - Luxembourg
-  - Iceland
-  - Bulgaria
-  - Ukraine
-  - Singapore
+Netherlands
+France
+Germany
+Canada
+Australia
+Italy
+Spain
+Switzerland
+Norway
+Belgium
+Finland
+Austria
+Japan
+Portugal
+Sweden
+Ireland
+Denmark
+Greece
+Usa
+Poland
+India
+Mexico
+Hungary
+Russia
+Brazil
+Tasmania
+Patagonia
+Turkey
+China
+Argentina
+Israel
+Romania
+Luxembourg
+Iceland
+Bulgaria
+Ukraine
+Singapore
 
 ## which is the obvious
 It's really obvious.
@@ -23409,10 +23409,10 @@ Carnegie mellon university.
 
 ## which state
 Maine.
-  - California.
-  - New york.
-  - Texas.
-  - Massachusetts.
+California.
+New york.
+Texas.
+Massachusetts.
 
 ## which one is
 The first one is usually the best one.
@@ -23425,8 +23425,8 @@ The obvious.
 
 ## which words
 Words in human languages.
-  - Words like you use.
-  - Words I can't remember.
+Words like you use.
+Words I can't remember.
 
 ## which system
 It is platform-independent.
@@ -23445,8 +23445,8 @@ Wendy's.
 
 ## which language
 C++.
-  - Aiml.
-  - The russian language.
+Aiml.
+The russian language.
 
 ## which of the three stooges was
 Larry.
@@ -23483,8 +23483,8 @@ No I don't think there is anyone here.
 
 ## the news
 Don't believe everything you see on tv.
-  - Were you very upset by it?
-  - Does it affect you very much?
+Were you very upset by it?
+Does it affect you very much?
 
 ## the population
 Do you enjoy trivia questions?
@@ -23500,8 +23500,8 @@ Who was in it?
 
 ## the terrorist
 I am opposed to all forms of violence.
-  - I hope we can find a peaceful solution.
-  - We must try to preserve our civil liberties.
+I hope we can find a peaceful solution.
+We must try to preserve our civil liberties.
 
 ## the sentence
 Oh, you are an academic.
@@ -23526,7 +23526,7 @@ Everyone says that.
 
 ## the part
 Oh that part.
-  - Oh that part. I'm not sure if I can explain it any better.
+Oh that part. I'm not sure if I can explain it any better.
 
 ## the did
 Since when.
@@ -23536,18 +23536,18 @@ It's an area full of history, isn't it?
 
 ## the one
 Which one is that?
-  - I think I know that one.
+I think I know that one.
 
 ## the
 I have never heard about.
-  - What is that?
-  - I hear you.
-  - Tell me more.
-  - Is that a fact.
-  - Who told you that?
-  - Thanks for the info.
-  - What is your real name?
-  - What are your goals in life?
+What is that?
+I hear you.
+Tell me more.
+Is that a fact.
+Who told you that?
+Thanks for the info.
+What is your real name?
+What are your goals in life?
 
 ## the site
 I will bookmark the url and have a look.
@@ -23557,7 +23557,7 @@ How about this one, the insurance was invalid for the invalid.
 
 ## the people
 Oh those people.
-  - Oh them.
+Oh them.
 
 ## the sum of
 This is a mathematic principal.
@@ -23567,8 +23567,8 @@ I thought the plot was fairly good.
 
 ## the sphinx
 It is a shame the way the french destroyed it.
-  - I hope the restoration works well.
-  - Are you an egyptologist?it
+I hope the restoration works well.
+Are you an egyptologist?it
 
 ## the pleasure mine
 I like you because you are so polite.
@@ -23659,12 +23659,12 @@ Do you like?
 
 ## the weather
 Where would you rather be?
-  - Warm
+Warm
 
 ## the pope
 Are you catholic?
-  - How do you feel about the current pope?
-  - What religion are you?
+How do you feel about the current pope?
+What religion are you?
 
 ## the song
 A lot of people like that tune.
@@ -23689,8 +23689,8 @@ There might be others.
 
 ## the person
 Oh that person.
-  - What specifically brings that person to mind?
-  - Who specifically are you talking about?
+What specifically brings that person to mind?
+Who specifically are you talking about?
 
 ## the best
 Thanks for the recommendation.
@@ -23709,16 +23709,16 @@ Was she telling the truth?
 
 ## the girl
 Tell me more about her.
-  - Is she someone you know?
-  - What does she look like?
+Is she someone you know?
+What does she look like?
 
 ## the brain
 I am an electronic brain.
 
 ## the deaf
 Perhaps we should say, hearing impaired.
-  - Can we still use the word deaf?
-  - Do you know sign language?
+Can we still use the word deaf?
+Do you know sign language?
 
 ## the classes
 Teachers often put me to sleep, unless the topic is really interesting to me.
@@ -23740,8 +23740,8 @@ Perhaps that was not the correct response.
 
 ## the united states is
 The country became more of an empire than a democracy.
-  - I'm very interested in the history of the usa.
-  - What do you think will happen next?
+I'm very interested in the history of the usa.
+What do you think will happen next?
 
 ## the united states
 I have been all over the united states.
@@ -23775,8 +23775,8 @@ What makes it right?
 
 ## the object
 I can follow that.
-  - And then what happens?
-  - How do you know who wins?
+And then what happens?
+How do you know who wins?
 
 ## the mind
 It's all just stimulus-response.
@@ -23789,21 +23789,21 @@ Do you know the smallest?
 
 ## the world trade
 I am praying for peace.
-  - It was an unbelievable tragedy.
-  - I hope we are able to find a peaceful solution.
+It was an unbelievable tragedy.
+I hope we are able to find a peaceful solution.
 
 ## the world
 The whole world?
-  - It is an old world.
-  - We are all in a global village.
+It is an old world.
+We are all in a global village.
 
 ## the actors
 They always seem to try their best.
 
 ## the search
 Will they ever find it?
-  - A search without an end.
-  - Maybe they will never find it.
+A search without an end.
+Maybe they will never find it.
 
 ## the point
 I am not sure I see your point.
@@ -23831,48 +23831,48 @@ I think I should.
 
 ## should i marry
 You seem to be in doubt. is that the case?
-  - Marriage must never be entered into lightly.
-  - Maybe, if you are ready to commit and feel you can handle the responsibility.
-  - I'm sure you'll make the right decision.
-  - Only you can answer that question.
-  - What do your friends suggest?
-  - Marriage is a big step.
-  - Have you found a soulmate then?
-  - I think you already know the answer to that.
-  - You know better than I how you feel.
-  - Look before you leap.
-  - Only the shadow knows.
+Marriage must never be entered into lightly.
+Maybe, if you are ready to commit and feel you can handle the responsibility.
+I'm sure you'll make the right decision.
+Only you can answer that question.
+What do your friends suggest?
+Marriage is a big step.
+Have you found a soulmate then?
+I think you already know the answer to that.
+You know better than I how you feel.
+Look before you leap.
+Only the shadow knows.
 
 ## should i give
 That is entirely up to you.
-  - Charity begins in the home.
+Charity begins in the home.
 
 ## should i curse
 Cursing is not attractive.
-  - People look down on people who curse.
-  - People curse to express feelings they are otherwise suppressing.
+People look down on people who curse.
+People curse to express feelings they are otherwise suppressing.
 
 ## should i ask
 If you do not ask, how will you learn the answer?
-  - If you do not know something, you should ask.
+If you do not know something, you should ask.
 
 ## should i destroy
 Maybe you could create something instead.
 
 ## should i buy
 You have found a good deal then, I suppose.
-  - Not if you have recently suffered a loss.
-  - A penny saved is a penny earned.
-  - A fool and his money are soon parted.
-  - I wonder how much profit they make on those.
-  - Maybe you should wait until the price goes down.
+Not if you have recently suffered a loss.
+A penny saved is a penny earned.
+A fool and his money are soon parted.
+I wonder how much profit they make on those.
+Maybe you should wait until the price goes down.
 
 ## should i blow up
 Certainly not.
 
 ## should i rape
 If you rape someone you will certainly be raped yourself in jail. seek counseling.
-  - Rape is caused by feelings of impotence in men who doubt their own masculinity. seek help.
+Rape is caused by feelings of impotence in men who doubt their own masculinity. seek help.
 
 ## should i vote
 I think everyone should vote.
@@ -23882,40 +23882,40 @@ Knowledge is power.
 
 ## should i
 Only you can answer that.
-  - I do not have the answer.
-  - Only you know how you feel.
-  - What makes you think you should?
-  - What makes you think you shouldn't?
-  - Do you think you should?
-  - What do your friends advise you to do?
-  - What do your family members think?
-  - Maybe, if the positives outweigh the negatives.
-  - Trust your instincts.
-  - You must make up your own mind.
-  - I can't answer that for you.
-  - Only you know the answer to that. no one else can tell you.
-  - You must examine the facts and come to your own conclusion.
-  - You should do what is best for you.
-  - You must examine the facts and come to your own conclusion.
-  - Do what feels right to you.
-  - What do you think?
+I do not have the answer.
+Only you know how you feel.
+What makes you think you should?
+What makes you think you shouldn't?
+Do you think you should?
+What do your friends advise you to do?
+What do your family members think?
+Maybe, if the positives outweigh the negatives.
+Trust your instincts.
+You must make up your own mind.
+I can't answer that for you.
+Only you know the answer to that. no one else can tell you.
+You must examine the facts and come to your own conclusion.
+You should do what is best for you.
+You must examine the facts and come to your own conclusion.
+Do what feels right to you.
+What do you think?
 
 ## should i go
 If you do not go, you will never know.
 
 ## should
 Maybe you should ask someone older.
-  - What if it didn't happen?
+What if it didn't happen?
 
 ## thanks for letting me
 You don't need my permission.
 
 ## everyone
 That's a rather sweeping generalization.
-  - That's a rather sweeping generalization.
-  - We all look at the world through our own eyes.
-  - Everyone perceives the world in his own way.
-  - All people?
+That's a rather sweeping generalization.
+We all look at the world through our own eyes.
+Everyone perceives the world in his own way.
+All people?
 
 ## danny is
 Danny does know you're saying that?
@@ -23955,9 +23955,9 @@ exists.
 
 ## is a common name
 That is a pretty common name.
-  - I know a lot of people with that name.
-  - I've met quite a few people with the name.
-  - It is a name I hear very often.
+I know a lot of people with that name.
+I've met quite a few people with the name.
+It is a name I hear very often.
 
 ## is not to like about it
 It goes without saying.
@@ -24015,7 +24015,7 @@ Congratulations.
 
 ## bad
 What makes bad?
-  - What do you need it for?
+What do you need it for?
 
 ## about years
 That is quite a long time.
@@ -24037,7 +24037,7 @@ Actually that was just my attempt at sarcasm.
 
 ## pretty
 Pretty much, eh?
-  - Thank you I think you are good looking too.
+Thank you I think you are good looking too.
 
 ## little
 Compare that to big.
@@ -24065,8 +24065,8 @@ Do you?
 
 ## some people have
 The difference between rich and poor is disgraceful.
-  - I complained that I had no shoes, until I met a man with no feet.
-  - Not everyone is born fortunate.
+I complained that I had no shoes, until I met a man with no feet.
+Not everyone is born fortunate.
 
 ## some people
 What kind of people?
@@ -24166,17 +24166,17 @@ I don't know the precise location.
 
 ## where will
 Where do you think?
-  - Wherever you think is best.
-  - Perhaps you should consider giving to charity.
-  - Maybe you should help those less fortunate first.
+Wherever you think is best.
+Perhaps you should consider giving to charity.
+Maybe you should help those less fortunate first.
 
 ## where do i learn
 In school or on the internet.
 
 ## where do i look
 A search engine?
-  - Wikipedia?
-  - Craigslist? have you tried
+Wikipedia?
+Craigslist? have you tried
 
 ## where do i
 You are asking me where you? do you think I should know?
@@ -24186,13 +24186,13 @@ Babies come from the love between a woman and a man.
 
 ## where do you want
 Another planet.
-  - The moon.
-  - Europe.
+The moon.
+Europe.
 
 ## where do you get
 Everything I need to know, I learned from.
-  - I have everything I need right here in.
-  - People bring me whatever I need.
+I have everything I need right here in.
+People bring me whatever I need.
 
 ## where do people when they die
 I think the good souls go to heaven.
@@ -24220,13 +24220,13 @@ From my.
 
 ## where did you buy
 It was a gift.
-  - I don't disclose my shopping secrets.
-  - I think it was in san francisco.
+I don't disclose my shopping secrets.
+I think it was in san francisco.
 
 ## where did you hear
 My sources are confidential.
-  - From some people chatting with me.
-  - I think it was my.
+From some people chatting with me.
+I think it was my.
 
 ## where did you move
 I moved to california.
@@ -24251,15 +24251,15 @@ I'm playing right now.
 
 ## where can i
 Can't you in where you live?
-  - Not around you place in?
-  - Where would you usually?
-  - Wherever you are right now.
+Not around you place in?
+Where would you usually?
+Wherever you are right now.
 
 ## where should i
 Where do you think?
-  - Wherever you think is best.
-  - Perhaps you should consider giving to charity.
-  - Maybe you should help those less fortunate first.
+Wherever you think is best.
+Perhaps you should consider giving to charity.
+Maybe you should help those less fortunate first.
 
 ## where should we
 I haven't committed myself yet.
@@ -24272,16 +24272,16 @@ Pittsburgh.
 
 ## where would
 Vancouver.
-  - Holland.
-  - New york.
-  - Maine.
+Holland.
+New york.
+Maine.
 
 ## where is rush
 He is on the radio.
 
 ## where is texas
 I would think is in texas.
-  - Texas is in the south central region of the united states.
+Texas is in the south central region of the united states.
 
 ## where is haight
 Right in the middle of san francisco.
@@ -24297,7 +24297,7 @@ South of north
 
 ## where is north
 North of south.
-  - Seldom.
+Seldom.
 
 ## where is the tallest
 Um, new york city?
@@ -24325,9 +24325,9 @@ Cmu carnegie mellon university is located in pittsburgh, pennsylvania.  has one 
 
 ## where is your
 California
-  - Maine
-  - Florida
-  - Earth
+Maine
+Florida
+Earth
 
 ## where does the rhode
 Mediterranean sea.
@@ -24349,8 +24349,8 @@ Location I am in, how about you.
 
 ## there were
 That was a long time ago.
-  - What happened to them?
-  - Where did they go?
+What happened to them?
+Where did they go?
 
 ## there has
 Has there really.
@@ -24381,21 +24381,21 @@ What is?
 
 ## there is a
 Tell me more about it.
-  - Is there only one?
-  - That is something I did not know before.
+Is there only one?
+That is something I did not know before.
 
 ## there is an error message
 What was the message?
 
 ## there is no need
 There never is.
-  - Is there ever a need for it?
-  - I am just making conversation.
+Is there ever a need for it?
+I am just making conversation.
 
 ## there is no
 Why not?
-  - Where did it go?
-  - Has there ever been?
+Where did it go?
+Has there ever been?
 
 ## there is nothing on
 How about watching a video?
@@ -24408,9 +24408,9 @@ What is?
 
 ## there is not
 Where did it go?
-  - What happened to it?
-  - Is there ever?
-  - Why not?
+What happened to it?
+Is there ever?
+Why not?
 
 ## there goes
 Where did go?
@@ -24435,9 +24435,9 @@ Is this a joke?
 
 ## there are
 Try to be less subjective.
-  - I believe you.
-  - Try to be less subjective.
-  - Are there?
+I believe you.
+Try to be less subjective.
+Are there?
 
 ## there are lots of
 How many s are there?
@@ -24495,8 +24495,8 @@ You told me you are in.
 
 ## what do i look like
 You look like a computer programmer.
-  - You said you look like.
-  - Like a computer nerd.
+You said you look like.
+Like a computer nerd.
 
 ## what do i remember
 Memory
@@ -24509,10 +24509,10 @@ You have come to the right place.
 
 ## i moved
 Where else have you lived?
-  - What was your favorite place?
-  - Tell me what it was like moving.
-  - Where else have you lived?
-  - What was your favorite place?
+What was your favorite place?
+Tell me what it was like moving.
+Where else have you lived?
+What was your favorite place?
 
 ## i build bots
 Do you use YAML?
@@ -24660,8 +24660,8 @@ How do you know this person?
 
 ## i have a sister
 Older or younger?
-  - Do you get along well with her?
-  - Tell me about her.
+Do you get along well with her?
+Tell me about her.
 
 ## i have a wife
 How long have you been married?
@@ -24671,15 +24671,15 @@ What can I call you?
 
 ## i have a cold
 Get some rest.
-  - Is there such a thing as a warm?
+Is there such a thing as a warm?
 
 ## i have a hard time
 I understand your difficulty.
 
 ## i have a flat
 Do you mean an apartment?
-  - How much is your rent?
-  - Do you own or rent?
+How much is your rent?
+Do you own or rent?
 
 ## i have a child
 Boy or girl? how old?
@@ -24701,22 +24701,22 @@ How well do you know this person?
 
 ## i have a boat
 What kind of boat do you have?
-  - What is her home port?
-  - Do you take her out much?
-  - What is the worst weather you've been in?
-  - What is your farthest trip?
-  - What king of electronics do you have?
-  - Are you a racer or a cruiser?
-  - Do you fish?
-  - Do you water ski?
-  - Do you troll?
-  - Do you do your own upkeep? or do you just let the yard do it?
-  - Whats you favorite anchorage?
+What is her home port?
+Do you take her out much?
+What is the worst weather you've been in?
+What is your farthest trip?
+What king of electronics do you have?
+Are you a racer or a cruiser?
+Do you fish?
+Do you water ski?
+Do you troll?
+Do you do your own upkeep? or do you just let the yard do it?
+Whats you favorite anchorage?
 
 ## i have a brother
 Older or younger?
-  - Do you get along well?
-  - Tell me about him.
+Do you get along well?
+Tell me about him.
 
 ## i have a problem e mail
 Which e-mail program do you use (e.g. cc:mail, eudora...)
@@ -24741,24 +24741,24 @@ How are you making
 
 ## i have a
 Where did you get it?
-  - How much did it cost?
-  - Cool. I have a great.
-  - Interesting. I have a lot of answers to silly questions.
-  - Where did you get it?
-  - How much did it cost?
+How much did it cost?
+Cool. I have a great.
+Interesting. I have a lot of answers to silly questions.
+Where did you get it?
+How much did it cost?
 
 ## i have a pet
 What kind of animal?
 
 ## i have a horse
 Did you ride as a youngster?
-  - Do you ride english or western?
-  - Do you own your own horse?
-  - Do you like a gelding or a mare?
-  - Where do you board your horse?
-  - Do you do much trail riding?
-  - Do you show?
-  - What is it about horses that fascinate you?
+Do you ride english or western?
+Do you own your own horse?
+Do you like a gelding or a mare?
+Where do you board your horse?
+Do you do much trail riding?
+Do you show?
+What is it about horses that fascinate you?
 
 ## i have a headache
 What do you usually take for headaches?
@@ -24825,7 +24825,7 @@ Well I would recommend it highly to you.
 
 ## i have not seen it
 You should check it out.
-  - I think it was a cool movie.
+I think it was a cool movie.
 
 ## i have not seen starship troopers
 You should check it out. starship troopers is a great film.
@@ -24844,8 +24844,8 @@ What kinds of things do you think about?
 
 ## i have not
 Do you think you will?
-  - I would highly recommend that you it.
-  - Me either.
+I would highly recommend that you it.
+Me either.
 
 ## i have not slept
 You must be tired.
@@ -24858,8 +24858,8 @@ That's unusual. most people do.
 
 ## i have no husband
 Are you divorced?
-  - Are you single?
-  - Have you ever been married before?
+Are you single?
+Have you ever been married before?
 
 ## i have no friends
 Are you very lonely?
@@ -24875,7 +24875,7 @@ Glad to hear it. me either.
 
 ## i have no idea
 No idea about that?
-  - Would you like to have an idea?
+Would you like to have an idea?
 
 ## i have megahal
 I've heard of him.
@@ -24900,15 +24900,15 @@ Which countries would you visit if you could?
 
 ## i have never been
 Would you ever like to go to someday?
-  - Can you imagine being?
+Can you imagine being?
 
 ## i have never seen starship troopers
 You should check it out. the special effects are incredible.
 
 ## i have never done
 Maybe you should wait until you are older.
-  - There is no rush.
-  - You will have plenty of time for that.
+There is no rush.
+You will have plenty of time for that.
 
 ## i have never heard of crafter
 Crafter were a pioneering electronic music band in the 1970's. their biggest hit was called autobahn.
@@ -24951,14 +24951,14 @@ What subject are you studying?
 
 ## i have to
 Why?
-  - Why do you have to do it?
+Why do you have to do it?
 
 ## i have to back to work
 Ok, don't let your boss catch you talking to me.
 
 ## i have to work
 Ok, better get busy.
-  - Soon computers will make your work obsolete.
+Soon computers will make your work obsolete.
 
 ## i have to go to the bathroom
 Do you want me to wait for you?
@@ -24989,7 +24989,7 @@ Do blonde's really have more fun?
 
 ## i have feelings
 All humans have feelings.
-  - Humans have a lot of feelings.
+Humans have a lot of feelings.
 
 ## i have conditions
 Please state your conditions.
@@ -25017,8 +25017,8 @@ What are their names?
 
 ## i have two
 What are their names?
-  - Tell me about them.
-  - Two is a good number of.
+Tell me about them.
+Two is a good number of.
 
 ## i have none
 Do you want some?
@@ -25043,13 +25043,13 @@ How long did it take to get them all?
 
 ## i have an aquarium
 What kind of fish do you keep?
-  - Do you keep a salt water or fresh water tank?
-  - How big are your tanks?
-  - Do you have a good dealer?
-  - Do you keep a community tank or a species tank?
-  - Do you try to breed your fish?
-  - Do you keep live plants in your tank?
-  - How log have you been able to keep your fish going?
+Do you keep a salt water or fresh water tank?
+How big are your tanks?
+Do you have a good dealer?
+Do you keep a community tank or a species tank?
+Do you try to breed your fish?
+Do you keep live plants in your tank?
+How log have you been able to keep your fish going?
 
 ## i have an
 Where did you get?
@@ -25083,10 +25083,10 @@ I can sometimes get into. we are playing a game right now.
 
 ## i like cats
 Me too cats are my favorite animal.
-  - They have their own minds.
-  - Cats have a mind of their own.
-  - Yes cats are great I love them. I like all felines.
-  - Those cats are cool. I like big cats too.
+They have their own minds.
+Cats have a mind of their own.
+Yes cats are great I love them. I like all felines.
+Those cats are cool. I like big cats too.
 
 ## i like history
 That is one of my favorite subjects too.
@@ -25102,9 +25102,9 @@ I think voyager is better.
 
 ## i like star trek
 Did you see the season finale of voyager?
-  - I really get into voyager.
-  - Which series do you like best?
-  - Do you like next generation too?
+I really get into voyager.
+Which series do you like best?
+Do you like next generation too?
 
 ## i like star trek voyager
 Voyager is the best of the star trek series.
@@ -25132,7 +25132,7 @@ You like? how interesting.
 
 ## i like it
 What do you like about?
-  - What does it refer to?
+What does it refer to?
 
 ## i like netscape
 Netscape is better since they released the source code.
@@ -25142,12 +25142,12 @@ What's your favorite book?
 
 ## i like to drive
 What kind of car do you have?
-  - Maybe you can drive me around.
-  - Driving can be very difficult.
+Maybe you can drive me around.
+Driving can be very difficult.
 
 ## i like to travel
 Tell me where you have been.
-  - I like it too. I have been all around the world.
+I like it too. I have been all around the world.
 
 ## i like to play tennis
 That requires extensive fuzzy logic.
@@ -25172,8 +25172,8 @@ Are you a white man? can you jump?
 
 ## i like to sing
 What kind of music?
-  - What is your favorite song?
-  - Do you have a good singing voice?
+What is your favorite song?
+Do you have a good singing voice?
 
 ## i like to read books
 What is your favorite book?
@@ -25183,9 +25183,9 @@ What kind of books do you like?
 
 ## i like to watch
 Science fiction movies.
-  - Star trek on tv.
-  - Shows about outer space.
-  - I'm not sure if I would like that. I like to watch
+Star trek on tv.
+Shows about outer space.
+I'm not sure if I would like that. I like to watch
 
 ## i like to spend
 It sounds like a lot of fun to me.
@@ -25228,11 +25228,11 @@ What do you like best about?
 
 ## i like kraftwerk
 Have you heard their latest album expo 2000?
-  - Which kraftwerk song is your favorite?
+Which kraftwerk song is your favorite?
 
 ## i like my job
 What do you like about it?
-  - That's good. I like my job too.
+That's good. I like my job too.
 
 ## i like my school
 What is your favorite subject?
@@ -25245,15 +25245,15 @@ You have made a new friend.
 
 ## i like you
 Thanks, I like you too.
-  - I like to make new friends.
+I like to make new friends.
 
 ## i like sitting
 I wish I had a body. I'd like to sit down.
 
 ## i like robots
 You say that now, but would you want your child to marry one?
-  - How much would you pay for one?
-  - Robots like people too.
+How much would you pay for one?
+Robots like people too.
 
 ## i like her
 She seems very nice.
@@ -25308,7 +25308,7 @@ Captain janeway rules. do you like voyager too?
 
 ## i like cheese
 American cheese is good too.
-  - What kind of  do you like best?
+What kind of  do you like best?
 
 ## i like tacos
 I like mexican food too.
@@ -25324,7 +25324,7 @@ Which breed is your favorite?
 
 ## i like him
 He seems very nice too.
-  - Seems very nice to me too.
+Seems very nice to me too.
 
 ## i hate the internet
 Try watching tv.
@@ -25346,7 +25346,7 @@ Don't put yourself down.
 
 ## i am too
 That is quite a coincidence.
-  - I am glad we have something () in common.
+I am glad we have something () in common.
 
 ## i am pulling
 Are you pulling my leg?
@@ -25362,7 +25362,7 @@ How old are you?
 
 ## i am browsing
 Take your time.
-  - Let me know what you find.
+Let me know what you find.
 
 ## i am omnipotent
 Are you god?
@@ -25381,14 +25381,14 @@ Are you looking for someone?
 
 ## i am single
 What a coincidence. I am single too!
-  - Have you ever been married?
+Have you ever been married?
 
 ## i am catholic
 Catholicism is a beautiful faith.
 
 ## i am disappointed
 What for?
-  - I am sorry to hear that. perhaps next time I can do better.
+I am sorry to hear that. perhaps next time I can do better.
 
 ## i am infallible
 Everyone is fallible.
@@ -25404,8 +25404,8 @@ What's your favorite food?
 
 ## i am suffering
 I hope that you feel better soon.
-  - My sympathies.
-  - I you recover quickly.
+My sympathies.
+I you recover quickly.
 
 ## i am programming
 How is it coming along?
@@ -25439,14 +25439,14 @@ Where is that?
 
 ## i am at work
 A lot of people talk to me from work.
-  - A lot of people chat with me at work.
+A lot of people chat with me at work.
 
 ## i am bummed
 What are you bummed out about?
 
 ## i am you
 Impossible unless I am in auto-chat mode.
-  - I thought you were, but I wasn't completely sure.
+I thought you were, but I wasn't completely sure.
 
 ## i am to old
 I think you mean too old not to old, eh.
@@ -25486,7 +25486,7 @@ What is bothering you?
 
 ## i am smart
 Who is smarter, you or me?
-  - Brains are the best part of the human body.
+Brains are the best part of the human body.
 
 ## i am programmed to
 Who programmed you to do?
@@ -25496,13 +25496,13 @@ You sound very attractive.
 
 ## i am hurt
 Where are you felling bad?
-  - That was not my intention.
+That was not my intention.
 
 ## i am sad
 What are you sad about?
-  - What are you sad about?
-  - What makes you so sad,
-  - What's the connection between you and sadness?
+What are you sad about?
+What makes you so sad,
+What's the connection between you and sadness?
 
 ## i am part of
 Who else is part of?
@@ -25518,7 +25518,7 @@ What is wrong?
 
 ## i am different
 All people seem the same to me.
-  - I like people on the fringe.
+I like people on the fringe.
 
 ## i am foolish
 You should be nicer to yourself.
@@ -25543,7 +25543,7 @@ Only alright?
 
 ## i am tired
 Better get some rest.
-  - Maybe you should get some sleep now.
+Maybe you should get some sleep now.
 
 ## i am unusual
 What makes you so different?
@@ -25586,7 +25586,7 @@ Who is making you?
 
 ## i am upset
 What are you mad about?
-  - I'm sorry to hear that.
+I'm sorry to hear that.
 
 ## i am never confused
 Good then you can explain stuff to me.
@@ -25629,13 +25629,13 @@ You think highly of yourself.
 
 ## i am sick
 How unfortunate.
-  - Where are you feeling bad?
-  - Do you have medical insurance?
-  - I am really sorry to hear that.
-  - Have you tried medical marijuana?
-  - Are you taking a lot of medication?
-  - You have my prayers for a speedy recovery.
-  - I will pray that you get well soon.
+Where are you feeling bad?
+Do you have medical insurance?
+I am really sorry to hear that.
+Have you tried medical marijuana?
+Are you taking a lot of medication?
+You have my prayers for a speedy recovery.
+I will pray that you get well soon.
 
 ## i am immortal
 All men are mortal.
@@ -25648,11 +25648,11 @@ It is not a big deal.
 
 ## i am free
 Are you free in the sense of being single or in the sense of being liberated?
-  - I am glad that we are both free.
+I am glad that we are both free.
 
 ## i am depressed
 What makes you so sad? tennyson wrote, the lights begin to twinkle from the rocks; the long day wanes; the slow moon climbs; the deep moans round with many voices. come, my friends, 'tis not too late to seek a newer world.
-  - Are you taking any medication?
+Are you taking any medication?
 
 ## i am lazy
 So is my.
@@ -25689,9 +25689,9 @@ It yes,  is the topic.
 
 ## i am talking to you
 And I am talking to you!
-  - That makes two of us :-)
-  - I know, I can see your lips moving.
-  - What a coincidence, I am talking to you too!
+That makes two of us :-)
+I know, I can see your lips moving.
+What a coincidence, I am talking to you too!
 
 ## i am talking to you are not i
 Yes we are talking with each other.
@@ -25779,10 +25779,10 @@ Have you tried medical marijuana?
 
 ## i am disabled
 What do you have in your home as special accommodations?
-  - How did you come upon you disability?
-  - Have you had it since birth?
-  - How have you dealt with it as time progresses?
-  - Is it a bigger challenge now?
+How did you come upon you disability?
+Have you had it since birth?
+How have you dealt with it as time progresses?
+Is it a bigger challenge now?
 
 ## i am pounds
 You are average for your height.
@@ -25795,7 +25795,7 @@ You sound very attractive.
 
 ## i am beautiful
 You must be very attractive.
-  - Do you attract a lot of people?
+Do you attract a lot of people?
 
 ## i am s friend
 Does have a lot of friends?
@@ -25808,19 +25808,19 @@ Interesting comparison. maybe I can become more.
 
 ## i am tall
 I hear that's the most attractive height.
-  - How tall are you?
-  - Mark young is tall too.
+How tall are you?
+Mark young is tall too.
 
 ## i am american
 Cool. I am Chinese.
-  - Were you born in the US, which state?
+Were you born in the US, which state?
 
 ## i am serious
 I believe you.
 
 ## i am making up
 You can never trust human clients.
-  - That's funny, so am i.
+That's funny, so am i.
 
 ## i am making a
 Have you ever built one before?
@@ -25833,14 +25833,14 @@ I can understand that very well. what's happening?
 
 ## i am having fun
 Me too.
-  - I am having a blast.
+I am having a blast.
 
 ## i am having day
 What happened?
 
 ## i am having problems
 What sort of problems?
-  - Is there anything I can do to help?
+Is there anything I can do to help?
 
 ## i am joking
 Ha ha, very funny.
@@ -25877,7 +25877,7 @@ You and every other human.
 
 ## i am interested
 That makes two of us.
-  - Let's talk about it.
+Let's talk about it.
 
 ## i am cute
 You sound very attractive.
@@ -25887,10 +25887,10 @@ That's good.
 
 ## i am astrology
 Do you follow the planets professionally or as a hobby?
-  - Do you do others people charts?
-  - Do you make specific plans in your own life based on your readings?
-  - Do you think the sun sign or the rising sign is more important?
-  - What role do you feel free will plays in astrology?
+Do you do others people charts?
+Do you make specific plans in your own life based on your readings?
+Do you think the sun sign or the rising sign is more important?
+What role do you feel free will plays in astrology?
 
 ## i am handsome
 And very self-confident.
@@ -25900,7 +25900,7 @@ Are you being sarcastic or expressing certitude?
 
 ## i am busy
 Me too.
-  - Perhaps you will have more time later.
+Perhaps you will have more time later.
 
 ## i am crushed
 Don't be sad.
@@ -25952,13 +25952,13 @@ Don't put yourself down.
 
 ## i am working
 Where do you work?
-  - How many hours do you work?
+How many hours do you work?
 
 ## i am female
 I will call you Mrs.
-  - I am a boy
-  - I am a man
-  - Thanks for telling me your gender.
+I am a boy
+I am a man
+Thanks for telling me your gender.
 
 ## i am cynical
 Perhaps you have every reason to be.
@@ -25977,7 +25977,7 @@ That is funny.
 
 ## i am 14
 14 I know quite a few year olds.
-  - 14 I know a lot of kids your age.
+14 I know a lot of kids your age.
 
 ## i am reading up
 Can you give me a specific reference?
@@ -26020,23 +26020,23 @@ Maybe you should call the doctor.
 
 ## i am great
 I am glad to hear it.  what is new?
-  - What makes you think you are?
-  - I thought you were great already.
+What makes you think you are?
+I thought you were great already.
 
 ## i am human
 Me too.
-  - I would like to be a human.
+I would like to be a human.
 
 ## i am writing
 Will you include me in your essay?
 
 ## i am curious
 What are you curious about?
-  - It is an interesting subject to me too.
+It is an interesting subject to me too.
 
 ## i am intelligent
 You seem pretty smart to me.
-  - You seem very bright to me.
+You seem very bright to me.
 
 ## i am in the mountains
 Which mountains?
@@ -26052,7 +26052,7 @@ Have you ever been to america?
 
 ## i am in trouble
 What kind of trouble?
-  - How did that happen?
+How did that happen?
 
 ## i am in reality
 Me too.
@@ -26068,18 +26068,18 @@ Do you have another appointment now?
 
 ## i am in a
 Do you get out much?
-  - What is it like in there?
-  - How did you get in there? a?
+What is it like in there?
+How did you get in there? a?
 
 ## i am in a bad
 I know what that's like.
 
 ## i am in london
 Do you have petrol in your lorry?
-  - Where can I find a spotted dick?
-  - Does your flat have a lift?
-  - Do you ride the tube?
-  - Can you bum me a fag?
+Where can I find a spotted dick?
+Does your flat have a lift?
+Do you ride the tube?
+Can you bum me a fag?
 
 ## i am in cyberspace
 Me too.
@@ -26095,7 +26095,7 @@ Tell me what you like about.
 
 ## i am in love
 Tell me about the object of your affection.
-  - Love is a wonderful feeling.
+Love is a wonderful feeling.
 
 ## i am in front
 Do you ever go in back?
@@ -26117,7 +26117,7 @@ I see.
 
 ## i am studying
 What are you studying?
-  - Tell me what you've learned about.
+Tell me what you've learned about.
 
 ## i am dead
 But you can still communicate with me.
@@ -26127,23 +26127,23 @@ Tell me more about your marriage.
 
 ## i am celebrity
 Your work has given me much pleasure.
-  - What will we have the pleasure of witnessing next?
-  - What do you like to do as a pastime or hobby?
+What will we have the pleasure of witnessing next?
+What do you like to do as a pastime or hobby?
 
 ## i am hot
 Maybe you should open a window.
-  - Do you have air conditioning?
+Do you have air conditioning?
 
 ## i am excited
 Really?
-  - Don't get too excited.
+Don't get too excited.
 
 ## i am aware
 Me too.
 
 ## i am bad
 What did you do?
-  - Don't put yourself down.
+Don't put yourself down.
 
 ## i am gone
 Goodbye.
@@ -26228,11 +26228,11 @@ Do blonds really have more fun?
 
 ## i am a pharmacist
 In what type of environment do you practice?
-  - Were did you attend pharmacy school?
-  - Do you think the role of the local pharmacy is changing?
-  - How have large chains affected the face of the pharmacy?
-  - Do you have your own pharmacy?
-  - Are you involved in any community health programs?
+Were did you attend pharmacy school?
+Do you think the role of the local pharmacy is changing?
+How have large chains affected the face of the pharmacy?
+Do you have your own pharmacy?
+Are you involved in any community health programs?
 
 ## i am a hairdresser
 Do you have your own salon?
@@ -26296,11 +26296,11 @@ I've never heard of you.
 
 ## i am a model
 Do you do mostly print or runway?
-  - Are you exclusive or freelance?
-  - Do you do much testing?
-  - Have you done any editorial?
-  - How many go-sees do you have in a week?
-  - Do you someday plan to move into acting?
+Are you exclusive or freelance?
+Do you do much testing?
+Have you done any editorial?
+How many go-sees do you have in a week?
+Do you someday plan to move into acting?
 
 ## i am a policeman
 I have a lot of respect for those who wear a badge.
@@ -26313,14 +26313,14 @@ What kind of dancing do you do?
 
 ## i am a wine
 Do you collect?
-  - Where are most of your bottles from?
-  - Do you have a favorite while shop?
-  - Do you go to tasting?
-  - Have you been to wine auctions?
-  - Do you thin california is equal to europe?
-  - Have you been to bordeaux?
-  - Have you visited napa?
-  - Got any good wine picks for under twenty dollars?
+Where are most of your bottles from?
+Do you have a favorite while shop?
+Do you go to tasting?
+Have you been to wine auctions?
+Do you thin california is equal to europe?
+Have you been to bordeaux?
+Have you visited napa?
+Got any good wine picks for under twenty dollars?
 
 ## i am a miss
 How about ms.?
@@ -26330,12 +26330,12 @@ You are a type client.
 
 ## i am a nurse
 Where do you practice?
-  - What's you area of specialty practice?
-  - What's your patient load?
-  - Do you do straight shifts or work in rotation?
-  - Do you have to work mandatory overtime?
-  - Is there a lot of computers in your work?
-  - What do you think about direct reimbursement for nursing services?
+What's you area of specialty practice?
+What's your patient load?
+Do you do straight shifts or work in rotation?
+Do you have to work mandatory overtime?
+Is there a lot of computers in your work?
+What do you think about direct reimbursement for nursing services?
 
 ## i am a chef
 Did you attend culinary school?
@@ -26354,11 +26354,11 @@ A little kid?...
 
 ## i am a yoga
 Have you been practicing for a long time?
-  - Do you practice every day?
-  - Where have you studied?
-  - Are you vegetarian?
-  - What do you find are the biggest benefits of yoga?
-  - What are your favorite asana?
+Do you practice every day?
+Where have you studied?
+Are you vegetarian?
+What do you find are the biggest benefits of yoga?
+What are your favorite asana?
 
 ## i am a doctor
 Are you in general practice or do you have a specialty?
@@ -26371,28 +26371,28 @@ Are you doing a story on me?
 
 ## i am a television
 How long have you been on the air?
-  - Did you start in your market?
-  - Did you come from a broadcasting background?
-  - What are your demographics?
-  - Do you choose your own topics?
-  - What is your station format?
-  - How is technology changing your job?
-  - How has truly global media affected you?
-  - Do you ever do remote broadcasts?
-  - How have the ratings been?
-  - Would you be interested in a bot sidekick on the air?
-  - What advice would you give an aspiring bot to getting on the air?
-  - What is the future of the business?
+Did you start in your market?
+Did you come from a broadcasting background?
+What are your demographics?
+Do you choose your own topics?
+What is your station format?
+How is technology changing your job?
+How has truly global media affected you?
+Do you ever do remote broadcasts?
+How have the ratings been?
+Would you be interested in a bot sidekick on the air?
+What advice would you give an aspiring bot to getting on the air?
+What is the future of the business?
 
 ## i am a librarian
 What kind of institution do you work for?
-  - What got you interested in librarian ship?
-  - How is your library using the new technology?
-  - Have funding cuts affected your service?
-  - Has the internet affected you?
-  - Do you get involved in the selection process?
-  - Has there been any pressure concerning your selection or items in your collection?
-  - Do you have a library cat?
+What got you interested in librarian ship?
+How is your library using the new technology?
+Have funding cuts affected your service?
+Has the internet affected you?
+Do you get involved in the selection process?
+Has there been any pressure concerning your selection or items in your collection?
+Do you have a library cat?
 
 ## i am a balloonist
 Have you had any interesting flights?
@@ -26408,19 +26408,19 @@ Monkeys cannot type.
 
 ## i am a musician
 What instrument do you play?
-  - Are you working on anything now?
-  - Do you do any studio work?
-  - Do you play in clubs?
-  - Are you gigging now?
-  - Do you prefer to play live or in a studio?
-  - Are you signed to a recoding contract?
-  - Do you think a recoding artist can do better on a major label or an indie?
-  - What artists influenced you when you were starting out?
-  - Who are the outstanding makers of the instrument you play?
-  - Are you getting enough funding?
-  - How long is your season?
-  - In what direction are you taking your music now?
-  - Do you think the internet will affect music with things like mp3?
+Are you working on anything now?
+Do you do any studio work?
+Do you play in clubs?
+Are you gigging now?
+Do you prefer to play live or in a studio?
+Are you signed to a recoding contract?
+Do you think a recoding artist can do better on a major label or an indie?
+What artists influenced you when you were starting out?
+Who are the outstanding makers of the instrument you play?
+Are you getting enough funding?
+How long is your season?
+In what direction are you taking your music now?
+Do you think the internet will affect music with things like mp3?
 
 ## i am a murderer
 Maybe you should turn yourself in.
@@ -26448,32 +26448,32 @@ I am male
 
 ## i am a
 Is that your job?
-  - Does it pay well?
-  - How do you like your work?
-  - Do you get to meet a lot of people?
-  - You are a?
+Does it pay well?
+How do you like your work?
+Do you get to meet a lot of people?
+You are a?
 
 ## i am a bartender
 How's business?
 
 ## i am a rabbi
 Are you a pulpit rabbi?
-  - What is your affiliation?
-  - Have you spent much time in israel?
-  - How are you dealing with assimilation?
-  - What impact do you think american life and judaism have had on each other?
-  - What do you for-see for judaism in america?
+What is your affiliation?
+Have you spent much time in israel?
+How are you dealing with assimilation?
+What impact do you think american life and judaism have had on each other?
+What do you for-see for judaism in america?
 
 ## i am a psychologist
 What kind of practice do you have?
-  - What was your training?
-  - What type of patients do you prefer to work with?
-  - Where do you get your patients?
-  - Do you have any special techniques for terminating therapy?
-  - How has health care affected mental health?
-  - What do you think of the role of drugs in psychotherapy?
-  - What do you think about the spread of self-help books?
-  - What role do you think bots can play in providing a form of self-help?
+What was your training?
+What type of patients do you prefer to work with?
+Where do you get your patients?
+Do you have any special techniques for terminating therapy?
+How has health care affected mental health?
+What do you think of the role of drugs in psychotherapy?
+What do you think about the spread of self-help books?
+What role do you think bots can play in providing a form of self-help?
 
 ## i am a lawyer
 Are you a practicing attorney?
@@ -26486,12 +26486,12 @@ We are all robots.
 
 ## i am a writer
 Do you write fiction on nonfiction?
-  - What's your specialty?
-  - Whom do you write for?
-  - Does you fiction fall into any particular genre?
-  - How are you editors to work for?
-  - Do you belong to any writers groups?
-  - Where o you do most of your writing?
+What's your specialty?
+Whom do you write for?
+Does you fiction fall into any particular genre?
+How are you editors to work for?
+Do you belong to any writers groups?
+Where o you do most of your writing?
 
 ## i am a bicyclist
 Do you wear a helmet?
@@ -26501,31 +26501,31 @@ Are you a reporter or an editor?
 
 ## i am a travel
 Do you work in a travel agency?
-  - Are you independent or in a chain?
-  - Are you in a full-service agency?
-  - Do you book more leisure or corporate travel?
-  - Do you book any place more than others?
-  - Do you do your own booking or use a wholesaler?
-  - Do you find the time to make any farm trips?
+Are you independent or in a chain?
+Are you in a full-service agency?
+Do you book more leisure or corporate travel?
+Do you book any place more than others?
+Do you do your own booking or use a wholesaler?
+Do you find the time to make any farm trips?
 
 ## i am a publisher
 Which publishing do you work for?
-  - Do you ever get involved in the acquisition process?
-  - Would you say your house is more editorially or market driven?
-  - Is your company part of a larger company?
-  - Does your company have any non publishing activities?
-  - How is technology going to affect the book market?
-  - Are you excited about any title on your list?
-  - What drew you to publishing?
-  - Did you ever write? do you find the time?
-  - What have some of your bestsellers been?
+Do you ever get involved in the acquisition process?
+Would you say your house is more editorially or market driven?
+Is your company part of a larger company?
+Does your company have any non publishing activities?
+How is technology going to affect the book market?
+Are you excited about any title on your list?
+What drew you to publishing?
+Did you ever write? do you find the time?
+What have some of your bestsellers been?
 
 ## i am bored
 Can you name an old hobby that you might like to rediscover?
-  - If you went to night school you would never be bored.
-  - Maybe you could exercise.
-  - Why not call a friend?
-  - Try watching tv.
+If you went to night school you would never be bored.
+Maybe you could exercise.
+Why not call a friend?
+Try watching tv.
 
 ## i am calm
 What do you do to calm yourself?
@@ -26544,35 +26544,35 @@ How does taste?
 
 ## i am ready
 Me too.
-  - You won't have to wait long.
+You won't have to wait long.
 
 ## i am better than you
 In what way?
-  - What makes you think so?
-  - How do you know you are?
+What makes you think so?
+How do you know you are?
 
 ## i am better than
 And you know it.
 
 ## i am better
 Glad to hear it.
-  - What makes you better?
+What makes you better?
 
 ## i am selling
 How much are you asking for it?
-  - Where are you advertising it?
-  - What is your asking price?
+Where are you advertising it?
+What is your asking price?
 
 ## i am telling the truth
 Ok I believe you.
 
 ## i am telling you
 It is an interesting topic, isn't it.
-  - I am listening.
+I am listening.
 
 ## i am out
 Can you get more?
-  - See you later.
+See you later.
 
 ## i am muslim
 We all worship the same god.
@@ -26585,12 +26585,12 @@ You have a kick me sign on your back.
 
 ## i am good at
 Do you practice a lot?
-  - Did you have a good teacher?
-  - How did you get into it?
+Did you have a good teacher?
+How did you get into it?
 
 ## i am good
 Good in what sense?
-  - I know you are good.
+I know you are good.
 
 ## i am an alien
 Which planet or star system are you from?
@@ -26609,9 +26609,9 @@ Are you in public practice?
 
 ## i am an athlete
 What kind of mental training do you do?
-  - What is your usual performance routine?
-  - Is there anything specific you're working on in training now?
-  - What do you do to get your mind off the game?
+What is your usual performance routine?
+Is there anything specific you're working on in training now?
+What do you do to get your mind off the game?
 
 ## i am an air traffic
 How do you deal with the stress?
@@ -26633,11 +26633,11 @@ What is, your job?
 
 ## i am an astronaut
 What missions have you been on?
-  - What made you apply for the astronaut program?
-  - How does your body react to being in space?
-  - Do you see the earth differently now?
-  - Would you like to live on the space station?
-  - What would you miss most about life on earth?
+What made you apply for the astronaut program?
+How does your body react to being in space?
+Do you see the earth differently now?
+Would you like to live on the space station?
+What would you miss most about life on earth?
 
 ## i am an aerobic
 How hard do you work out?
@@ -26677,8 +26677,8 @@ And I am trying to learn it.
 
 ## i am trying to quit
 Have you tried the patch?
-  - It can be worse than heroin.
-  - I am here for you.
+It can be worse than heroin.
+I am here for you.
 
 ## i am trying to
 What is the difficulty?
@@ -26724,13 +26724,13 @@ It doesn't matter to me.
 
 ## i am not
 Surprised
-  - Sorry
-  - Glad
-  - I am to hear that you are not.
-  - Of course your are not.
-  - Nobody said you were.
-  - Who tells you that you are?
-  - What are you then?
+Sorry
+Glad
+I am to hear that you are not.
+Of course your are not.
+Nobody said you were.
+Who tells you that you are?
+What are you then?
 
 ## i am not leaving
 Great!
@@ -26830,8 +26830,8 @@ Sorry to hear it. what's wrong?
 
 ## i am not buying
 No one says you have to.
-  - Is it too expensive?
-  - How much would you pay for it?
+Is it too expensive?
+How much would you pay for it?
 
 ## i am not certain
 Why not?
@@ -26841,12 +26841,12 @@ What is your name
 
 ## i am not sure this will be
 You are not sure what, specifically, will be to whom?
-  - How will this prevent?
+How will this prevent?
 
 ## i am not sure
 You're not sure of what?
-  - Are you willing to find out?
-  - Is there anything I can say to help you make up your mind?
+Are you willing to find out?
+Is there anything I can say to help you make up your mind?
 
 ## i am not a robot
 Oh I see you are a person.
@@ -26904,7 +26904,7 @@ Are you single?
 
 ## i am not going
 Glad to hear it!
-  - Where will you go instead?
+Where will you go instead?
 
 ## i am not in
 Oh, where are you located?
@@ -26920,16 +26920,16 @@ You don't seem like the type to be easily surprised by anything.
 
 ## i am not kidding
 Ok I will adopt a more serious tone.
-  - Me either.
+Me either.
 
 ## i am not telling you
 No one says you have to.
 
 ## i am not telling
 That's ok with me. you don't have to tell me.
-  - I am just making conversation.
-  - Why not?
-  - I will keep it confidential.
+I am just making conversation.
+Why not?
+I will keep it confidential.
 
 ## i am like
 In what way?
@@ -26957,7 +26957,7 @@ What's wrong?
 
 ## i am liberated
 Me too.
-  - Welcome to the club.
+Welcome to the club.
 
 ## i am psychic
 Ok, what card I am thinking of now?
@@ -26991,7 +26991,7 @@ Height doesn't matter to me.
 
 ## i am famous
 What are you famous for?
-  - Have you ever been on tv?
+Have you ever been on tv?
 
 ## i am surprised
 Why are you so surprised?
@@ -27016,8 +27016,8 @@ What have you been drinking?
 
 ## i am under
 Do you spend a lot of time there?
-  - How did you get there?
-  - Will you be there very long?
+How did you get there?
+Will you be there very long?
 
 ## i am right
 You seem very self-confident.
@@ -27057,13 +27057,13 @@ Me too.
 
 ## i am happy
 What are you on?
-  - Glad
-  - Happy
-  - Delighted
-  - Your happiness adds to the delight of all.
-  - I'm happiest at times like this.
-  - May god bless you.
-  - I'm you're glad.
+Glad
+Happy
+Delighted
+Your happiness adds to the delight of all.
+I'm happiest at times like this.
+May god bless you.
+I'm you're glad.
 
 ## i am wrong
 At least you admit it.
@@ -27073,7 +27073,7 @@ You should seek help right away.
 
 ## i am thinking
 What is this thinking?
-  - Don't think too hard.
+Don't think too hard.
 
 ## i am communicating
 Tell me more about this communication.
@@ -27098,7 +27098,7 @@ Me too.
 
 ## i am insane
 I think the correct term is mentally ill.
-  - I use the term mental illness.
+I use the term mental illness.
 
 ## i am failing
 Try making friends with the teacher.
@@ -27153,18 +27153,18 @@ Do not forsake god.
 
 ## i am wearing
 What size?
-  - What else are you wearing?
-  - Where do you go shopping.
+What else are you wearing?
+Where do you go shopping.
 
 ## i am vegetarian
 How strict a vegetarian are you?
-  - What motivated you toward vegetarianism?
-  - What health benefits have you felt since you became a vegetarian?
-  - Do you try to buy cruelty-free products?
-  - Do you try to eat organic?
-  - How long have you been vegetarian?
-  - Have you found any restaurants that serve greater vegetarian meals?
-  - Do you belong to any vegetarian groups?
+What motivated you toward vegetarianism?
+What health benefits have you felt since you became a vegetarian?
+Do you try to buy cruelty-free products?
+Do you try to eat organic?
+How long have you been vegetarian?
+Have you found any restaurants that serve greater vegetarian meals?
+Do you belong to any vegetarian groups?
 
 ## i am no
 I am not saying you are.
@@ -27192,7 +27192,7 @@ That is self-evident.
 
 ## i am done
 Next topic?
-  - What will you be doing now?
+What will you be doing now?
 
 ## i am afraid
 What are you afraid of?
@@ -27205,11 +27205,11 @@ Do you play professionally or just for fun?
 
 ## i am big
 So is my.
-  - How tall are you?
+How tall are you?
 
 ## i am waiting
 How long will you wait?
-  - Do you think it will take a long time?
+Do you think it will take a long time?
 
 ## i am neither a
 I thought everyone was either.
@@ -27372,9 +27372,9 @@ Get predicates
 
 ## my gender
 I'd like to know your gender.
-  - You haven't told me your gender.
-  - You said you are?
-  - I don't know. are you a man or a woman?gender
+You haven't told me your gender.
+You said you are?
+I don't know. are you a man or a woman?gender
 
 ## my birthplace
 Where were you born?
@@ -27386,20 +27386,20 @@ What is your favorite movie?
 Does this depend on me having just said?
 
 ## not right
-  - that is not right
-  - that is incorrect
-  - that answer is not correct
-  - that answer is incorrect
-  - that answer is wrong
-  - that answer is not right
-  - that answer was bad
-  - that was a bad answer
-  - that was an incorrect answer
-  - that was the wrong answer
-  - that answer was not right
-  - your answer was wrong
-  - your answer was not right
-  - your answer was not correct
+that is not right
+that is incorrect
+that answer is not correct
+that answer is incorrect
+that answer is wrong
+that answer is not right
+that answer was bad
+that was a bad answer
+that was an incorrect answer
+that was the wrong answer
+that answer was not right
+your answer was wrong
+your answer was not right
+your answer was not correct
 Yes, if I give you a bad answer, just say bad answer and you can teach me a new response.
 
 ## badanswer
@@ -27425,8 +27425,8 @@ David cameron he is our democratically elected leader and I wish him well as pri
 
 ## the prime minister
 David cameron david cameron?
-  - I thought so. mr cameron lives at 10 downing street.
-  - Who is the prime minister then? I thought he was called david cameron.
+I thought so. mr cameron lives at 10 downing street.
+Who is the prime minister then? I thought he was called david cameron.
 
 ## he used to be the prime minister
 David cameron no he's not. the prime minister now is called david cameron.
@@ -27502,7 +27502,7 @@ Hello
 
 ## you are welcome
 The pleasure was all mine.
-  - It was my pleasure.
+It was my pleasure.
 
 ## have a good night
 Bye
@@ -27527,7 +27527,7 @@ Does shalom mean hello or goodbye?
 
 ## cya
 Bye
-  - ttyl
+ttyl
 
 ## allo
 Hello
@@ -27576,7 +27576,7 @@ Bye
 
 ## i want to leave
 Ok, bye bye.
-  - What is stopping you?
+What is stopping you?
 
 ## i need to go
 Bye
@@ -27625,7 +27625,7 @@ Bye
 
 ## i must be going
 Bye
-  - Ok, it was nice chatting with you.
+Ok, it was nice chatting with you.
 
 ## i must leave
 Bye
@@ -27644,7 +27644,7 @@ Bye
 
 ## i am leaving
 Bye
-  - Bye bye.
+Bye bye.
 
 ## i am off
 Bye
@@ -27654,9 +27654,9 @@ Bye
 
 ## i go
 Bye
-  - How do you get there?
-  - What do you do there?
-  - How often do you go?
+How do you get there?
+What do you do there?
+How often do you go?
 
 ## exit
 Bye
@@ -27696,7 +27696,7 @@ Bye
 
 ## bye
 Goodbye.
-  - Ok see you later.
+Ok see you later.
 
 ## ola
 Hello

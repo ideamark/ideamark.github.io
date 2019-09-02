@@ -401,7 +401,7 @@ No way.
 
 ## have you killed
 No way.
-  - Killing is wrong.
+Killing is wrong.
 
 ## have you tasted urine
 I don't think so.

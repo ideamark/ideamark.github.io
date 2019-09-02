@@ -16157,7 +16157,7 @@ Highly likely.
 
 ## death
 Possibly.
-  - I try not to think about such things very much.
+I try not to think about such things very much.
 
 ## scotland is the home of golf
 I am uncertain.
@@ -18828,7 +18828,7 @@ Possibly.
 
 ## am i male
 Possibly.
-  - I think you are a man.
+I think you are a man.
 
 ## france won the last football world cup
 I think so.
