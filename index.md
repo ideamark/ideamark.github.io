@@ -2,8 +2,7 @@
 
 ## Breadbot
 
-Breadbot is a lightweight and powerful chatbot for knowledge management.
-
+Breadbot is a wiki based powerful chatbot.
 * Easy to deploy & use
 * Fast response
 * More than 1000,000 corpus
@@ -29,5 +28,3 @@ All of the Breadbot corpus is [here](https://github.com/ideamark/ideamark.github
 
 * Author: Mark Young (IdeaMark)
 * Email: ideamark@qq.com
-* Weibo: https://weibo.com/ideamark
-* Twitter: https://twitter.com/IdeamarkYoung
