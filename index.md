@@ -10,11 +10,11 @@ Breadbot is a wiki based powerful chatbot.
 * More than 1000,000 corpus
 * Support WeChat
 
+Download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
+
 Scan the QR code by WeChat and talk to Breadbot!
 
 ![QR](QR.jpg)
-
-Download the source code from [GitHub](https://github.com/ideamark/breadbot) or [Gitee](https://gitee.com/ideamark/breadbot).
 
 
 ## Corpus
