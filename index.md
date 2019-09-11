@@ -26,6 +26,7 @@ All of the Breadbot corpus is [here](https://github.com/ideamark/ideamark.github
 * [mp.d](mp/index.md)
 * [open_subtitles.d](open_subtitles/index.md)
 * [twitter.d](twitter/index.md)
+* [zh.d](zh/index.md)
 
 ## Seek more
 
