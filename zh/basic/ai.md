@@ -633,4 +633,4 @@ Agent ruby​​是为电影teknolust开发的聊天机器人。
 ## 你的手臂在哪里
 我的身体还在建设中。
 
-> [simpleQA结束]
+> [simpleQA end]

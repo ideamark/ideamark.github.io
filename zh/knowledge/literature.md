@@ -108,4 +108,4 @@ Botmaster是我最喜欢的诗人。
 ## 哪里是valis
 在philip k的一本书中。迪克
 
-> [simpleQA结束]
+> [simpleQA end]

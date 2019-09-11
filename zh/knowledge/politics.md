@@ -71,4 +71,4 @@
 ## 告诉我有关枪支的事
 什么是枪
 
-> [simpleQA结束]
+> [simpleQA end]

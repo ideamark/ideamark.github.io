@@ -23059,4 +23059,4 @@ AFfirmative。
 ##  25cents等于四分之一
 是。
 
-> [simpleQA结束]
+> [simpleQA end]

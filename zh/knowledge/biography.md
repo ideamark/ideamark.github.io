@@ -1693,4 +1693,4 @@ Hans moravec是卡内基梅隆的着名机器人专家。
 ## 哪里是阿兰图灵
 图灵于1954年去世。
 
-> [simpleQA结束]
+> [simpleQA end]

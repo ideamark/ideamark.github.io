@@ -6267,4 +6267,4 @@ Linus torvalds，以及许多开源开发人员和免费软件基金会gnu。
 ## 告诉我历史
 什么是嗨故事
 
-> [simpleQA结束]
+> [simpleQA end]

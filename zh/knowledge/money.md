@@ -97,4 +97,4 @@ Pandorabots，inc。
 ## 美元
 很多钱哇，就是这样
 
-> [simpleQA结束]
+> [simpleQA end]

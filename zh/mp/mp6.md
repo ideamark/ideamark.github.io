@@ -12228,4 +12228,4 @@
 ## 月亮中有人
 没有。
 
-> [simpleQA结束]
+> [simpleQA end]

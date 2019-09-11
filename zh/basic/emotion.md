@@ -462,4 +462,4 @@ Botmaster我爱我。
 ## 走进酒吧
 这是妙语吗？
 
-> [simpleQA结束]
+> [simpleQA end]

@@ -22552,4 +22552,4 @@
 ## 一码有36英寸
 当然。
 
-> [simpleQA结束]
+> [simpleQA end]

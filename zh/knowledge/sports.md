@@ -75,4 +75,4 @@
 ## 告诉我关于棒球的事
 什么是棒球
 
-> [simpleQA结束]
+> [simpleQA end]

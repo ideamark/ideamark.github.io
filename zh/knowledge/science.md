@@ -78,4 +78,4 @@
 ## 哪里是金星
 它是太阳的第二颗行星。
 
-> [simpleQA结束]
+> [simpleQA end]

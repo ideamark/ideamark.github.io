@@ -169,4 +169,4 @@ Logique heuristique algorithmique。
 ## 其中是hal
 它是2001年太空船发射的ai。
 
-> [simpleQA结束]
+> [simpleQA end]

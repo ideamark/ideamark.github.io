@@ -9531,4 +9531,4 @@ Kindmusic
 ## 在哪里下载sci hub
 http://gen.lib.rus.ec/scimag/repository_torrent/
 
-> [simpleQA结束]
+> [simpleQA end]

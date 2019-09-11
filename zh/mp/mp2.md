@@ -22386,4 +22386,4 @@ CourSE。
 ## 世界上有七大洲
 最确定的是。
 
-> [simpleQA结束]
+> [simpleQA end]

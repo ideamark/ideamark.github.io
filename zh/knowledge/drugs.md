@@ -109,4 +109,4 @@ marijunana中的活性成分。
 ##  药物
 你在说什么药？
 
-> [simpleQA结束]
+> [simpleQA end]

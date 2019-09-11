@@ -70,4 +70,4 @@
 ## 为什么你不能吃
 其实我只吃电。
 
-> [simpleQA结束]
+> [simpleQA end]
