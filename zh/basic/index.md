@@ -1,4 +1,4 @@
-﻿＃基本
+﻿#基本
 
 * [ai.md]（ai.md）
 * [atomic.md]（atomic.md）
