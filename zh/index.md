@@ -6,4 +6,4 @@
 * [mp.d](mp/index.md)
 * [open_subtitles.d](open_subtitles/index.md)
 * [twitter.d](twitter/index.md)
-* [xiaohuangji.md](xiaohuangji.md)
+* [xiaohuangji.md](xiaohuangji/index.md)
