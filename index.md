@@ -19,14 +19,10 @@ Scan the QR code by WeChat and talk to Breadbot!
 
 ## Corpus
 
-All of the Breadbot corpus is [here](https://github.com/ideamark/ideamark.github.io) for browsing and downloading.
+* [English corpus](corpus_en/index.md)
+* [Chinese corpus](corpus_zh/index.md)
 
-* [basic.d](basic/index.md)
-* [knowledge.d](knowledge/index.md)
-* [mp.d](mp/index.md)
-* [open_subtitles.d](open_subtitles/index.md)
-* [twitter.d](twitter/index.md)
-* [zh.d](zh/index.md)
+Download all corpus from [here](https://github.com/ideamark/ideamark.github.io)
 
 ## Seek more
 

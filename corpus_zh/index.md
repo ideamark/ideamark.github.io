@@ -1,4 +1,4 @@
-# Zh Chinese
+# Chinese Corpus
 
 
 * [basic.d](basic/index.md)
