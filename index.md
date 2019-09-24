@@ -3,9 +3,9 @@
 
 ## Breadbot
 
-Breadbot is a wiki based powerful chatbot.
+Breadbot is a powerful lightweight chatbot.
 
-* Easy to deploy & use
+* Very easy to deploy & use
 * Fast response
 * More than 1000,000 corpus
 * Support WeChat
