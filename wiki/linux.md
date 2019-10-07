@@ -960,6 +960,9 @@ usr/share/doc/
 ## how to check the kill signal?
 kill -l
 
+## kill command can not work
+try "kill -9"
+
 ## how to check bootup services on linux?
 service --status-all
 
@@ -1059,6 +1062,9 @@ chmod 755 /etc/rc.local
 ## how to fix apt
 sudo rm /var/lib/dpkg/info/*
 
+## apt not fully installed
+dpkg --remove xxx
+
 ## how to show graphics card on linux
 sudo lshw -c display
 
@@ -1073,6 +1079,9 @@ rm -fr ~/.bazel ~/.bazelrc
 
 ## python regex how to save middle string
 use (.*)
+
+## how to run python in git bash
+winpty python
 
 ## how to change hostname on ubuntu
 Edit /etc/cloud/cloud.cfg, set preserve_hostname to true.
@@ -1105,5 +1114,8 @@ colorscheme xxx
 
 ## python how to get object size
 sys.getsizeof(xx)
+
+## selenium can not find xpath
+watch the page source if there is the element
 
 > [knowledgeQA end]

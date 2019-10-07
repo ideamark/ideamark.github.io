@@ -181,4 +181,7 @@
 * He that can read an meditate will not find his evenings long or life tedious
 * The reading of all good books is like a conversation with the finest men of past centuries. -- Descartes
 
+## how to improve inclusion
+Inclusion is like a masule, it grows stronger the more you use it.
+
 > [knowledgeQA end]

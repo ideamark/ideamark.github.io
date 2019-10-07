@@ -33,4 +33,7 @@ run -> shell:startup
 ## how to play H264 vedios on windows
 download potplayer
 
+## debug steps
+Recure problem -> build simple example -> solve
+
 > [knowledgeQA end]

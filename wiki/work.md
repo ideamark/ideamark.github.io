@@ -128,4 +128,9 @@ Supply and Demand.
 ## how to pleasure the employees
 Give them what they want.
 
+## how to work fast
+* Avoid work slack
+* Find the interesting
+* Talk with members
+
 > [knowledgeQA end]
