@@ -1,4 +1,4 @@
-# work skills
+# Work
 
 
 > [knowledgeQA start]
@@ -32,55 +32,30 @@ The problem must be the solid of thinking, the good way is to change the environ
 ## how to study better
 Use whole body to sense
 
-## what is feynman tips
-1. choose a concept that you want to understand the
-2. envisage a scenario, you're about to teach this concept to others
-3. If you feel stuck, I recall learning materials
-4. To make your explanation easy to understand, simplify language
-
-## can not learn well
+## how to do when can not learn well
 Try overlearning.
 
-## find it inefficient to do sth
+## how to do when find it inefficient
 Try to do things immediately.
 
-## feel inefficient
+## how to do when feel inefficient
 Try to change your work place one by one, keep warm heart and keep doing
 
 ## how to draw a good mind map
 * Concise and abstract, complex content must promptly streamline late
 * Reduce unnecessary branches and levels
 
-## feel difficult to read
+## how to do when feel difficult to read
 Stop reading word by word, try to understand it
 
-## what is good learning state
-Good learning state should feel comfortable (fun), and the speed is fast
-
-## feel hard to answer questions
+## how to do when feel hard to answer questions
 Try to guess the aim of the question
 
-## feel waste of time
+## how to do when feel waste of time
 Grief and anxiety is a waste of time
 
-## the knowledge is too disparate
+## how to do when the knowledge is too disparate
 Disparate knowledge may also have links
-
-## what is scotty young s learning method
-* Fast paced
-* Practice as soon as possible
-* Fast gather information
-* Use your own words to summary
-* Find out the contact form architecture
-
-## what is agile work
-* Strong power on implement
-* Use Piece of time to finish work faster
-* Do not tangle habit and work
-* Do more say less, keep a low profile
-* Say more affirmative sentences
-* The face of strong silence never admit violations
-* To allocate attention rationally, pay more attention to the whole structure
 
 ## how to use advantages
 Combines them.
@@ -110,20 +85,6 @@ Tomato time management.
 
 ## how to remember better
 Interest -> different thinking -> remember better.
-
-## what is the growth mindset
-I don't understand. (What am I missing?)
-I give up. (I'll use some of the strategies I've learned.)
-I made a mistake. (Mistakes help me improve.)
-This is too hard. (This may take some time and effort.)
-It's good enough. (Is this really my best work?)
-I'll never be as smart as her.  (I'm going to figure out what she does and try it.)
-I can't make this any better. (I can always improve. I'll keep trying!)
-I can't read. (I'm going to train my brain in reading.)
-I'm not good at this. (I'm on the right track.)
-
-## what is the main idea of economics
-Supply and Demand.
 
 ## how to pleasure the employees
 Give them what they want.

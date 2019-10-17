@@ -1,5 +1,4 @@
 # Wiki
 
-* [Concepts](concepts/index.md)
+* [What is](whatis/index.md)
 * [How to](howto/index.md)
-* [Note](note/index.md)
