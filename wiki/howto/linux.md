@@ -3,19 +3,19 @@
 
 > [knowledgeQA start]
 
-## install ubuntu dose not respond
+## how to do when install ubuntu dose not respond
 At startup selection screen, press F6, then unselect all the fork options.
 
 ## how to modify screen brightness
 xbacklight -set 40
 
-## linux chinese garbled
+## how to do when linux chinese garbled
 iconv -f gb2312 -t utf-8 xx.txt> xx.tzt
 
-## unzip garbled
+## how to do when unzip garbled
 unzip -O CP936 xx.zip
 
-## filename garbled
+## how to do when filename garbled
 convmv -r -f utf8 -t iso88591 * --notest --nosmart
 convmv -r -f gbk -t utf8 * --notest --nosmart
 
@@ -38,7 +38,7 @@ unrar e *.rar
 unzip *.zip
 gzip -d *.gz
 
-## apt error
+## how to do when apt error
 1. sudo rm -vf /var/lib/apt/lists/*
 2. sudo apt update
 
@@ -52,7 +52,7 @@ export PATH=${JAVA_HOME}/bin:$PATH
 ## how to add boot items with xfce4
 xfce4-session-settings
 
-## filezilla can not upload
+## how to do when filezilla can not upload
 Try to refresh it.
 FTP space may be full.
 
@@ -64,7 +64,7 @@ file '/path/to/file2'
 file '/path/to/file3'
 ffmpeg -f concat -i list -c copy output.mp3
 
-## ubuntu can not start
+## how to do when ubuntu can not start
 Enter this commands on grub
 grub rescue> ls
 grub rescue> ls (hd0, X)/boot/grub "if it shows something, it means that linux is installed in this partition."
@@ -107,7 +107,7 @@ sudo update-grub
 ## how to connect to samba on linux
 sudo mount -t cifs //192.168.1.7/share -o username=your_PC_name, password='xx', iocharset=utf8 ~/share
 
-## ubuntu can not shutdown
+## how to do when ubuntu can not shutdown
 Modify /etc/default/grub
 GRUB_CMDLINE_LINUX_DEFAULT="acpi=off apm power_off=1 quiet splash"
 sudo update-grub
@@ -127,7 +127,7 @@ echo "scale=2;1/3"|bc
 ## how to take mouse area screenshot
 scrot -s
 
-## can not open libstdc++.so.6
+## how to do when can not open libstdc++.so.6
 sudo apt install libstdc++6
 sudo apt install lib32stdc++6
 
@@ -198,10 +198,10 @@ Backup: mysqldump -u username -p db_name > filename
 Recover: mysql -u username -p db_name < filename
 Select the editor: pager vim
 
-## jre chinese garbled
+## how to do when jre chinese garbled
 http://blog.163.com/maaa_139/blog/static/31023991201051542321224/
 
-## command x86_64-linux-gnu-gcc failed with exit status 1
+## how to do when command x86_64-linux-gnu-gcc failed with exit status 1
 sudo apt install libevent-dev
 
 ## how to calibrate touch screen
@@ -214,7 +214,7 @@ More: https://wiki.archlinux.org/index.php/Calibrating_Touchscreen
 ## how to install festival
 sudo pacman festival festival-us
 
-## can not find /dev/dsp
+## how to do when can not find /dev/dsp
 Add the following to HOME folder, save it as .festivalrc,
 (Parameter.set 'Audio_Command' (aplay -q -c 1 -t raw -f s16 -r $SR $FILE))
 (Parameter.set 'Audio_Method' Audio_Command)
@@ -315,110 +315,8 @@ Note: Press m is for mute
 sudo pacman -S acpi
 acpi power
 
-## publickey permission deny
+## how to do when publickey permission deny
 ssh-add yourkey "Not the .pub"
-
-## how to modify git editor
-git config --global core.editor vim
-
-## git can not upload
-1. Pull before push (Adviced)
-git pull git@github.com:aaa/bbb.git master
-git push -u git@github.com:aaa/bbb.git master
-2. Force pushing (Danger)
-git push -u git@github.com:aaa/bbb.git master -f
-
-## git how to recall commit
-git reset --soft HEAD^
-
-## git how to reset
-git log
-git reset --hard <id>
-
-## vim how to edit dos files
-:e ++ff=dos
-
-## vim how to delete same lines
-:g/^\(.\+\)$\n\1/d
-
-## vim how to get ascii
-ga
-
-## what is vim plugin folder mean
-When Vim start, it will automatically execute the plugin folder, next it will execute the ftplugin(file type plugin) folder, autoload folder is used to store big *.vim files, only execute when function calls, it is used to make vim launch faster.
-
-## how to make vim plug-in
-First, in /etc/vimrc, "filetype plugin on" should be opened
-Then in plugin, "au BufNewFile, BufRead, *.xx call set filetype=AAA" to set the file type
-When open *.xx file, Vim will find AAA.vim and execute it.
-In each *.vim file, function like filename#function() will call filename#function() in filename.vim
-In plugin folder, "set syntax=BBB" will call BBB.vim in syntax folder to highlight the codes.
-
-## vim how to flip pages
-PageDown: Ctrl + f
-PageUp: Ctrl + b
-
-## vim how to match chinese
-'[\u4e00-\u9fa5]'
-
-## vim how to match english
-'[\u0020-\u007E]'
-
-## how to use vim historical views
-Back: Ctrl + o
-Forward: Ctrl + i
-
-## how to find multiple files in vim
-vimgrep /String/ ./*
-
-## vim how to fold the code
-First, add this in vimrc,
-Set foldmethod=indent
-Then, open the fold: l
-Open all folds: zR
-Close fold: zc
-Close all folds: zM
-Expand entire function: zO
-
-## vim how to access system clipboard
-Be sure to install the vim-gnome, otherwise you can not operate the system clipboard
-sudo apt install vim-gnome
-":reg" to see all clipboard contents in vim, the "+ is the system clipboard
-Use command "+y to copied to the system clipboard, use command "+p to past from the system clipboard
-
-## vim can not open plug-in help documentation
-':helptags ~/.vim/doc'
-
-## vim how to replace words
-Replace a to b: :%s/a/b/g
-Replace a to b from line n to line m: :n,ms/a/b/g
-
-## vimwiki how to make a new line
-Just type <br>
-
-## vim how to read binary file
-vi -b filename
-:%!xxd
-
-## gvim how to init
-set guifont=Consolas::h12:cANSI
-colorscheme darkblue
-set nobackup
-set encoding=utf-8
-
-## how to init vim
-nmap <C-H> <C-W>h
-nmap <C-J> <C-W>j
-nmap <C-K> <C-W>k
-nmap <C-L> <C-W>l
-set tabstop=4
-set softtabstop=4
-set expandtab
-set shiftwidth=4
-set autoindent
-set cindent
-set cinoptions={2,1s,t0,n-2,p2s,(03s,=.5s,>1s,=1s,:1s
-imap kk <ESC>
 
 ## how to use nmap
 nmap -sP 192.168.1.* Lists all online equipment segment
@@ -438,7 +336,7 @@ It is less relationship to the order of short connection.
 sudo apt install sdcc
 If it does not work, try this: sudo apt install gputils gputils-common gputils-doc sdcc sdcc-doc sdcc-libraries sdcc-ucsim
 
-## cmu sphinx can not find libpocketsphinx.so.1
+## how to do when cmu sphinx can not find libpocketsphinx.so.1
 sudo apt install audacity
 libpocketsphinx.so.1 problem will arise when you start pocketsphinx_continues. It mainly due to that sphinxbase did not be added to the library path environment variable
 So we do: sudo vi/etc/ld.so.conf
@@ -447,38 +345,26 @@ Add this,
 /Usr/local/lib/pkgconfig
 Then, sudo ldconfig
 
-## cmu sphinx failed to open audio device
+## how to do when cmu sphinx failed to open audio device
 sudo apt install pulseaudio
 
-## cmu sphinx failed to calibrate voice activity detection
+## how to do when cmu sphinx failed to calibrate voice activity detection
 wake up the computer
 
-## cmu sphinx pycapsule_getpointer called with invalid pycapsule object
+## how to do when cmu sphinx pycapsule_getpointer called with invalid pycapsule object
 install the new version, upper than 5prealpha
 
-## python undefined symbol ps_update_lmset
-sudo easy_install -m sphinxbase
-sudo easy_install -m pocketsphinx
-
-## expreval error when build coreseek
+## how to deal with expreval error when build coreseek
 Edit sphinxexpr.cpp, line 1010, 1044, 1077, change T val ExprEval (this-> m_pArg, tMatch); to T val this-> ExprEval (this-> m_pArg, tMatch);
 Note: the config file of sphinx does not support ~/but support/home/user
 
-## how to install xml.vim
-Copy xml.vim file to ~/.vim/ftplugin and then use ln -s command to create relationship between xml.vim and docbk.vim, xsl.vim, html.vim, xhtml.vim
-Open ftplugin in vimrc
-Tips,
-Tag autocomplete: double-click > symbol
-Auto new line: double-click ; symbol in INSERT mod
-For more help, enter: help xml-plugin
-
-## bochs dlopen failed for module x file not found
+## how to do when bochs dlopen failed for module x file not found
 sudo apt install bochs-x
 
-## libbx_x.so undefined symbol xpmcreatepixmapfromdata
+## how to do when get error libbx_x.so undefined symbol xpmcreatepixmapfromdata
 added, display_library; sdl in bochsrc
 
-## bochs error
+## how to do when bochs error
 If an error of bochsrc occured, the normal way is just comment the error line.
 bochsrc use double quotes, not single quotes.
 Use bximage to make image
@@ -493,16 +379,13 @@ mount /dev/nbd0p1 /mnt/image
 ## how to install ftp server on ubuntu
 sudo apt install pure-ftpd
 
-## git how to revert
-git revert HEAD
-
-## sqlite can not import data from text
+## how to do when sqlite can not import data from text
 Change text to sql file, then import.
 
 ## how to replace string in multiple files
 sed -i 's/old/new/g' filename
 
-## kvm how to use snapshot
+## how to use kvm snapshot
 Create snapshot: qemu-img snapshot -c snapshot_name image.qcow2
 Show all the snapshot: qemu-img snapshot -l image.qcow2
 Revert snapshot: qemu-img snapshot -a snapshot_name image.qcow2
@@ -515,15 +398,15 @@ Command: ls, cd, get, put, mirror -R
 ## how to sudo when boot up ubuntu
 Just write sudo in /etc/rc.local, cause rc.local is executed by root.
 
-## openwrt how to install ftp server
+## how to install ftp server on openwrt
 opkg update
 opkg install vsftpd
 
-## pico cms can not open sub page
+## how to do when pico cms can not open sub page
 Make sure the .htaccess file is in the main folder.
 sudo vi /etc/apache2/apache2.conf, change "AllowOverride None" to "AllowOverride FileInfo Options"
 
-## kvm how to create image
+## how to create kvm image
 sudo qemu-img create -f qcow2  image.img 60G
 
 ## how to install kvm
@@ -554,30 +437,10 @@ sudo fdisk -lu image.raw, find the first start number n,
 echo $((n*512)), get N,
 sudo mount -o loop,offset=N image.raw folder/
 
-## can not use tab on terminal
+## how to do when can not use tab on terminal
 vi ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
 Change line <property name="<Super>Tab" type="string" value="switch_window_key"/> to <property name="<Super>Tab" type="empty"/>
 sudo reboot
-
-## vim how to save word in regular expression
-:%s/\(str_1\) xx \(str_2\)/\2 or \1/
-
-## vim how to remove duplicate rows
-:sort
-:g/^\(.*\)$\n\1$/d
-
-## vim how to mismatch
-'[^(your_regex)]'
-
-## vim how to convert case
-:%s/\(xx\)/\L\1/g (Lower)
-:%s/\(xx\)/\U\1/g (Upper)
-
-## how to install vim-markdown
-Download and unzip vim-markdown
-Edit /etc/vimrc, add,
-set noncompatible
-filetype plugin on
 
 ## how to remove encryption on ubuntu
 First, backup: sudo cp -rp /home/your_name /home/your_name.bk
@@ -588,12 +451,6 @@ rm -rf /home/.ecryptfs
 rm -rf /home/your_name/.ecryptfs
 rm -rf /home/your_name/.Private
 sudo apt autoremove ecryptfs-utils libecryptfs0
-
-## how to redirect the domain to github pages
-Add CNAME file in github main folder, the context is the domain.
-Then, the domain, add the github A Record,
-192.30.252.153
-192.30.252.154
 
 ## how to install chrome flash plugin on ubuntu
 sudo apt install pepperflashplugin-nonfree
@@ -642,19 +499,19 @@ sudo chmod +x /usr/local/bin/trash-rm
 Finally, add 'alias rm="trash-rm"' to ~/.bashrc
 source ~/.bashrc
 
-## can not find cdrom when install ubuntu
+## how to do when can not find cdrom when install ubuntu
 1. enter the command line when install
 2. mount the U-disk
 3. cd into U-disk then mount ubuntu.iso to /cdrom
 At last, exit and continue install.
 
-## kvm vnc can not connect
+## how to do when kvm vnc can not connect
 Edit the domain file of the virtual machine, modify 127.0.0.1 to 0.0.0.0, like that,
 <graphics type='vnc' port='-1' autoport='yes' listen='0.0.0.0'>
 <listen type='address' address='0.0.0.0'/>
 </graphics>
 
-## kvm how to clone
+## how to clone kvm
 virt-clone -o {old_kvm_name} -n {new_kvm_name} -f {new_kvm_image_address}
 
 ## how to change terminal language
@@ -663,34 +520,18 @@ LANG="en_US.UTF-8"
 LANGUAGE="en_US:en"
 Reboot.
 
-## vim how to paste
-:set paste
-:set nopaste
-
-## php can not write files
+## how to do when php can not write files
 chmod
 
 ## how to transfer files through ssh
 sudo mount -t cifs //ip_address/folder -o username=xx,password='xx',iocharset=utf8 ~/folder
 
-## git how to check the difference
-git diff (tree vs index)
-git diff -cached (index vs commit)
-git diff HEAD (tree vs commit)
-
-## python how to install tkinter
-sudo apt install python3-tk
-
 ## how to make system disk on linux
 sudo dd if=system.iso, of=/dev/sdc
 
-## centos can not connect to network
+## how to do when centos can not connect to network
 vi /etc/sysconfig/network-scripts/ifcfg-eth0
 /etc/init.d/network restart
-
-## vim how to edit multiple files
-:args *.txt
-:argdo %s/old/new/g | update
 
 ## how to unbind ip
 ip addr del <ip> dev eth0
@@ -703,9 +544,6 @@ nohup <command> &
 
 ## how to create requirements.txt
 pip freeze
-
-## how to solve coding problem of python3
-Str = Str.encode('unicode-escape').decode()
 
 ## what is forward compatibility and backward compatibility
 Forward compatibility means forward version support current version, based on forward version.
@@ -726,7 +564,7 @@ without communication, without quick development
 sv_cheat 1
 god (God mode), impulse 101 (All weapons)
 
-## can not printf on stm32 mdk
+## how to do when can not use printf function on stm32 mdk
 Target -> Use MicroLIB must be selected.
 
 ## how to install gstc-isp on ubuntu
@@ -737,19 +575,13 @@ When make, there are errors, too. So I did,
 sudo apt install libvte-dev
 Then edit src/main.c, alter the line to _#include <vte-0.0/vte/vte.h>_
 
-## what is the meaning of flex
-A lower power and upgraded timer or bus.
-
-## dxp how to automatically check the pcb layout error
+## how to automatically check the pcb layout error by DXP
 reports -> board information -> report
 
-## what is dummy
-It means virtual, null pointer.
-
-## where to put the switch
+## how to put the switch on pcb
 Put in the positive pole, not GND, or the MCU will reboot again and again.
 
-## ls can not work
+## how to do when ls can not work
 Make sure the folder have "x" authority.
 
 ## which folders need backup
@@ -797,18 +629,8 @@ use Quota or LVM
 ## how to mount
 sudo mount dev folder
 
-## linux kernel function
-System call interface
-Process control
-Memory management
-File System management
-Device drivers
-
 ## how to make empty file
 dd if=/dev/zero of=xx bs=100M count=1
-
-## python simple http server
-python -m SimpleHTTPServer 80
 
 ## how to reset time
 date +"%Y%m%d %H%m" --set="20170101 1830"
@@ -847,42 +669,18 @@ split -b 10k filename
 ## how to rename multiple files
 rename 's/old/new/g' *.txt
 
-## vim how to open multiple files
-vi -o file1, file2, file3
-
-## vim how to edit multiple files
-:args *.txt
-:argdo %s/old/new/g
-
-## how to clean git log
-git checkout --orphan xx
-git add -A
-git commit -am "clean"
-git branch -D master
-git branch -m master
-git push -f
-
 ## how to set ssh timeout
 edit /etc/profile, modify TMOUT=0
 source /etc/profile
 
-## vim how to format json
-:%!python -m json.tool
-
-## python how to format json
-json.dump(dict, fp, indent=4)
-
 ## how to awk
 awk -F ',' '{print $4}'
 
-## shell how to count lines
+## how to count lines by shell
 wc -l
 
-## linux how to check badblocks
+## how to check badblocks on linux
 badblocks -v /dev/sdb
-
-## vim how to search multiple keywords
-/aaa\|bbb\|ccc
 
 ## how to auto lock ubuntu
 sudo apt install xscreensaver
@@ -960,7 +758,7 @@ usr/share/doc/
 ## how to check the kill signal?
 kill -l
 
-## kill command can not work
+## how to do when kill command can not work
 try "kill -9"
 
 ## how to check bootup services on linux?
@@ -1051,7 +849,7 @@ Under line %sudo, add "name ALL=(ALL) NOPASSWD:ALL"
 ## how to check all cpus in top command
 press "1"
 
-## dpkg how to remove multiple pkgs
+## how to remove multiple dpkg pkgs
 dpkg -l | grep "<your_keyword>" | cut -d' ' -f3 | sudo xargs dpkg --purge
 
 ## how to enable rc.local on ubuntu18
@@ -1062,7 +860,7 @@ chmod 755 /etc/rc.local
 ## how to fix apt
 sudo rm /var/lib/dpkg/info/*
 
-## apt not fully installed
+## how to do when apt not fully installed
 dpkg --remove xxx
 
 ## how to show graphics card on linux
@@ -1074,15 +872,6 @@ ln -s file link
 ## how to remove bazel
 rm -fr ~/.bazel ~/.bazelrc
 
-## python how to not match
-[^xx]* (must contain *)
-
-## python regex how to save middle string
-use (.*)
-
-## how to run python in git bash
-winpty python
-
 ## how to change hostname on ubuntu
 Edit /etc/cloud/cloud.cfg, set preserve_hostname to true.
 sudo hostnamectl set-hostname xxx
@@ -1090,7 +879,7 @@ sudo hostnamectl set-hostname xxx
 ## how to list files in tar
 tar -tf xx
 
-## pip how to use china origin
+## how to use china origin by pip
 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## how to get domain ip
@@ -1109,13 +898,7 @@ tcpdump 'host www.baidu.com'
 tcpdump 'port ftp'
 more filter, see "man pcap-filter"
 
-## how to change vim theme?
-colorscheme xxx
-
-## python how to get object size
-sys.getsizeof(xx)
-
-## selenium can not find xpath
+## how to do when selenium can not find xpath
 watch the page source if there is the element
 
 > [knowledgeQA end]

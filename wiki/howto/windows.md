@@ -1,4 +1,4 @@
-# Computer
+# Windows
 
 
 > [knowledgeQA start]
@@ -6,7 +6,7 @@
 ## how to connect to samba on windows
 \\\\IP_or_PC_name\\share
 
-## can not access windows installer server
+## how to do when can not access windows installer server
 Open terminal, enter "msiexec /unregisteru", then enter "msiexec /regserver".
 
 ## how to fix grabled chinese on english windows
@@ -19,11 +19,6 @@ netplwiz
 1. ipconfig /release
 2. ipconfig /renew
 
-## how to create thread by python
-xx = threading.Thread(target=func, args=(a,))
-xx.setDaemon(True)
-xx.start()
-
 ## how to set esc4000 RAID
 ctrl + s
 
@@ -33,7 +28,7 @@ run -> shell:startup
 ## how to play H264 vedios on windows
 download potplayer
 
-## debug steps
+## how to debug
 Recure problem -> build simple example -> solve
 
 > [knowledgeQA end]
