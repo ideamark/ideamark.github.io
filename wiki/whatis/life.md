@@ -1,7 +1,7 @@
 # Life
 
 
-> [simpleQA start]
+> [knowledgeQA start]
 
 ## what is good psychological quality standards
 Knowing, self-esteem, self-confidence, self-reliance, self-control, tolerance, love, honesty, responsibility, win-win
@@ -27,4 +27,4 @@ A Chinese snack and a fruit
 ## what is a good dinner
 A spot of home cooking, and drink milk before goto bed
 
-> [simpleQA end]
+> [knowledgeQA end]

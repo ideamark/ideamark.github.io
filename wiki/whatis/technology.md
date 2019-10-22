@@ -1,7 +1,7 @@
 # Technology
 
 
-> [simpleQA start]
+> [knowledgeQA start]
 
 ## what is vim plugin folder
 When Vim start, it will automatically execute the plugin folder, next it will execute the ftplugin(file type plugin) folder, autoload folder is used to store big *.vim files, only execute when function calls, it is used to make vim launch faster.
@@ -19,4 +19,4 @@ Memory management
 File System management
 Device drivers
 
-> [simpleQA end]
+> [knowledgeQA end]

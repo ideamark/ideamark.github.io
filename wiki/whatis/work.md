@@ -1,7 +1,7 @@
 # Work
 
 
-> [simpleQA start]
+> [knowledgeQA start]
 
 ## what is feynman tips
 1. choose a concept that you want to understand the
@@ -42,4 +42,4 @@ I'm not good at this. (I'm on the right track.)
 ## what is the main idea of economics
 Supply and Demand.
 
-> [simpleQA end]
+> [knowledgeQA end]

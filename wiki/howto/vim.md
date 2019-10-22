@@ -122,7 +122,7 @@ vi -o file1, file2, file3
 
 ## how to replace multiple files by vim
 :args *.txt
-:argdo %s/old/new/g
+:argdo %s/old/new/g | update
 
 ## how to format json by vim
 :%!python -m json.tool

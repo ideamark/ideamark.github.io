@@ -1,4 +1,4 @@
 # Chinese Corpus
 
-* [basic.md](basic/index.md)
-* [xiaohuangji.md](xiaohuangji/index.md)
+* [basic.d](basic/index.md)
+* [xiaohuangji.d](xiaohuangji/index.md)
