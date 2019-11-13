@@ -3,11 +3,11 @@
 
 ## Breadbot
 
-Breadbot is a lightweight chatbot with powerful AI inside.
+Breadbot is a new concept of chatterbot for knowledge management.
 
-* Opened both code and corpus
-* More than 1000,000 corpus
-* Very easy to deploy & use
+* Open source code & corpus
+* Huge amount of corpus
+* Easy to deploy & use
 * Fast response
 * Support WeChat
 
