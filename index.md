@@ -3,7 +3,7 @@
 
 ## Breadbot
 
-Breadbot is a new concept of chatterbot at the experimental stage.
+Breadbot is a new concept of chatterbot at the experimental stage. <br>
 The goal is to combine cloud note and AI technology to make knowledge management more efficient.
 
 * Open source code & corpus
