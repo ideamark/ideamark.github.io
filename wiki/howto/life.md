@@ -30,16 +30,16 @@
 ## how to do when can not go to sleep
 * The best sleeping pill is sport
 
-## how to protect my eye
+## how to protect eyes
 * Roll the eyes
 
 ## how to get rid of stomach disease
 * Mouth is not clean may cause the stomach problem
 
-## how to do if do not like running
+## how to love running
 * But the feeling of finishing running is so great
 
-## how to make muscle bigger
+## how to make muscle stronger
 * Large weight
 * Frequent relax
 * Long movement and slow speed

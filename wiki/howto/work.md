@@ -24,7 +24,7 @@
 * With a little plan and very large interesting to do things quickly.
 * Use both txt reading and screen watching
 * Outsourcing low-end jobs, do more high-end jobs to improve the output of per unit of time
-* Decision Support Database
+* Use decision Support Database
 
 ## how to do when go to a dead end
 The problem must be the solid of thinking, the good way is to change the environment and think in a different way.
@@ -80,7 +80,7 @@ Combines them.
 * Have enough rest and don't be nervous
 * Devote into one field
 
-## how to focus into work
+## how to focus on work
 Tomato time management.
 
 ## how to remember better
