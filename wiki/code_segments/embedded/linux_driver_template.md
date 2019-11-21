@@ -1,3 +1,6 @@
+# linux_driver_template.c
+
+```
 #include <linux/module.h>
 #include <linux/config.h>
 #include <linux/types.h>
@@ -177,3 +180,4 @@ misc_deregister(&mydriver_miscdev);  //注销misc dev
 module_init(mydriver_init);
 module_exit(mydriver_exit);
 MODULE_LICENSE("GPL");
+```
