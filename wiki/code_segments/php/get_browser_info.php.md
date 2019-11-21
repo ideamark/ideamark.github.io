@@ -1,3 +1,6 @@
+# get_browser_info.php
+
+```
 <?php
 // get browser version
 if(strpos($_SERVER["HTTP_USER_AGENT"],"MSIE 8.0"))
@@ -42,3 +45,4 @@ else if (preg_match("/sv/i", $lang))
   echo "Swedish";
 else echo $_SERVER["HTTP_ACCEPT_LANGUAGE"];
 ?>
+```

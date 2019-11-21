@@ -1,3 +1,6 @@
+# speak_clipboard.sh
+
+```
 #!/bin/bash
 # This script can listen the clipboard and read the string in the clipboard
 # You must install xclip, ekho first, use apt-get. and install the python module called pyperclip
@@ -21,3 +24,4 @@ while True:
         print 'listening...'
     time.sleep(1)
 endpython
+```

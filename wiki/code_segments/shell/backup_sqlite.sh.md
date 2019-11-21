@@ -1,3 +1,6 @@
+# backup_sqlite.sh
+
+```
 #!/bin/bash
 # a shell script for backuping the sqlite
 # DO NOT write any space char for the two values below
@@ -14,3 +17,4 @@ rm -f $sqliteDir/dbext_sql_history.txt &&
 # delete the backup 20 days ago
 find ./ -mtime +20 -name "*.tar.bz2" -exec rm -rf {} \;
 sleep 1
+```

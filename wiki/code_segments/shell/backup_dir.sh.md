@@ -1,3 +1,6 @@
+# backup_dir.sh
+
+```
 #!/bin/bash
 # a shell script for backuping
 
@@ -8,3 +11,4 @@ history
 cd $backupDir
 tar jcvf bk_`date +"%Y%m%d-%H%M"`.tar.bz2 $loadDir
 sleep 1
+```
