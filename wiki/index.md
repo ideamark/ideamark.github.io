@@ -4,4 +4,4 @@ It is an attempt to use knowledge management methods to form the corpus. It incl
 
 * [What is](whatis/index.md)
 * [How to](howto/index.md)
-* [code_segments](code_segments/index.md)
+* [code_segments](https://github.com/ideamark/code_segments)

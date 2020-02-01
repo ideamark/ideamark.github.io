@@ -1,3 +1,0 @@
-# Python Code Segments
-
-* 
