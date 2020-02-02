@@ -901,4 +901,10 @@ more filter, see "man pcap-filter"
 ## how to do when selenium can not find xpath
 watch the page source if there is the element
 
+## how to keep ssh online
+vi ~/.ssh/config
+Add this:
+ClientAliveInterval 120
+ClientAliveCountMax 720
+
 > [knowledgeQA end]
