@@ -7,3 +7,4 @@ It is an attempt to use knowledge management methods to form the corpus. It incl
 * [Code Segments](https://github.com/ideamark/code_segments)
 * [Open Source Projects](open_source_projects.md)
 * [Online Tools](online_tools.md)
+* [Useful Softwares](useful_softwares.md)
