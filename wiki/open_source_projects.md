@@ -9,6 +9,8 @@
 ## 3D Printer
 * [RepRap - Wiki](https://reprap.org)
 * [Thingiverse - 3D files](https://www.thingiverse.com)
+* [Cura - 3D print tool](https://ultimaker.com/software/ultimaker-cura)
+* [Simple3D - 3D print tool](http://www.simple3d.com/)
 
 ## Open Source Hardware
 * [Arduino](https://www.arduino.cc)
