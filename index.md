@@ -1,7 +1,7 @@
 # Breadbot.Fun
 
 
-## Breadbot
+## Overview
 
 Breadbot is a new chatterbot framwork at experimental stage which is aimed to simplify the development of chatterbot.
 
@@ -24,7 +24,8 @@ Scan the QR code by WeChat and talk to Breadbot!
 
 Download all corpus from [here](https://github.com/ideamark/ideamark.github.io)
 
-## Seek more
+
+## Contact
 
 * Author: Mark Young (IdeaMark)
 * Email: ideamark@qq.com

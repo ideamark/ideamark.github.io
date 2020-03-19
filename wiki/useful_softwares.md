@@ -1,8 +1,13 @@
 # Useful Softwares
 
-## EasyBCD
+## Windows
+### EasyBCD
 * About: A free duel-booting tool
-* Platform: Windows
 * Download: https://easybcd.en.softonic.com/
-* Solution
- * Fix grub of windows
+* Solution: Fix grub of windows
+
+
+## iOS
+### AirDroid
+* About: file transfer
+* Solution: transfer files by Wi-Fi
