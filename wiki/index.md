@@ -6,6 +6,8 @@ It is an attempt to use knowledge management methods to form the corpus. It incl
 * [How to](howto/index.md)
 * [Code Segments](https://github.com/ideamark/code_segments)
 * [Open Source Projects](open_source_projects.md)
+
+## Tools
 * [Online Tools](online_tools.md)
-* [Windows Softwares](windows_softwares.md)
-* [iOS Apps](ios_apps.md)
+* [Windows Tools](windows_tools.md)
+* [iOS Tools](ios_tools.md)
