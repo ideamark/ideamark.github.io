@@ -1,4 +1,4 @@
-# How to
+# How
 
 * [Windows](windows.md)
 * [Linux](linux.md)

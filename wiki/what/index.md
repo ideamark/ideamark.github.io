@@ -1,4 +1,4 @@
-# What is
+# What
 
 * [Technology](technology.md)
 * [Life](life.md)

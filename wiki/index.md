@@ -1,9 +1,12 @@
 # Wiki
 
-It is an attempt to use knowledge management methods to form the corpus. It includes "what is" and "how to". And it is still under construction.
+An KM test page.
 
-* [What is](whatis/index.md)
-* [How to](howto/index.md)
+* [What](what/index.md)
+* [How](how/index.md)
+* [Why](why.md)
+
+## Resource
 * [Code Segments](https://github.com/ideamark/code_segments)
 * [Open Source Projects](open_source_projects.md)
 
