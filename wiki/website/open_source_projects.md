@@ -21,3 +21,9 @@
 * [100 Best Facebook Chatbot Groups](https://meta-guide.com/bots/chatbots/100-best-facebook-chatbot-groups)
 ### Non-open source chatbot
 * [Microsoft Bot Framework](https://dev.botframework.com)
+
+## Dashboard
+* [Grafana](https://grafana.com/docs/grafana/latest/)
+
+## Cloud Note
+* [Joplin](https://joplinapp.org)
