@@ -16,9 +16,8 @@ Scan the QR code by WeChat and talk to Breadbot!
 ![QR](QR.jpg)
 
 
-## Documents
+## Corpus
 
-* [Wiki](wiki/index.md)
 * [English corpus](en_corpus/index.md)
 * [Chinese corpus](zh_corpus/index.md)
 
